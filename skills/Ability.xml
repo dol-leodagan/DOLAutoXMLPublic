@@ -1,0 +1,2019 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDBAbility xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0181773Z</LastTimeRowUpdated>
+    <KeyName>Adrenaline Rush</KeyName>
+    <Name>Adrenaline Rush</Name>
+    <InternalID>168</InternalID>
+    <Description>Doubles the base melee damage for 20 seconds.</Description>
+    <IconID>3001</IconID>
+    <Implementation>DOL.GS.RealmAbilities.AdrenalineRushAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0181773Z</LastTimeRowUpdated>
+    <KeyName>Advanced Evade</KeyName>
+    <Name>Advanced Evade</Name>
+    <InternalID>49</InternalID>
+    <Description>Advanced Evade is a 360 degree evading defensive mechanism.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0181773Z</LastTimeRowUpdated>
+    <KeyName>Advanced Evade Ability</KeyName>
+    <Name>Advanced Evade Ability</Name>
+    <InternalID>49</InternalID>
+    <Description>This is a 360-degree evading defensive mechanism</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0181773Z</LastTimeRowUpdated>
+    <KeyName>AlbArmor</KeyName>
+    <Name>0|GenericArmor;1|Armor Ability: Cloth;2|Armor Ability: Leather;3|Armor Ability: Studded;4|Armor Ability: Chain;5|Armor Ability: Plate</Name>
+    <InternalID>1</InternalID>
+    <Description>Each class has access to at least one armor type. The different armors perform differently in terms of protection from and defense against enemy damage. Some classes have access to many different types of armor.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0181773Z</LastTimeRowUpdated>
+    <KeyName>Allure of Death</KeyName>
+    <Name>Allure of Death</Name>
+    <InternalID>286</InternalID>
+    <Description>Each class has access to at least one armor type. The different armors perform differently in terms of protection from and defense against enemy damage. Some classes have access to many different types of armor.</Description>
+    <IconID>3075</IconID>
+    <Implementation>DOL.GS.RealmAbilities.AllureOfDeathAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0181773Z</LastTimeRowUpdated>
+    <KeyName>Ameliorating Melodies</KeyName>
+    <Name>Ameliorating Melodies</Name>
+    <InternalID>203</InternalID>
+    <Description>Heals all members of the group (except the user) by the listed amount each tick for 30 seconds. (10 total ticks)</Description>
+    <IconID>3021</IconID>
+    <Implementation>DOL.GS.RealmAbilities.AmelioratingMelodiesAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0181773Z</LastTimeRowUpdated>
+    <KeyName>Anger of the Gods</KeyName>
+    <Name>Anger of the Gods</Name>
+    <InternalID>205</InternalID>
+    <Description>30 second group damage add that stacks with all other damage adds &amp; ignores caps. DPS bonus as listed.</Description>
+    <IconID>3022</IconID>
+    <Implementation>DOL.GS.RealmAbilities.AngerOfTheGodsAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Arms Length</KeyName>
+    <Name>Arms Length</Name>
+    <InternalID>262</InternalID>
+    <Description>10 second unbreakable burst of extreme speed.</Description>
+    <IconID>3057</IconID>
+    <Implementation>DOL.GS.RealmAbilities.ArmsLengthAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Arrow Summoning</KeyName>
+    <Name>Arrow Summoning</Name>
+    <InternalID>165</InternalID>
+    <Description>Summons 30 mystical footed flight broadhead arrows: 10 barbed, 10 keen, 10 blunt into the user's inventory. The arrows are not tradable and will disappear when a character logs out of the game.</Description>
+    <IconID>3083</IconID>
+    <Implementation>DOL.GS.RealmAbilities.ArrowSummoningAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Assassinate</KeyName>
+    <Name>Assassinate</Name>
+    <InternalID>240</InternalID>
+    <Description>The Assassin selects a target within a 750-unit range and spends 15 seconds, without moving, preparing the assassination attempt. The attempt will fail if the assassin takes any action during those 15 seconds, or if the target moves more than 750 units away from the target and the recast timer is not refunded. Once prepared, the next attack on that target by the assassin will not break stealth.</Description>
+    <IconID>3043</IconID>
+    <Implementation>DOL.GS.RealmAbilities.AssasinateAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Augmented Acuity</KeyName>
+    <Name>Augmented Acuity</Name>
+    <InternalID>194</InternalID>
+    <Description>Increases primary casting stat by the listed amount per level.</Description>
+    <IconID>0</IconID>
+    <Implementation>DOL.GS.RealmAbilities.RAAcuityEnhancer</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Augmented Constitution</KeyName>
+    <Name>Augmented Constitution</Name>
+    <InternalID>158</InternalID>
+    <Description>Increases Constitution by the listed amount per level.</Description>
+    <IconID>0</IconID>
+    <Implementation>DOL.GS.RealmAbilities.RAConstitutionEnhancer</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Augmented Dexterity</KeyName>
+    <Name>Augmented Dexterity</Name>
+    <InternalID>135</InternalID>
+    <Description>Increases Dexterity by the listed amount per level.</Description>
+    <IconID>0</IconID>
+    <Implementation>DOL.GS.RealmAbilities.RADexterityEnhancer</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Augmented Quickness</KeyName>
+    <Name>Augmented Quickness</Name>
+    <InternalID>174</InternalID>
+    <Description>Increases Quickness by the listed amount per level.</Description>
+    <IconID>0</IconID>
+    <Implementation>DOL.GS.RealmAbilities.RAQuicknessEnhancer</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Augmented Strength</KeyName>
+    <Name>Augmented Strength</Name>
+    <InternalID>129</InternalID>
+    <Description>Increases Strength by the listed amount per level.</Description>
+    <IconID>0</IconID>
+    <Implementation>DOL.GS.RealmAbilities.RAStrengthEnhancer</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Avoidance of Magic</KeyName>
+    <Name>Avoidance of Magic</Name>
+    <InternalID>136</InternalID>
+    <Description>Reduces all magic damage taken by the listed percentage. (This only works on damage. Does not work on disease, dots, or debuffs and does not affect the duration of crowd control spells)</Description>
+    <IconID>0</IconID>
+    <Implementation>DOL.GS.RealmAbilities.AvoidanceOfMagicAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Badge of Valor</KeyName>
+    <Name>Badge of Valor</Name>
+    <InternalID>260</InternalID>
+    <Description>Champion's melee damage for the next 20 seconds will be INCREASED by the targets armor-based ABS instead of decreased.</Description>
+    <IconID>3056</IconID>
+    <Implementation>DOL.GS.RealmAbilities.BadgeOfValorAbilityHandler</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Barrier of Fortitude</KeyName>
+    <Name>Barrier of Fortitude</Name>
+    <InternalID>195</InternalID>
+    <Description>Grants the group a melee absorption bonus based on the percentage listed. 30 second duration. (Does not stack with Soldier's Barricade or Bedazzling Aura.)</Description>
+    <IconID>3015</IconID>
+    <Implementation>DOL.GS.RealmAbilities.BarrierOfFortitudeAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Bedazzling Aura</KeyName>
+    <Name>Bedazzling Aura</Name>
+    <InternalID>221</InternalID>
+    <Description>Grants the group increased resistance to magical damage for 30 seconds by the percentage listed. (Does not stack with Soldier's Barricade or Barrier of Fortitude)</Description>
+    <IconID>3029</IconID>
+    <Implementation>DOL.GS.RealmAbilities.BedazzlingAuraAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Berserk</KeyName>
+    <Name>Berserk</Name>
+    <InternalID>29</InternalID>
+    <Description>This ability transforms the berserker into a vicious Vendo beast.  While in this form, each hit has a 100% chance to do critical damage, though this is done at the expense of any defensive abilities.</Description>
+    <IconID>479</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Blade Barrier</KeyName>
+    <Name>Blade Barrier</Name>
+    <InternalID>256</InternalID>
+    <Description>For 30 seconds the blademaster parries 90% of all melee attacks. The blademaster is unable to attack during this time. If the blademaster attempts a style while this effect is still up, it will cancel the effect.</Description>
+    <IconID>3054</IconID>
+    <Implementation>DOL.GS.RealmAbilities.BladeBarrierAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Blinding Dust</KeyName>
+    <Name>Blinding Dust</Name>
+    <InternalID>236</InternalID>
+    <Description>Insta-cast PBAE Attack that causes the enemy to have a 25% chance to fumble melee/bow attacks for the next 15 seconds.</Description>
+    <IconID>3039</IconID>
+    <Implementation>DOL.GS.RealmAbilities.BlindingDustAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Blissful Ignorance</KeyName>
+    <Name>Blissful Ignorance</Name>
+    <InternalID>278</InternalID>
+    <Description>Allows the Savage to fire all savagery buffs for a single round without paying any hit point penalty.</Description>
+    <IconID>3068</IconID>
+    <Implementation>DOL.GS.RealmAbilities.BlissfulIgnoranceAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Bodyguard</KeyName>
+    <Name>Bodyguard</Name>
+    <InternalID>64</InternalID>
+    <Description>Ability that protects a groupmate from enemy melee attack. Target of Bodyguard can't be attacked by melee until the bodyguard is killed or moves out of range. Target of Bodyguard must not be moving.</Description>
+    <IconID>7351</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Boiling Cauldron</KeyName>
+    <Name>Boiling Cauldron</Name>
+    <InternalID>302</InternalID>
+    <Description>Summons a large cauldron that boils in place for 5 seconds before spilling and doing damage to all those nearby.</Description>
+    <IconID>3085</IconID>
+    <Implementation>DOL.GS.RealmAbilities.BoilingCauldronAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Bolstering Roar</KeyName>
+    <Name>Bolstering Roar</Name>
+    <InternalID>335</InternalID>
+    <Description>A Point-Blank Area Effect attack with a 250 radius that breaks root, breakable snares and mesmerization effects on group members. If the tank is CC'd (other than root) they will have to purge themselves or wait for CC to wear off, then fire this. Re-usable every 10 minutes. </Description>
+    <IconID>974</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Call of Darkness</KeyName>
+    <Name>Call of Darkness</Name>
+    <InternalID>251</InternalID>
+    <Description>When active, the necromancer can summon a pet with only a 3 second cast time. The effect remains active for 15 minutes, or until a pet is summoned. </Description>
+    <IconID>3050</IconID>
+    <Implementation>DOL.GS.RealmAbilities.CallOfDarknessAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Calming Notes</KeyName>
+    <Name>Calming Notes</Name>
+    <InternalID>241</InternalID>
+    <Description>Insta-cast spell that mesmerizes all enemy pets within 750 radius for 30 seconds.</Description>
+    <IconID>3044</IconID>
+    <Implementation>DOL.GS.RealmAbilities.CalmingNotesAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Camouflage</KeyName>
+    <Name>Camouflage</Name>
+    <InternalID>48</InternalID>
+    <Description>Makes the archer undetectable to the Mastery of Stealth Realm Ability. Drawing a weapon or engaging in combat will cancel the effect and cause the player to be visible. This does not modify stealth skill and can be used only when the archer is stealthed.</Description>
+    <IconID>476</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>CCImmunity</KeyName>
+    <Name>CCImmunity</Name>
+    <InternalID>310</InternalID>
+    <Description>Crowd Control Immunity</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Chain</KeyName>
+    <Name>Armor Ability: Chain</Name>
+    <InternalID>1</InternalID>
+    <Description>Each class has access to at least one armor type. The different armors perform differently in terms of protection from and defense against enemy damage. Some classes have access to many different types of armor.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Chain Armor</KeyName>
+    <Name>Chain Armor</Name>
+    <InternalID>1</InternalID>
+    <Description>Each class has access to at least one armor type. The different armors perform differently in terms of protection from and defense against enemy damage. Some classes have access to many different types of armor.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Chain Lightning</KeyName>
+    <Name>Chain Lightning</Name>
+    <InternalID>275</InternalID>
+    <Description>Casts a lightning bolt at the enemy target and hits up to 5 targets (player or pet). If there is only one target available, the spell will hit once. If there are multiple targets, the spell has a chance to jump from target to target and back to the prior target. With each jump, the damage of the spell is reduced by 25%.</Description>
+    <IconID>3066</IconID>
+    <Implementation>DOL.GS.RealmAbilities.ChainLightningAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Charge</KeyName>
+    <Name>Charge</Name>
+    <InternalID>53</InternalID>
+    <Description>Grants unbreakable speed 3 for 15 second duration. Grants immunity to roots, stun, snare and mesmerize spells. Target will still take damage from snare/root spells that do damage.</Description>
+    <IconID>3034</IconID>
+    <Implementation>DOL.GS.RealmAbilities.ChargeAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Climb Walls</KeyName>
+    <Name>Climb Walls</Name>
+    <InternalID>45</InternalID>
+    <Description>Climbing points are available on keeps in certain locations. Having the Climbing ability means that player is capable of using the climb points to reach the inner courtyard of the keep.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Climbing Spikes</KeyName>
+    <Name>Climbing Spikes</Name>
+    <InternalID>342</InternalID>
+    <Description>Climbing points are available on keeps in certain locations. Having the Climbing ability means that player is capable of using the climb points to reach the inner courtyard of the keep.</Description>
+    <IconID>4135</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Cloth</KeyName>
+    <Name>Armor Ability: Cloth</Name>
+    <InternalID>1</InternalID>
+    <Description>Each class has access to at least one armor type. The different armors perform differently in terms of protection from and defense against enemy damage. Some classes have access to many different types of armor.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Cloth Armor</KeyName>
+    <Name>Cloth Armor</Name>
+    <InternalID>1</InternalID>
+    <Description>Each class has access to at least one armor type. The different armors perform differently in terms of protection from and defense against enemy damage. Some classes have access to many different types of armor.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Combat Awareness</KeyName>
+    <Name>Combat Awareness</Name>
+    <InternalID>296</InternalID>
+    <Description>The Hero gains a 360 degree 50% evade for 30 seconds, during which time the Hero's attack power is reduced by 50%. During this time, the Hero will also be snared by 50%.</Description>
+    <IconID>3090</IconID>
+    <Implementation>DOL.GS.RealmAbilities.CombatAwarenessAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Concentration</KeyName>
+    <Name>Concentration</Name>
+    <InternalID>176</InternalID>
+    <Description>Refreshes the timer on quick-cast allowing for a second quick-casted spell without the normal 30 second wait.</Description>
+    <IconID>3005</IconID>
+    <Implementation>DOL.GS.RealmAbilities.ConcentrationAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Critical Shot</KeyName>
+    <Name>Critical Shot %n Ability</Name>
+    <InternalID>142</InternalID>
+    <Description>Must be fired from stealth, very high damage, average range and average draw time.&lt;br&gt;&lt;br&gt;Target get 10sec 50% resistance against critical or power shots.&lt;br&gt;&lt;br&gt;Will bypass Bladeturn, but not break it; as well as bypassing Brittle Guards, Intercept, Guard and Block.</Description>
+    <IconID>413</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Danger Sense</KeyName>
+    <Name>Danger Sense</Name>
+    <InternalID>41</InternalID>
+    <Description>Notifies the player when they and their party have been spotted by scout mobs.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Dashing Defense</KeyName>
+    <Name>Dashing Defense</Name>
+    <InternalID>224</InternalID>
+    <Description>The tank can block and parry for all groupmates within a 1000 radius for the duration listed. Each attack only has the chance of being blocked/parried once, regardless of how many characters in a group have Dashing Defense active at one time.</Description>
+    <IconID>3032</IconID>
+    <Implementation>DOL.GS.RealmAbilities.DashingDefenseAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Decimation Trap</KeyName>
+    <Name>Decimation Trap</Name>
+    <InternalID>209</InternalID>
+    <Description>AE damage trap with 350 radius. Damage as listed. The trap lasts ten minutes or until detonated (whichever comes first). Energy based. 2 second non-interruptible cast time</Description>
+    <IconID>3025</IconID>
+    <Implementation>DOL.GS.RealmAbilities.DecimationTrapAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Defensive Combat Power Regeneration</KeyName>
+    <Name>Def. Combat Power Regen %n</Name>
+    <InternalID>69</InternalID>
+    <Description />
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Desperate Bowman</KeyName>
+    <Name>Desperate Bowman</Name>
+    <InternalID>150</InternalID>
+    <Description>This ability is used with a bow. Does 300 damage and a 5 second (non resistible) stun. Bow and melee cannot be used for 15 seconds afterwards.</Description>
+    <IconID>3060</IconID>
+    <Implementation>DOL.GS.RealmAbilities.DesperateBowmanAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Desperate Bowmen</KeyName>
+    <Name>Desperate Bowmen</Name>
+    <InternalID>267</InternalID>
+    <Description>This ability is used with a bow. Does 300 damage and a 5 second (non resistible) stun. Bow and melee cannot be used for 15 seconds afterwards.</Description>
+    <IconID>3060</IconID>
+    <Implementation>DOL.GS.RealmAbilities.DesperateBowmanAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Detect Hidden</KeyName>
+    <Name>Detect Hidden</Name>
+    <InternalID>42</InternalID>
+    <Description>Ability to detect hidden players at a range greater than the average charater.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Determination</KeyName>
+    <Name>Determination</Name>
+    <InternalID>163</InternalID>
+    <Description>Reduces the duration of all crowd control spells by the listed percentage. Effect is cumulative at each level increase.</Description>
+    <IconID>0</IconID>
+    <Implementation>DOL.GS.RealmAbilities.DeterminationAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Dirty Tricks</KeyName>
+    <Name>Dirty Tricks</Name>
+    <InternalID>204</InternalID>
+    <Description>The player will toss dirt into the face of the enemy, which causes his or her fumble rate to increase temporarily. It can be used once every seven minutes.</Description>
+    <IconID>478</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Distraction</KeyName>
+    <Name>Distraction Ability</Name>
+    <InternalID>40</InternalID>
+    <Description>Momentarily distracts the enemy, keeping them from noticing something you may be doing. </Description>
+    <IconID>411</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Divine Intervention</KeyName>
+    <Name>Divine Intervention</Name>
+    <InternalID>227</InternalID>
+    <Description>Gives the group a buff that provides a pool of healing. If anyone in the group takes damage inflicted through combat, they will be immediately healed from the healing pool. Pool size is based on the numbers listed. Does not heal the user. Buff Duration: 20 minutes</Description>
+    <IconID>3035</IconID>
+    <Implementation>DOL.GS.RealmAbilities.DivineInterventionAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Dreamweaver</KeyName>
+    <Name>Dreamweaver</Name>
+    <InternalID>252</InternalID>
+    <Description>Bard creates an illusion that makes himself or herself look like a different race and class for a 5 minute duration. The bard's instrument also takes the illusion of another weapon and no spell effects are shown when casting a spell.</Description>
+    <IconID>3051</IconID>
+    <Implementation>DOL.GS.RealmAbilities.DreamweaverAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Dual Threat</KeyName>
+    <Name>Dual Threat</Name>
+    <InternalID>225</InternalID>
+    <Description>Grants a bonus chance to critical hit on both melee and magic based attacks. Percentage chance as listed. (While this stacks with Wild Power and Mastery of Pain, please note that there is a 50% hard cap on the chance to crit.)</Description>
+    <IconID>0</IconID>
+    <Implementation>DOL.GS.RealmAbilities.DualThreatAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Enduring Poison</KeyName>
+    <Name>Enduring Poison</Name>
+    <InternalID>63</InternalID>
+    <Description>15% Chance poison won't be removed from weapon on a resist</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Engage</KeyName>
+    <Name>Engage Ability</Name>
+    <InternalID>38</InternalID>
+    <Description>Use of Endurance to significantly increase blocking rate. Engage can only be used at range or while closing to attack. Once an attack is initiated, it is disabled.</Description>
+    <IconID>421</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Enhanced Evade</KeyName>
+    <Name>Enhanced Evade</Name>
+    <InternalID>49</InternalID>
+    <Description>This is a 360-degree evading defensive mechanism</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Entwining Snakes</KeyName>
+    <Name>Entwining Snakes</Name>
+    <InternalID>282</InternalID>
+    <Description>Insta-cast spell that is PBAE 50% snare lasting 20 seconds with a 350 unit radius. Snare breaks on attack.</Description>
+    <IconID>3071</IconID>
+    <Implementation>DOL.GS.RealmAbilities.EntwiningSnakesAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Envenom</KeyName>
+    <Name>Envenom Ability</Name>
+    <InternalID>290</InternalID>
+    <Description>The ability to apply poisons to one's weapon.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Epiphany</KeyName>
+    <Name>Epiphany</Name>
+    <InternalID>273</InternalID>
+    <Description>25% Group power refresh. Skald must be out of combat to use. (group members may be in combat)</Description>
+    <IconID>3065</IconID>
+    <Implementation>DOL.GS.RealmAbilities.EpiphanyAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Ethereal Bond</KeyName>
+    <Name>Ethereal Bond</Name>
+    <InternalID>274</InternalID>
+    <Description>Increases power points by the listed amount.</Description>
+    <IconID>0</IconID>
+    <Implementation>DOL.GS.RealmAbilities.EtherealBondAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Evade</KeyName>
+    <Name>Evade %n Ability</Name>
+    <InternalID>6</InternalID>
+    <Description>The percent chance to dodge enemy swings. If the character?s class has access to the increased versions of this ability, it will progress naturally as they level.  Evasion is a frontal-arc ability and only works against attacks that are coming from the front.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Falcons Eye</KeyName>
+    <Name>Falcons Eye</Name>
+    <InternalID>162</InternalID>
+    <Description>Increases the chance of dealing a critical hit with archery by the listed percentage amount.</Description>
+    <IconID>0</IconID>
+    <Implementation>DOL.GS.RealmAbilities.FalconsEyeAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Fanaticism</KeyName>
+    <Name>Fanaticism</Name>
+    <InternalID>340</InternalID>
+    <Description>All Heretic groupmates who are able to bind at a keep or tower lord receive a reduction in all spell damage taken for 45 seconds.</Description>
+    <IconID>3087</IconID>
+    <Implementation>DOL.GS.RealmAbilities.FanatacismAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Ferocious Will</KeyName>
+    <Name>Ferocious Will</Name>
+    <InternalID>272</InternalID>
+    <Description>Gives the Berzerker an ABS buff of 25%. Lasts 30 seconds total.</Description>
+    <IconID>3064</IconID>
+    <Implementation>DOL.GS.RealmAbilities.FerociousWillAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>First Aid</KeyName>
+    <Name>First Aid</Name>
+    <InternalID>167</InternalID>
+    <Description>Heals the user by the listed percentage.</Description>
+    <IconID>3000</IconID>
+    <Implementation>DOL.GS.RealmAbilities.FirstAidAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Flurry</KeyName>
+    <Name>Flurry</Name>
+    <InternalID>258</InternalID>
+    <Description>An ability that gives the player an automatic hit on the enemy.  Flurry's damage is dependent on Dual Wield or Celtic Dual Wield specialization, with the higher specialization contributing more damage.  This is an RvR-only ability.</Description>
+    <IconID>477</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Fungal Union</KeyName>
+    <Name>Fungal Union</Name>
+    <InternalID>268</InternalID>
+    <Description>Turns the animist into a mushroom for 60 seconds. Does not break on attack. Grants the animist a 10% chance of not spending power for each spell cast during the duration.</Description>
+    <IconID>3061</IconID>
+    <Implementation>DOL.GS.RealmAbilities.FungalUnionAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Fury</KeyName>
+    <Name>Fury</Name>
+    <InternalID>336</InternalID>
+    <Description>A self-only shout which gives a 50% chance to deflect crowd control spells (similar to the RR5 Bonedancer ability), and increases resists to magic spells by 50% for 20 seconds. Re-usable every 15 minutes. </Description>
+    <IconID>2044</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Fury of Nature</KeyName>
+    <Name>Fury of Nature</Name>
+    <InternalID>254</InternalID>
+    <Description>Double style damage for 30 seconds. All damage done returns 100% to the group in spread heal form. (excluding the warden)</Description>
+    <IconID>3053</IconID>
+    <Implementation>DOL.GS.RealmAbilities.FuryOfNatureAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Gift of Perizor</KeyName>
+    <Name>Gift of Perizor</Name>
+    <InternalID>330</InternalID>
+    <Description>Reduces damage on all players in the user's group by 25% for 60 seconds. Damage reduced by this ability is returned to the user in power.</Description>
+    <IconID>3085</IconID>
+    <Implementation>DOL.GS.RealmAbilities.GiftOfPerizorAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Greatness</KeyName>
+    <Name>Greatness</Name>
+    <InternalID>62</InternalID>
+    <Description>Increases concentration pool by 20%.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Guard</KeyName>
+    <Name>Guard %n</Name>
+    <InternalID>8</InternalID>
+    <Description>To Guard is to assign oneself to protect another character and block incoming enemy blows to that person.</Description>
+    <IconID>412</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>HibArmor</KeyName>
+    <Name>0|GenericArmor;1|Armor Ability: Cloth;2|Armor Ability: Leather;3|Armor Ability: Reinforced;4|Armor Ability: Scale</Name>
+    <InternalID>1</InternalID>
+    <Description>Each class has access to at least one armor type. The different armors perform differently in terms of protection from and defense against enemy damage. Some classes have access to many different types of armor.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Ichor of the Deep</KeyName>
+    <Name>Ichor of the Deep</Name>
+    <InternalID>219</InternalID>
+    <Description>Spirit-based root plus direct damage spell. 1875 range with 500 radius. Damage and duration as listed. Two second non-interruptible cast time.</Description>
+    <IconID>3028</IconID>
+    <Implementation>DOL.GS.RealmAbilities.IchorOfTheDeepAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Ignore Pain</KeyName>
+    <Name>Ignore Pain</Name>
+    <InternalID>170</InternalID>
+    <Description>Heal that grants health equal to the percentage listed. Can be used when in combat.</Description>
+    <IconID>3003</IconID>
+    <Implementation>DOL.GS.RealmAbilities.IgnorePainAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Initiate of the Hunt</KeyName>
+    <Name>Initiate of the Hunt</Name>
+    <InternalID>46</InternalID>
+    <Description>This ability is Native to the Hero. He can shapeshift into a fearsome stag-headed Hunstman of Celtic Lore, once per 20 minutes, lasting 30 seconds. This level of Spirit of the Hunt grants a 20% hitpoint bonus.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Intercept</KeyName>
+    <Name>Intercept</Name>
+    <InternalID>9</InternalID>
+    <Description>Provides a player with the ability to "take one for the team." With this skill, the player may choose one person to Intercept and take the damage, without armor considerations, that would have hit the protected player.  The target must be within melee range.</Description>
+    <IconID>410</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Juggernaut</KeyName>
+    <Name>Juggernaut</Name>
+    <InternalID>222</InternalID>
+    <Description>Increases the effective level of the pet by the listed number of levels for 60 seconds. (capped at level 70)</Description>
+    <IconID>3030</IconID>
+    <Implementation>DOL.GS.RealmAbilities.JuggernautAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Leader of the Hunt</KeyName>
+    <Name>Leader of the Hunt</Name>
+    <InternalID>46</InternalID>
+    <Description>This level of Spirit of the Hunt grants a 40% hitpoint bonus.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Leather</KeyName>
+    <Name>Armor Ability: Leather</Name>
+    <InternalID>1</InternalID>
+    <Description>Each class has access to at least one armor type. The different armors perform differently in terms of protection from and defense against enemy damage. Some classes have access to many different types of armor.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Leather Armor</KeyName>
+    <Name>Leather Armor</Name>
+    <InternalID>1</InternalID>
+    <Description>Each class has access to at least one armor type. The different armors perform differently in terms of protection from and defense against enemy damage. Some classes have access to many different types of armor.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Lifter</KeyName>
+    <Name>Lifter</Name>
+    <InternalID>140</InternalID>
+    <Description>Increases the max encumbrance of the character and the speed at which the character can move rams they control by the listed percentage.</Description>
+    <IconID>0</IconID>
+    <Implementation>DOL.GS.RealmAbilities.LifterAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Long Wind</KeyName>
+    <Name>Long Wind</Name>
+    <InternalID>213</InternalID>
+    <Description>Decreases the amount of endurance taken per tick when sprinting, by the number listed.</Description>
+    <IconID>0</IconID>
+    <Implementation>DOL.GS.RealmAbilities.LongWindAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Lookout</KeyName>
+    <Name>Lookout</Name>
+    <InternalID>65</InternalID>
+    <Description>Target can't move, but any stealthed enemy moving within 350 bonus radius is exposed in shade form along with the watcher. Target of lookout must be sitting and not moving.</Description>
+    <IconID>7351</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Mark of Prey</KeyName>
+    <Name>Mark of Prey</Name>
+    <InternalID>297</InternalID>
+    <Description>Grants all members of the Vampiir's group a 30 second damage add that stacks with all other forms of damage add. All damage done via the damage add will be returned to the Vampiir as power.</Description>
+    <IconID>3089</IconID>
+    <Implementation>DOL.GS.RealmAbilities.MarkOfPreyAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Master of the Hunt</KeyName>
+    <Name>Master of the Hunt</Name>
+    <InternalID>46</InternalID>
+    <Description>This level of Spirit of the Hunt grants a 50% hitpoint bonus.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Mastery of Blocking</KeyName>
+    <Name>Mastery of Blocking</Name>
+    <InternalID>143</InternalID>
+    <Description>Increases chance to block by the listed percentage.</Description>
+    <IconID>0</IconID>
+    <Implementation>DOL.GS.RealmAbilities.MasteryOfBlocking</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Mastery of Concentration</KeyName>
+    <Name>Mastery of Concentration</Name>
+    <InternalID>178</InternalID>
+    <Description>Grants a 100% bonus to avoid being interrupted by any form of attack when casting a spell. The effect of the spell cast will be reduced to the percentages listed. (Necro version transfers to the pet)</Description>
+    <IconID>3006</IconID>
+    <Implementation>DOL.GS.RealmAbilities.MasteryofConcentrationAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Mastery of Focus</KeyName>
+    <Name>Mastery of Focus</Name>
+    <InternalID>164</InternalID>
+    <Description>Increases the level of all spells cast by the listed amount for out-right resistance purposes. (caps at level 50)</Description>
+    <IconID>0</IconID>
+    <Implementation>DOL.GS.RealmAbilities.MasteryOfFocusAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Mastery of Healing</KeyName>
+    <Name>Mastery of Healing</Name>
+    <InternalID>159</InternalID>
+    <Description>Increases the effectiveness of healing spells by the listed percentage.</Description>
+    <IconID>0</IconID>
+    <Implementation>DOL.GS.RealmAbilities.MasteryOfHealingAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Mastery of Magery</KeyName>
+    <Name>Mastery of Magery</Name>
+    <InternalID>161</InternalID>
+    <Description>Additional effectiveness of magical damage by listed percentage.</Description>
+    <IconID>0</IconID>
+    <Implementation>DOL.GS.RealmAbilities.MasteryOfMageryAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Mastery of Pain</KeyName>
+    <Name>Mastery of Pain</Name>
+    <InternalID>146</InternalID>
+    <Description>Increases chance to deal a critical hit in melee per listed percentage. (Passes on to Necro Pets)</Description>
+    <IconID>0</IconID>
+    <Implementation>DOL.GS.RealmAbilities.MasteryOfPain</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Mastery of Parrying</KeyName>
+    <Name>Mastery of Parrying</Name>
+    <InternalID>144</InternalID>
+    <Description>Increases chance to parry by the listed percentage.</Description>
+    <IconID>0</IconID>
+    <Implementation>DOL.GS.RealmAbilities.MasteryOfParrying</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Mastery of Stealth</KeyName>
+    <Name>Mastery of Stealth</Name>
+    <InternalID>151</InternalID>
+    <Description>Modifies stealth detection and stealth movement. Camouflage counters the Mastery of Stealth bonus, allowing an archer to only be seen at the normal range. Doesn't affect detect hidden classes when they are detecting other detect hidden classes. (Meaning it has no affect on assassins detecting assassins.)</Description>
+    <IconID>0</IconID>
+    <Implementation>DOL.GS.RealmAbilities.MasteryOfStealthAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Member of the Hunt</KeyName>
+    <Name>Member of the Hunt</Name>
+    <InternalID>46</InternalID>
+    <Description>This level of Spirit of the Hunt grants a 30% hitpoint bonus.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Memories of War</KeyName>
+    <Name>Memories of War %n</Name>
+    <InternalID>331</InternalID>
+    <Description>Upon reaching level 41, the Hero, Warrior and Armsman will begin to gain more magic resistance (spell damage reduction only) as they progress towards level 50. At each level beyond 41 they gain 2%-3% extra resistance per level. At level 50, they will have the full 15% benefit.</Description>
+    <IconID>0</IconID>
+    <Implementation>DOL.GS.SkillHandler.MemoriesOfWar</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Metal Guard</KeyName>
+    <Name>Metal Guard</Name>
+    <InternalID>337</InternalID>
+    <Description>A group buff which increases the ABS of group members by 3% excluding the caster of the buff. If there are multiple casters of this buff within the group, then this will stack up to a maximum of 9%. Other players can receive the benefit of this buff, but the caster of this buff cannot so it is possible for another heavy tank to have a bonus to his ABS if another heavy tank joins the group and casts this buff. Duration 20 minutes.</Description>
+    <IconID>2779</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>MidArmor</KeyName>
+    <Name>0|GenericArmor;1|Armor Ability: Cloth;2|Armor Ability: Leather;3|Armor Ability: Studded;4|Armor Ability: Chain</Name>
+    <InternalID>1</InternalID>
+    <Description>Each class has access to at least one armor type. The different armors perform differently in terms of protection from and defense against enemy damage. Some classes have access to many different types of armor.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Minion Rescue</KeyName>
+    <Name>Minion Rescue</Name>
+    <InternalID>249</InternalID>
+    <Description>2 second cast (non-interruptible) PBAE that summons 1 level 50 fire elemental for every enemy within 500 radius. (max 8) Pets have 50 hit points, but proc a 3 second stun (duration unaffected by resists). The fire elementals have a max durations of 6 seconds.</Description>
+    <IconID>3048</IconID>
+    <Implementation>DOL.GS.RealmAbilities.MinionRescueAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Mystic Crystal Lore</KeyName>
+    <Name>Mystic Crystal Lore</Name>
+    <InternalID>184</InternalID>
+    <Description>Grants a refresh of power based on the percentages listed. Cannot be used when in combat.</Description>
+    <IconID>3008</IconID>
+    <Implementation>DOL.GS.RealmAbilities.MysticCrystalLoreAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Natures Womb</KeyName>
+    <Name>Natures Womb</Name>
+    <InternalID>253</InternalID>
+    <Description>Insta-cast spell that stuns the druid for 5 seconds and converts all damage taken into healing.</Description>
+    <IconID>3052</IconID>
+    <Implementation>DOL.GS.RealmAbilities.NaturesWombAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Nature's Womb</KeyName>
+    <Name>Nature's Womb</Name>
+    <InternalID>230</InternalID>
+    <Description>Insta-cast spell that stuns the druid for 5 seconds and converts all damage taken into healing.</Description>
+    <IconID>3052</IconID>
+    <Implementation>DOL.GS.RealmAbilities.NaturesWombAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Negative Maelstrom</KeyName>
+    <Name>Negative Maelstrom</Name>
+    <InternalID>214</InternalID>
+    <Description>A 2 second non-interruptible cast time cold based pulsing GTAE storm with 350 radius. Ground target range is 1500. The damage of the storm grows with each pulse.</Description>
+    <IconID>3026</IconID>
+    <Implementation>DOL.GS.RealmAbilities.NegativeMaelstromAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Offensive Combat Power Regeneration</KeyName>
+    <Name>Off. Combat Power Regen %n</Name>
+    <InternalID>70</InternalID>
+    <Description />
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Parry</KeyName>
+    <Name>Parry Ability</Name>
+    <InternalID>343</InternalID>
+    <Description>Grant a base ability to parry your opponent physical attacks at 5% rate.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Penetrating Arrow</KeyName>
+    <Name>Penetrating Arrow %n</Name>
+    <InternalID>200</InternalID>
+    <Description>Chance to penetrate bladeturn at 30 Archery for 50% damage.  40 Archery for 75% damage. 50 Archery for 100% damage.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Perfect Recovery</KeyName>
+    <Name>Perfect Recovery</Name>
+    <InternalID>197</InternalID>
+    <Description>Instantly resurrects the target with no res effects with the listed amount of health and power.</Description>
+    <IconID>3018</IconID>
+    <Implementation>DOL.GS.RealmAbilities.PerfectRecoveryAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Physical Defense</KeyName>
+    <Name>Physical Defense</Name>
+    <InternalID>231</InternalID>
+    <Description>Reduces all physical damage taken by the listed percentage.</Description>
+    <IconID>0</IconID>
+    <Implementation>DOL.GS.RealmAbilities.PhysicalDefenceAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Pickpocket</KeyName>
+    <Name>Pickpocket</Name>
+    <InternalID>56</InternalID>
+    <Description>20% Bonus to PvE Coin</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Plate</KeyName>
+    <Name>Armor Ability: Plate</Name>
+    <InternalID>1</InternalID>
+    <Description>Each class has access to at least one armor type. The different armors perform differently in terms of protection from and defense against enemy damage. Some classes have access to many different types of armor.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Plate Armor</KeyName>
+    <Name>Plate Armor</Name>
+    <InternalID>1</InternalID>
+    <Description>Each class has access to at least one armor type. The different armors perform differently in terms of protection from and defense against enemy damage. Some classes have access to many different types of armor.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Prevent Flight</KeyName>
+    <Name>Prevent Flight Ability</Name>
+    <InternalID>245</InternalID>
+    <Description>With each hit there is a 10% chance of proccing a 25% snare. The target must be moving and in front of the player.</Description>
+    <IconID>3082</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Protect</KeyName>
+    <Name>Protect</Name>
+    <InternalID>7</InternalID>
+    <Description>An ability useable on a member of your group. This allows you to reduce some aggression generated by that player.</Description>
+    <IconID>411</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Purge</KeyName>
+    <Name>Purge</Name>
+    <InternalID>188</InternalID>
+    <Description>Removes all negative effects but leaves any applicable immunity timers in place. Level 1 purge is on a 15 minute timer but has a 5 second delay. Level 2 is on the same timer but has no delay. Level 3 is on a 5 minute timer and has no delay.</Description>
+    <IconID>3010</IconID>
+    <Implementation>DOL.GS.RealmAbilities.PurgeAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>QuickCast</KeyName>
+    <Name>Quickcast</Name>
+    <InternalID>3</InternalID>
+    <Description>Allows spell caster to cast a single spell at twice the power cost to make it so that it cannot be interrupted by melee or spells. The only exception to this is the Necromancer form of Quickcast (Facilitate Painworking). It allows the Necromancer's summoned undead pet to have six seconds of uninterrupted casting time.</Description>
+    <IconID>400</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Raging Power</KeyName>
+    <Name>Raging Power</Name>
+    <InternalID>187</InternalID>
+    <Description>Grants a refresh of power based on the percentages listed. Can be used when in combat.</Description>
+    <IconID>3009</IconID>
+    <Implementation>DOL.GS.RealmAbilities.RagingPowerAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Rampage</KeyName>
+    <Name>Rampage</Name>
+    <InternalID>338</InternalID>
+    <Description>A group shout which increases the chance to resist debuffs by 35%. Lasts for 20 seconds. Re-usable every 5 minutes. </Description>
+    <IconID>2384</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Rapid Fire</KeyName>
+    <Name>Rapid Fire %n</Name>
+    <InternalID>313</InternalID>
+    <Description>Release shot early; Damage % equal to Timer %</Description>
+    <IconID>484</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Reflex Attack</KeyName>
+    <Name>Reflex Attack</Name>
+    <InternalID>189</InternalID>
+    <Description>Gives a chance to automatically counter-attack with an unstyled swing (or a swing from each hand in the case of duel wielding classes) anytime a hit is taken. Works against attacks from all 360 degrees with the chance based on the percentages listed.</Description>
+    <IconID>3011</IconID>
+    <Implementation>DOL.GS.RealmAbilities.ReflexAttackAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Reinforced</KeyName>
+    <Name>Armor Ability: Reinforced</Name>
+    <InternalID>1</InternalID>
+    <Description>Each class has access to at least one armor type. The different armors perform differently in terms of protection from and defense against enemy damage. Some classes have access to many different types of armor.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Reinforced Armor</KeyName>
+    <Name>Reinforced Armor</Name>
+    <InternalID>1</InternalID>
+    <Description>Each class has access to at least one armor type. The different armors perform differently in terms of protection from and defense against enemy damage. Some classes have access to many different types of armor.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Remedy</KeyName>
+    <Name>Remedy</Name>
+    <InternalID>265</InternalID>
+    <Description>Assassin ingests poison that costs 10% life but grants poison immunity (from weapons only)for 60 seconds. Can be activated while stealthed without breaking stealth. HP loss is returned when the duration is up. Available to Infiltrators, Nightshades, and Shadowblades at RR5.</Description>
+    <IconID>3059</IconID>
+    <Implementation>DOL.GS.RealmAbilities.RemedyAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Resolute Minion</KeyName>
+    <Name>Resolute Minion</Name>
+    <InternalID>247</InternalID>
+    <Description>Pet is immune to all forms of Crowd Control for 60 seconds. Will not purge any CC that already exists on the pet. </Description>
+    <IconID>3046</IconID>
+    <Implementation>DOL.GS.RealmAbilities.ResoluteMinionAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Restorative Mend</KeyName>
+    <Name>Restorative Mend</Name>
+    <InternalID>280</InternalID>
+    <Description>Group Frigg that heals health, power, and endurance over 30 seconds for a total of 50%. (5% is granted every 3 seconds regardless of combat state)</Description>
+    <IconID>3070</IconID>
+    <Implementation>DOL.GS.RealmAbilities.RestorativeMindAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Retribution of the Faithful</KeyName>
+    <Name>Retribution of the Faithful</Name>
+    <InternalID>238</InternalID>
+    <Description>30 second buff that has a 50% chance to proc a 3 second (duration undiminished by resists) stun on any melee attack on the cleric.</Description>
+    <IconID>3041</IconID>
+    <Implementation>DOL.GS.RealmAbilities.RetributionOfTheFaithfulAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Rune of Utter Agility</KeyName>
+    <Name>Rune of Utter Agility</Name>
+    <InternalID>284</InternalID>
+    <Description>Runemaster gets a 90% chance to evade all melee attacks (regardless of direction) for 15 seconds.</Description>
+    <IconID>3073</IconID>
+    <Implementation>DOL.GS.RealmAbilities.RuneOfUtterAgilityAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Sabotage</KeyName>
+    <Name>Sabotage</Name>
+    <InternalID>61</InternalID>
+    <Description>Short range ability that destroys a targeted ward or siege equipment.</Description>
+    <IconID>7279</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Safe Fall</KeyName>
+    <Name>Safe Fall</Name>
+    <InternalID>43</InternalID>
+    <Description>A player may drop from greater heights, taking less damage as this skill increases.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Scale</KeyName>
+    <Name>Armor Ability: Scale</Name>
+    <InternalID>1</InternalID>
+    <Description>Each class has access to at least one armor type. The different armors perform differently in terms of protection from and defense against enemy damage. Some classes have access to many different types of armor.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Scale Armor</KeyName>
+    <Name>Scale Armor</Name>
+    <InternalID>1</InternalID>
+    <Description>Each class has access to at least one armor type. The different armors perform differently in terms of protection from and defense against enemy damage. Some classes have access to many different types of armor.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Scars of Battle</KeyName>
+    <Name>Scars of Battle</Name>
+    <InternalID>332</InternalID>
+    <Description>Upon reaching level 41, the Hero, Warrior and Armsman will begin to gain more hitpoints as they progress towards level 50. At each level beyond 41 they gain 1% extra Hit points per level. At level 50, they will have the full 10% benefit.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Searing Pet</KeyName>
+    <Name>Searing Pet</Name>
+    <InternalID>270</InternalID>
+    <Description>Causes the pet to cast a PBAE DoT that ticks for 6 times for 25 points of damage per tick.</Description>
+    <IconID>3063</IconID>
+    <Implementation>DOL.GS.RealmAbilities.SearingPetAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Second Wind</KeyName>
+    <Name>Second Wind</Name>
+    <InternalID>169</InternalID>
+    <Description>Restores 100% of the user's endurance.</Description>
+    <IconID>3002</IconID>
+    <Implementation>DOL.GS.RealmAbilities.SecondWindAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Selective Blindness</KeyName>
+    <Name>Selective Blindness</Name>
+    <InternalID>264</InternalID>
+    <Description>When cast on an enemy player or pet, this debuff will prevent that player or pet from being able to attack the mentalist for 20 seconds. 1500 range, 150 radius. 2s uninterrupted cast. The blindness will drop on any target the Mentalist attacks.</Description>
+    <IconID>3058</IconID>
+    <Implementation>DOL.GS.RealmAbilities.SelectiveBlindnessAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Selfless Devotion</KeyName>
+    <Name>Selfless Devotion</Name>
+    <InternalID>235</InternalID>
+    <Description>Debuffs the user's stats by 25%. Once debuffed, the Paladin will pulse a 300 point group heal with a 750 unit range every 3-seconds for 15-seconds total. </Description>
+    <IconID>3038</IconID>
+    <Implementation>DOL.GS.RealmAbilities.SelflessDevotionAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Serenity</KeyName>
+    <Name>Serenity</Name>
+    <InternalID>246</InternalID>
+    <Description>Adds to the amount of power regenerated over time.</Description>
+    <IconID>0</IconID>
+    <Implementation>DOL.GS.RealmAbilities.SerenityAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Shadow Strike</KeyName>
+    <Name>Shadow Strike</Name>
+    <InternalID>283</InternalID>
+    <Description>The Assassin takes 10 seconds to disappear in the shadows. Once in the shadows the Assassin will automatically teleport to and perform perforate artery to any enemy they choose within 1000 radius. This ability cannot be used to enter a locked keep or tower.</Description>
+    <IconID>3072</IconID>
+    <Implementation>DOL.GS.RealmAbilities.ShadowStrikeAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Shield</KeyName>
+    <Name>1|Shield Ability: Small Shields;2|Shield Ability: Medium Shields;3|Shield Ability: Large Shields</Name>
+    <InternalID>2</InternalID>
+    <Description>An independent line of defense, which can be raised through training to gain special shield attacks.  The larger the shield, the more protection it provides</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Shield Ability: Large Shields</KeyName>
+    <Name>Shield Ability: Large Shields</Name>
+    <InternalID>2</InternalID>
+    <Description>An independent line of defense, which can be raised through training to gain special shield attacks.  The larger the shield, the more protection it provides</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Shield Ability: Medium Shields</KeyName>
+    <Name>Shield Ability: Medium Shields</Name>
+    <InternalID>2</InternalID>
+    <Description>An independent line of defense, which can be raised through training to gain special shield attacks.  The larger the shield, the more protection it provides</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Shield Ability: Small Shields</KeyName>
+    <Name>Shield Ability: Small Shields</Name>
+    <InternalID>2</InternalID>
+    <Description>An independent line of defense, which can be raised through training to gain special shield attacks.  The larger the shield, the more protection it provides</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Shield of Immunity</KeyName>
+    <Name>Shield of Immunity</Name>
+    <InternalID>248</InternalID>
+    <Description>Shield that absorbs 90% melee/archer damage for 20 seconds.</Description>
+    <IconID>3047</IconID>
+    <Implementation>DOL.GS.RealmAbilities.ShieldOfImmunityAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Shield Trip</KeyName>
+    <Name>Shield Trip</Name>
+    <InternalID>242</InternalID>
+    <Description>Throws shield at target, rooting them in place for 10 seconds (undiminished by resists). Scout cannot attack for 15 seconds afterwards.</Description>
+    <IconID>3045</IconID>
+    <Implementation>DOL.GS.RealmAbilities.ShieldTripAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Short Bows</KeyName>
+    <Name>Short Bows</Name>
+    <InternalID>17</InternalID>
+    <Description>The ability to use short bows of all kinds in all realms.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Siege Master</KeyName>
+    <Name>Siege Master</Name>
+    <InternalID>57</InternalID>
+    <Description>Reduces All siege times (load/aim/fire) by 30%</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Soldiers Barricade</KeyName>
+    <Name>Soldiers Barricade</Name>
+    <InternalID>191</InternalID>
+    <Description>Grants the group an absorption bonus to all forms of damage based on the percentages listed. 30 Second duration. (Does not stack with Barrier of Fortitude or Bedazzling Aura)</Description>
+    <IconID>3014</IconID>
+    <Implementation>DOL.GS.RealmAbilities.SoldiersBarricadeAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Soldier's Citadel</KeyName>
+    <Name>Soldier's Citadel</Name>
+    <InternalID>333</InternalID>
+    <Description>This ability grants a 50% bonus to parry and block rates for the Armsman for 30 seconds, but -10% bloc/parry rates for 15 seconds after.</Description>
+    <IconID>3091</IconID>
+    <Implementation>DOL.GS.RealmAbilities.SoldiersCitadelAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Sonic Barrier</KeyName>
+    <Name>Sonic Barrier</Name>
+    <InternalID>334</InternalID>
+    <Description>Grants a refresh of power based on the percentages listed. Cannot be used when in combat.</Description>
+    <IconID>3088</IconID>
+    <Implementation>DOL.GS.RealmAbilities.SonicBarrierAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Soul Quench</KeyName>
+    <Name>Soul Quench</Name>
+    <InternalID>237</InternalID>
+    <Description>Insta-PBAE attack that drains 250 points (modified up or down by the Reavers SR level) from all nearby enemies and returns 75% to the Reaver.</Description>
+    <IconID>3040</IconID>
+    <Implementation>DOL.GS.RealmAbilities.SoulQuenchAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Speed of Sound</KeyName>
+    <Name>Speed of Sound</Name>
+    <InternalID>202</InternalID>
+    <Description>Group ability that allows unstoppable speed 4 movement for the listed duration. Gives immunity to stun/snare/root and mesmerize spells. If the spell has a damage component, the target will take damage but be immune to the stun/snare/root or mesmerize. It breaks with any action taken except healing. (Will be negated by speedwarp.)</Description>
+    <IconID>3020</IconID>
+    <Implementation>DOL.GS.RealmAbilities.SpeedOfSoundAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Spirit Martyr</KeyName>
+    <Name>Spirit Martyr</Name>
+    <InternalID>285</InternalID>
+    <Description>SM sacrifices pet in exchange for heal to all in group. Amount healed is dependant on the health of the pet at the time of release. 3200 total healing pool for a full health pet. Max of 600 hit points per any group member.</Description>
+    <IconID>3074</IconID>
+    <Implementation>DOL.GS.RealmAbilities.SpiritMartyrAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Sprint</KeyName>
+    <Name>Sprint</Name>
+    <InternalID>4</InternalID>
+    <Description>This is a base ability available to all players at level one. Sprint provides players with a means of quick getaway from dangerous situations. Players can sprint as long as they have endurance. Endurance is drained as the player is in "sprint mode."</Description>
+    <IconID>409</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Sputins Legacy</KeyName>
+    <Name>Sputins Legacy</Name>
+    <InternalID>279</InternalID>
+    <Description>Healer can insta-cast a resurrect buff on themselves. Buff lasts 30 seconds. If the healer dies while buff is up, they have the option to /resurrect themselves anytime within 10 minutes after death with 10% H/E/P. The healer must wait 10 seconds before /resurrecting themselves.</Description>
+    <IconID>3069</IconID>
+    <Implementation>DOL.GS.RealmAbilities.SputinsLegacyAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Sputin's Legacy</KeyName>
+    <Name>Sputin's Legacy</Name>
+    <InternalID>145</InternalID>
+    <Description>Healer can insta-cast a resurrect buff on themselves. Buff lasts 30 seconds. If the healer dies while buff is up, they have the option to /resurrect themselves anytime within 10 minutes after death with 10% H/E/P. The healer must wait 10 seconds before /resurrecting themselves.</Description>
+    <IconID>3069</IconID>
+    <Implementation>DOL.GS.RealmAbilities.SputinsLegacyAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Stag</KeyName>
+    <Name>Stag %n</Name>
+    <InternalID>130</InternalID>
+    <Description>Whenever this ability is used, the Hero will shapeshift into a fearsome stag-headed Huntsman from Celtic Lore, and will receive bonus hit points. There are four different levels of of this ability: Initiate(15th level), Member(25th level), Leader(35th level), and Master(45th level). While in this form, the hero has increased hit points - +20% for the 15th level ability up to +50% for the 45th level ability. The ability lasts for thirty seconds - at the end of this time, the hero's maximum hits will return to normal, but he keeps any hit point gain from the ability in his current hits.</Description>
+    <IconID>480</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Static Tempest</KeyName>
+    <Name>Static Tempest</Name>
+    <InternalID>223</InternalID>
+    <Description>Delivers a 360 radius targeted storm that procs a 3 second unresistible stun every 5 seconds for the duration listed.</Description>
+    <IconID>3031</IconID>
+    <Implementation>DOL.GS.RealmAbilities.StaticTempestAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Stealth</KeyName>
+    <Name>Stealth</Name>
+    <InternalID>294</InternalID>
+    <Description>Stealth hides players from enemies. Realm-mates will see stealthed players as "ghost-like? figures. Stealth must be trained up in order to gain any extra stealth-based abilities. The higher a character trains in Stealth, the less chance they have of being detected by the enemy.</Description>
+    <IconID>403</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Stoicism</KeyName>
+    <Name>Stoicism</Name>
+    <InternalID>291</InternalID>
+    <Description>Reduces the duration of all forms of crowd control by 25%. It stacks with Determination.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0191774Z</LastTimeRowUpdated>
+    <KeyName>Strike Prediction</KeyName>
+    <Name>Strike Prediction</Name>
+    <InternalID>232</InternalID>
+    <Description>Grants all group members a chance to evade all melee and arrow attacks for 30 seconds. This does not stack with any other chance to evade and will only benefit classes with no or very low chances of evading.</Description>
+    <IconID>3036</IconID>
+    <Implementation>DOL.GS.RealmAbilities.StrikePredictionAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Studded</KeyName>
+    <Name>Armor Ability: Studded</Name>
+    <InternalID>1</InternalID>
+    <Description>Each class has access to at least one armor type. The different armors perform differently in terms of protection from and defense against enemy damage. Some classes have access to many different types of armor.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Studded Armor</KeyName>
+    <Name>Studded Armor</Name>
+    <InternalID>1</InternalID>
+    <Description>Each class has access to at least one armor type. The different armors perform differently in terms of protection from and defense against enemy damage. Some classes have access to many different types of armor.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Sure Shot</KeyName>
+    <Name>Sure Shot</Name>
+    <InternalID>66</InternalID>
+    <Description>Ability that allows the user to not be interupted</Description>
+    <IconID>485</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Tactics</KeyName>
+    <Name>Tactics</Name>
+    <InternalID>257</InternalID>
+    <Description>ncreases groups ability to block/parry/evade by 10% for 30 seconds.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Taunting Shout</KeyName>
+    <Name>Taunting Shout</Name>
+    <InternalID>339</InternalID>
+    <Description>A frontal cone taunt that causes mobs to turn and fight the tank or at least increase the hate amount towards the tank. Re-usable every 20 seconds </Description>
+    <IconID>3464</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Testudo</KeyName>
+    <Name>Testudo</Name>
+    <InternalID>277</InternalID>
+    <Description>Warrior with shield equipped covers up and takes 90% less damage for all attacks for 45 seconds. Can only move at reduced speed (speed buffs have no effect) and cannot attack. Using a style will break testudo form. This ability is only effective versus realm enemies.</Description>
+    <IconID>3067</IconID>
+    <Implementation>DOL.GS.RealmAbilities.TestudoAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>The Empty Mind</KeyName>
+    <Name>The Empty Mind</Name>
+    <InternalID>181</InternalID>
+    <Description>Grants the user 45 seconds of increased resistances to all magical damage by the percentage listed. This only works on damage and does not affect the duration of crowd control spell. (Necro version transfers to pet)</Description>
+    <IconID>3007</IconID>
+    <Implementation>DOL.GS.RealmAbilities.TheEmptyMindAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Thornweed Field</KeyName>
+    <Name>Thornweed Field</Name>
+    <InternalID>215</InternalID>
+    <Description>Creates a field of thorns that damage and snare all enemies caught within. 500 radius. Essence Damage. Pulses every 3 seconds. 2 second non-interruptible cast time. 1500 range</Description>
+    <IconID>3027</IconID>
+    <Implementation>DOL.GS.RealmAbilities.ThornweedFieldAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Tireless</KeyName>
+    <Name>Tireless</Name>
+    <InternalID>212</InternalID>
+    <Description>This gives a bonus of one endurance regeneration per tick. This does not stack with any other form of endurance regeneration.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Toughness</KeyName>
+    <Name>Toughness</Name>
+    <InternalID>259</InternalID>
+    <Description>Increases hit points by the listed amount.</Description>
+    <IconID>0</IconID>
+    <Implementation>DOL.GS.RealmAbilities.ToughnessAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Triple Wield</KeyName>
+    <Name>Triple Wield</Name>
+    <InternalID>192</InternalID>
+    <Description>Unique to Blademasters, this is a magical third blade that can be summoned to do extra damage each attack for a short period of time.</Description>
+    <IconID>475</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Trueshot</KeyName>
+    <Name>Trueshot %n</Name>
+    <InternalID>175</InternalID>
+    <Description>Grants a 50% range bonus to the next arrow fired. This arrow will penetrate and pop blade turn.</Description>
+    <IconID>3004</IconID>
+    <Implementation>DOL.GS.RealmAbilities.TrueshotAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Unburdened Warrior</KeyName>
+    <Name>Unburdened Warrior</Name>
+    <InternalID>58</InternalID>
+    <Description>25% bonus to Encumbrance.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Vale Defense</KeyName>
+    <Name>Vale Defense</Name>
+    <InternalID>269</InternalID>
+    <Description>Gives the group a 500 point 50% ablative that lasts for 10 minutes or until depleted.</Description>
+    <IconID>3062</IconID>
+    <Implementation>DOL.GS.RealmAbilities.ValeDefenseAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Valhalla's Blessing</KeyName>
+    <Name>Valhalla's Blessing</Name>
+    <InternalID>193</InternalID>
+    <Description>Each spell and style used by group members has a chance of not costing power or endurance for 30 seconds.</Description>
+    <IconID>3086</IconID>
+    <Implementation>DOL.GS.RealmAbilities.ValhallasBlessingAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Vampiir Bolt</KeyName>
+    <Name>Vampiir Bolt</Name>
+    <InternalID>341</InternalID>
+    <Description>This is an instant-cast bolt that drains power from target and gives power to the Vampiir.</Description>
+    <IconID>3294</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Vampiir Constitution</KeyName>
+    <Name>Vampiir Constitution</Name>
+    <InternalID>155</InternalID>
+    <Description>Vampiirs get an increase to their stats every three levels starting at level six.</Description>
+    <IconID>0</IconID>
+    <Implementation>DOL.GS.SkillHandler.VampiirConstitution</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Vampiir Dexterity</KeyName>
+    <Name>Vampiir Dexterity</Name>
+    <InternalID>154</InternalID>
+    <Description>Vampiirs get an increase to their stats every three levels starting at level six.</Description>
+    <IconID>0</IconID>
+    <Implementation>DOL.GS.SkillHandler.VampiirDexterity</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Vampiir Quickness</KeyName>
+    <Name>Vampiir Quickness</Name>
+    <InternalID>153</InternalID>
+    <Description>Vampiirs get an increase to their stats every three levels starting at level six.</Description>
+    <IconID>0</IconID>
+    <Implementation>DOL.GS.SkillHandler.VampiirQuickness</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Vampiir Strength</KeyName>
+    <Name>Vampiir Strength</Name>
+    <InternalID>152</InternalID>
+    <Description>Vampiirs get an increase to their stats every three levels starting at level six.</Description>
+    <IconID>0</IconID>
+    <Implementation>DOL.GS.SkillHandler.VampiirStrength</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Vanish</KeyName>
+    <Name>Vanish</Name>
+    <InternalID>199</InternalID>
+    <Description>Provides the stealther with super stealth, which can not be broken. Also will purge DoTs and Bleeds and provides immunity to crowd control. This ability lasts for 1 to 5 seconds depending on level of Vanish. The stealther also receives an increase in movement speed as listed. A stealther can not attack for 30 seconds after using this ability.</Description>
+    <IconID>3019</IconID>
+    <Implementation>DOL.GS.RealmAbilities.VanishAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Vehement Renewal</KeyName>
+    <Name>Vehement Renewal</Name>
+    <InternalID>196</InternalID>
+    <Description>Instantly heals all group members (except the user) within 2000 range for the amount listed.</Description>
+    <IconID>3016</IconID>
+    <Implementation>DOL.GS.RealmAbilities.VehementRenewalAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Veil Recovery</KeyName>
+    <Name>Veil Recovery</Name>
+    <InternalID>141</InternalID>
+    <Description>Reduces the duration of resurrection illnesses by the percentage listed.</Description>
+    <IconID>0</IconID>
+    <Implementation>DOL.GS.RealmAbilities.VeilRecoveryAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Viper</KeyName>
+    <Name>Viper</Name>
+    <InternalID>190</InternalID>
+    <Description>Increases the damage of poisons by the listed amount.</Description>
+    <IconID>3012</IconID>
+    <Implementation>DOL.GS.RealmAbilities.ViperAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Volcanic Pillar</KeyName>
+    <Name>Volcanic Pillar</Name>
+    <InternalID>208</InternalID>
+    <Description>Heat based AE damage spell with 500 radius. Damage as listed. 2 second non-interruptible cast time. 1500 range Target is enemy.</Description>
+    <IconID>3024</IconID>
+    <Implementation>DOL.GS.RealmAbilities.VolcanicPillarAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Volley</KeyName>
+    <Name>Volley</Name>
+    <InternalID>180</InternalID>
+    <Description>A Ground Targeted Area Effect archery shot, that will hit up to a maximum number of targets 3 times. The maximum number of targets is 2 more than the number of the shot. IE: Volley 1 will hit three targets max, and Volley 8 will hit 10 targets max.</Description>
+    <IconID>437</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Wall of Flame</KeyName>
+    <Name>Wall of Flame</Name>
+    <InternalID>250</InternalID>
+    <Description>Insta-cast spell that drops a ward that pulses a 150 radius PBAE fire based for 15 seconds. Pulse is 400 points of damage every 3 seconds.</Description>
+    <IconID>3049</IconID>
+    <Implementation>DOL.GS.RealmAbilities.WallOfFlameAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Warlock-RR5</KeyName>
+    <Name>Boiling Cauldron</Name>
+    <InternalID>156</InternalID>
+    <Description>Summons a large cauldron that boils in place for 5 seconds before spilling and doing damage to all those nearby.</Description>
+    <IconID>3085</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Weaponry: Archery</KeyName>
+    <Name>Weaponry: Archery</Name>
+    <InternalID>295</InternalID>
+    <Description>The ability to use long bows of all kinds. Training in the Skill results in a decreased damage variance, and gives you access to special abilities.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Weaponry: Axes</KeyName>
+    <Name>Weaponry: Axes</Name>
+    <InternalID>23</InternalID>
+    <Description>The ability to use one-handed and two-handed axes of all kinds. Training in the Axes Skill results in a decreased damage variance and gives you access to the combat styles.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Weaponry: Blades</KeyName>
+    <Name>Weaponry: Blades</Name>
+    <InternalID>31</InternalID>
+    <Description>The ability to use one-handed bladed weapons of all kinds. Training in the Blade Skill results in a decreased damage variance and gives you access to the combat styles.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Weaponry: Blunt</KeyName>
+    <Name>Weaponry: Blunt</Name>
+    <InternalID>32</InternalID>
+    <Description>The ability to use one-handed blunt weapons of all kinds. Training in the Blunt Skill results in a decreased damage variance and gives you access to the combat styles.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Weaponry: Celtic Spears</KeyName>
+    <Name>Weaponry: Celtic Spears</Name>
+    <InternalID>37</InternalID>
+    <Description>The ability to use Celtic spears of all kinds. Celtic spears are two-handed weapons. Training in the Celtic Spear Skill results in a decreased damage variance and gives you access to the combat styles.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Weaponry: Composite Bow</KeyName>
+    <Name>Weaponry: Composite Bow</Name>
+    <InternalID>26</InternalID>
+    <Description>The ability to use composite bows of all kinds. Training in the Composite Bows Skill results in a decreased damage variance, and gives you access to special abilities.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Weaponry: Composite Bows</KeyName>
+    <Name>Weaponry: Composite Bows</Name>
+    <InternalID>26</InternalID>
+    <Description>The ability to use composite bows of all kinds. Training in the Composite Bows Skill results in a decreased damage variance, and gives you access to special abilities.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Weaponry: Crossbow</KeyName>
+    <Name>Weaponry: Crossbow</Name>
+    <InternalID>18</InternalID>
+    <Description>The ability to use crossbows of all kinds. Training in the Crossbow skill results in a decreased damage variance.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Weaponry: Crushing</KeyName>
+    <Name>Weaponry: Crushing</Name>
+    <InternalID>10</InternalID>
+    <Description>The ability to use one-handed crushing weapons of all kinds. Training in the Crushing Skill results in a decreased damage variance and gives you access to the combat styles.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Weaponry: Fist Wraps</KeyName>
+    <Name>Weaponry: Fist Wraps</Name>
+    <InternalID>67</InternalID>
+    <Description>The ability to use Fist Wraps, a Mauler-specific weapon type. Fist Wraps function much like dual wield, but do not require a second skill for damage type (Slashing, Piercing, etc).</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Weaponry: Flexible</KeyName>
+    <Name>Weaponry: Flexible</Name>
+    <InternalID>50</InternalID>
+    <Description>The ability to use one-handed flexible weapons of all kinds, such as flails. Training in the Flexible Weapons Skill results in a decreased damage variance and gives you access to the combat styles. This skill is unique to Reavers and Heretics.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Weaponry: Hammers</KeyName>
+    <Name>Weaponry: Hammers</Name>
+    <InternalID>24</InternalID>
+    <Description>The ability to use one-handed and two-handed hammers of all kinds. Training in the Hammers Skill results in a decreased damage variance and gives you access to the combat styles.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Weaponry: Hand to Hand</KeyName>
+    <Name>Weaponry: Hand to Hand</Name>
+    <InternalID>51</InternalID>
+    <Description>The ability to your fists as weapons in combat. Training in the Hand to Hand Skill results in a decreased damage variance and gives you access to the combat styles. The Hand to Hand Skill works like Dual Wield - a higher skill grants a greater chance to attack with both fists, however, at very high levels, four attacks per round becomes possible. This skill is unique to the Savage.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Weaponry: Instruments</KeyName>
+    <Name>Weaponry: Instruments</Name>
+    <InternalID>133</InternalID>
+    <Description>The ability to wield instruments to use for various abilities.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Weaponry: Large Weapons</KeyName>
+    <Name>Weaponry: Large Weapons</Name>
+    <InternalID>34</InternalID>
+    <Description>The ability to use two-handed weapons of all kinds. Training in the Large Weapons Skill results in a decreased damage variance and gives you access to the combat styles.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Weaponry: Left Axes</KeyName>
+    <Name>Weaponry: Left Axes</Name>
+    <InternalID>28</InternalID>
+    <Description>Like Dual Wield, but only good with axes in Midgard. With Left Axe, you swing both weapons during every combat round, but your damage with those weapons is decreased.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Weaponry: Longbows</KeyName>
+    <Name>Weaponry: Longbows</Name>
+    <InternalID>16</InternalID>
+    <Description>The ability to use long bows of all kinds. Training in the Long Bow Skill results in a decreased damage variance, and gives you access to special abilities.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Weaponry: Mauler Staff</KeyName>
+    <Name>Weaponry: Mauler Staff</Name>
+    <InternalID>68</InternalID>
+    <Description>The ability to use Mauler Staves, a type of staff specific to the Mauler class.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Weaponry: Piercing</KeyName>
+    <Name>Weaponry: Piercing</Name>
+    <InternalID>33</InternalID>
+    <Description>The ability to use one-handed piercing weapons of all kinds. Training in the Piercing Skill results in a decreased damage variance and gives you access to the combat styles.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Weaponry: Polearms</KeyName>
+    <Name>Weaponry: Polearms</Name>
+    <InternalID>15</InternalID>
+    <Description>The ability to use polearm weapons of all kinds. Training in the Polearm Skill results in an increased overall damage and gives you access to the combat styles.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Weaponry: Quarterstaves</KeyName>
+    <Name>Weaponry: Quarterstaves</Name>
+    <InternalID>30</InternalID>
+    <Description>The ability to use quarterstaves of all kinds. Training in the quarterstaff Skill results in a decreased damage variance and gives you access to the combat styles.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Weaponry: Recurved Bows</KeyName>
+    <Name>Weaponry: Recurved Bow</Name>
+    <InternalID>35</InternalID>
+    <Description>The ability to use recurved bows of all kinds. Training in the Recurved Bow Skill results in a decreased damage variance, and gives you access to special abilities.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Weaponry: Scythe</KeyName>
+    <Name>Weaponry: Scythe</Name>
+    <InternalID>52</InternalID>
+    <Description>The ability to use scythes of all kinds. Training in the Scythes Skill results in a decreased damage variance and gives you access to the scythe combat styles. This skill is unique to Valewalkers.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Weaponry: Shortbows</KeyName>
+    <Name>Weaponry: Shortbows</Name>
+    <InternalID>17</InternalID>
+    <Description>The ability to use short bows of all kinds in all realms.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Weaponry: Slashing</KeyName>
+    <Name>Weaponry: Slashing</Name>
+    <InternalID>11</InternalID>
+    <Description>The ability to use one-handed slashing weapons of all kinds. Training in the Slashing Skill results in a decreased damage variance and gives you access to the combat styles.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Weaponry: Spears</KeyName>
+    <Name>Weaponry: Spears</Name>
+    <InternalID>25</InternalID>
+    <Description>The ability to use spears of all kinds. Training in the Spears Skill results in a decreased damage variance and gives you access to the combat styles.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Weaponry: Staves</KeyName>
+    <Name>Weaponry: Staves</Name>
+    <InternalID>13</InternalID>
+    <Description>The ability to use staves of all kinds except quarterstaves and mauler staves, in all realms. There is no Staves Skill. Every class has this ability.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Weaponry: Swords</KeyName>
+    <Name>Weaponry: Swords</Name>
+    <InternalID>22</InternalID>
+    <Description>The ability to use one-handed and two-handed swords of all kinds. Training in the Swords Skill results in a decreased damage variance and gives you access to the combat styles.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Weaponry: Thrown</KeyName>
+    <Name>Weaponry: Thrown</Name>
+    <InternalID>27</InternalID>
+    <Description>The ability to use thrown knives. This ability is unspeccable and unique to Shadowblades.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Weaponry: Thrusting</KeyName>
+    <Name>Weaponry: Thrusting</Name>
+    <InternalID>12</InternalID>
+    <Description>The ability to use one-handed thrusting weapons of all kinds. Training in the Thrusting Skill results in a decreased damage variance and gives you access to the combat styles.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Weaponry: Two Handed</KeyName>
+    <Name>Weaponry: Two Handed</Name>
+    <InternalID>14</InternalID>
+    <Description>The ability to use two-handed swords of all kinds. Training in the Two Handed Skill results in an increased overall damage and gives you access to the combat styles.</Description>
+    <IconID>0</IconID>
+    <Implementation />
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Whirling Staff</KeyName>
+    <Name>Whirling Staff</Name>
+    <InternalID>239</InternalID>
+    <Description>PBAE attack that does moderate damage and makes all melee targets in 350 radius unable to attack for 6 seconds.</Description>
+    <IconID>3042</IconID>
+    <Implementation>DOL.GS.RealmAbilities.WhirlingStaffAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Wild Healing</KeyName>
+    <Name>Wild Healing</Name>
+    <InternalID>148</InternalID>
+    <Description>Adds the listed percentage chance to critical heal on each target of a heal spell.</Description>
+    <IconID>0</IconID>
+    <Implementation>DOL.GS.RealmAbilities.WildHealingAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Wild Minion</KeyName>
+    <Name>Wild Minion</Name>
+    <InternalID>149</InternalID>
+    <Description>Increases chance of pet dealing a critical hit in melee by the listed percentage.</Description>
+    <IconID>0</IconID>
+    <Implementation>DOL.GS.RealmAbilities.WildMinionAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Wild Power</KeyName>
+    <Name>Wild Power</Name>
+    <InternalID>147</InternalID>
+    <Description>Increases chance to deal a critical hit with all spells that do damage, including DoTs, by listed percentage.</Description>
+    <IconID>0</IconID>
+    <Implementation>DOL.GS.RealmAbilities.WildPowerAbility</Implementation>
+  </DBAbility>
+  <DBAbility>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0201774Z</LastTimeRowUpdated>
+    <KeyName>Wrath of Champions</KeyName>
+    <Name>Wrath of Champions</Name>
+    <InternalID>206</InternalID>
+    <Description>Spirit Based instantly cast PBAE with 150 radius that does the listed damage.</Description>
+    <IconID>3023</IconID>
+    <Implementation>DOL.GS.RealmAbilities.WrathofChampionsAbility</Implementation>
+  </DBAbility>
+</ArrayOfDBAbility>

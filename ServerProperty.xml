@@ -1,0 +1,2587 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfServerProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>log</Category>
+    <Key>log_inventory_craft</Key>
+    <Description>Enable craft logging in inventory log (log_inventory must be enabled)</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>npc</Category>
+    <Key>mob_autoset_con_base</Key>
+    <Description>Base Value to use when auto-setting CON stat. </Description>
+    <DefaultValue>30</DefaultValue>
+    <Value>30</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>losmgr_debug_level</Key>
+    <Description>Set the Level of Debug for the Line of Sight (LoS) Manager (do not set level 3 in production), 0 = no debug, 1 = info, 2 = warn, 3 = debug.</Description>
+    <DefaultValue>0</DefaultValue>
+    <Value>0</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>pve</Category>
+    <Key>lootgenerator_aurulite_amount_ratio</Key>
+    <Description>Modify the final count of Aurulite Loot Generator drop. (TotalCount * lootgenerator_aurulite_amount_ratio)</Description>
+    <DefaultValue>0.5</DefaultValue>
+    <Value>0,5</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>pvp</Category>
+    <Key>bg_zones_closed_message</Key>
+    <Description>Message to display to player if BG zones are closed</Description>
+    <DefaultValue>The battlegrounds are not open on this server.</DefaultValue>
+    <Value>The battlegrounds are not open on this server.</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>rates</Category>
+    <Key>health_regen_rate</Key>
+    <Description>Health regen rate</Description>
+    <DefaultValue>1</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>pvp</Category>
+    <Key>bg_zones_open</Key>
+    <Description>Can the players teleport to battleground</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>pvp</Category>
+    <Key>Relic_Return_Time</Key>
+    <Description>A lost relic will automatically returns to its defined point, in seconds</Description>
+    <DefaultValue>1200</DefaultValue>
+    <Value>1200</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>rates</Category>
+    <Key>money_drop</Key>
+    <Description>Money Drop Modifier - Edit this to change the amount of money which is dropped e.g 1.5 is 50% more 2.0 is twice the amount (100%) 0.5 is half the amount (50%)</Description>
+    <DefaultValue>1</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>npc</Category>
+    <Key>gamenpc_base_hp</Key>
+    <Description>GameNPC's base HP * level</Description>
+    <DefaultValue>500</DefaultValue>
+    <Value>500</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>log_email_addresses</Key>
+    <Description>set to the email addresses you want logs automatically emailed to, multiple addresses seperate with ;</Description>
+    <DefaultValue />
+    <Value />
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>rates</Category>
+    <Key>xp_rate</Key>
+    <Description>The Experience Points Rate Modifier - Edit this to change the rate at which you gain experience points e.g 1.5 is 50% more 2.0 is twice the amount (100%) 0.5 is half the amount (50%)</Description>
+    <DefaultValue>1</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>losmgr_query_timeout</Key>
+    <Description>Timeout (in milliseconds) until Line of Sight (LoS) Manager tries to resend a LoS check, -1 to disable (don't get under 100ms except for Local Network).</Description>
+    <DefaultValue>300</DefaultValue>
+    <Value>300</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>classes</Category>
+    <Key>freelevel_days</Key>
+    <Description>days before your elligable for a free level, use -1 to deactivate</Description>
+    <DefaultValue>7</DefaultValue>
+    <Value>7</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>pvp</Category>
+    <Key>relic_players_required_on_pad</Key>
+    <Description>How many players are required on the relic pad to trigger the pillar?</Description>
+    <DefaultValue>16</DefaultValue>
+    <Value>16</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>server</Category>
+    <Key>use_new_tooltip_forcedupdate</Key>
+    <Description>Set to true if you wish to enable the new 1.110+ Tooltip Forced update each time the server send a skill to a new client.</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>craft</Category>
+    <Key>crafting_speed</Key>
+    <Description>Crafting Speed Modifier - Edit this to change the speed at which you craft e.g 1.5 is 50% faster 2.0 is twice as fast (100%) 0.5 is half the speed (50%)</Description>
+    <DefaultValue>1</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>log</Category>
+    <Key>log_inventory_trade</Key>
+    <Description>Enable trade logging in inventory log (log_inventory must be enabled)</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>always_check_pet_los</Key>
+    <Description>Should we perform LOS checks between controlled NPC's and players?</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>task_give_random_item</Key>
+    <Description>Task is also rewarded with ROG ?</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>pvp</Category>
+    <Key>Timer_Killed_By_Mob</Key>
+    <Description>Immunity Timer When player killed in PvP, in seconds</Description>
+    <DefaultValue>30</DefaultValue>
+    <Value>30</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>allow_personnal_mount_in_regions</Key>
+    <Description>CSV Regions where player mount is allowed</Description>
+    <DefaultValue />
+    <Value />
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>teleport_login_bg_level_exceeded</Key>
+    <Description>Should players that exceed BG level cap be moved out of BG when logging in?</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>server</Category>
+    <Key>starting_msg</Key>
+    <Description>The Starting Mesage - Edit this to set what is displayed when a level 1 character enters the game for the first time, set to "" for nothing</Description>
+    <DefaultValue>Welcome for your first time to a Dawn of Light server, please edit this Starter Message</DefaultValue>
+    <Value>Welcome for your first time to a Dawn of Light server, please edit this Starter Message</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>emote_delay</Key>
+    <Description>The emote delay, default 3000ms before another emote.</Description>
+    <DefaultValue>3000</DefaultValue>
+    <Value>3000</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>max_bugreport_queue</Key>
+    <Description>Maximum number of bug reports allowed in queue.  0 to disabled max check</Description>
+    <DefaultValue>100</DefaultValue>
+    <Value>100</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>server</Category>
+    <Key>use_new_passives_ras_scaling</Key>
+    <Description>Use new passives realmabilities scaling (1.108+) ?</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>npc</Category>
+    <Key>gamenpc_chances_to_cast</Key>
+    <Description>Change the chance to cast a spell for a mob or a pet</Description>
+    <DefaultValue>25</DefaultValue>
+    <Value>25</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>load_buff_tokens</Key>
+    <Description>Should the server load buff tokens (npc and items), values True,False</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>max_keep_level</Key>
+    <Description>The maximum keep level.</Description>
+    <DefaultValue>5</DefaultValue>
+    <Value>5</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>claim_num</Key>
+    <Description>Players Needed For Claim - Edit this to change the amount of players required to claim a keep, towers are half this amount</Description>
+    <DefaultValue>8</DefaultValue>
+    <Value>8</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>losmgr_guard_contamination_radius</Key>
+    <Description>Line of Sight (LoS) Manager will update LoS of Keep Guards in this range of the checker, raising this value will pack more Guards when Aggroing.</Description>
+    <DefaultValue>200</DefaultValue>
+    <Value>200</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>set_keep_door_toughness</Key>
+    <Description>This value is % of total damages inflicted to level 1 door. (100=full damages)</Description>
+    <DefaultValue>100</DefaultValue>
+    <Value>100</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>lord_rp_worth_seconds</Key>
+    <Description>The number of seconds from last kill the this lord is worth no RP.</Description>
+    <DefaultValue>300</DefaultValue>
+    <Value>300</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>pvp</Category>
+    <Key>allow_all_realms_df</Key>
+    <Description>Should we allow all realms access to DF</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>log</Category>
+    <Key>log_inventory_other</Key>
+    <Description>Enable other logging in inventory log (log_inventory must be enabled)</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>craft</Category>
+    <Key>allow_craft_norealm_items</Key>
+    <Description>Allow any realm to craft items with 0 (no) realm.</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>task_pause_ticks</Key>
+    <Description>Time player must wait after failed task check to get new chance for a task, in milliseconds</Description>
+    <DefaultValue>300000</DefaultValue>
+    <Value>300000</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>server</Category>
+    <Key>serverlistupdate_user</Key>
+    <Description>Username for serverlistupdate.</Description>
+    <DefaultValue />
+    <Value />
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>rates</Category>
+    <Key>rvr_zones_xp_rate</Key>
+    <Description>The RvR zones Experience Points Rate Modifier</Description>
+    <DefaultValue>1</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>classes</Category>
+    <Key>starting_money</Key>
+    <Description>Starting Money - Edit this to change the amount in copper of money new characters start the game with, max 214 plat</Description>
+    <DefaultValue>0</DefaultValue>
+    <Value>0</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>losmgr_cleanup_frequency</Key>
+    <Description>How fast should the Line of Sight (LoS) Manager clean up its data (in milliseconds), don't get under 30000 ms, raise cleanup count if you put high number here.</Description>
+    <DefaultValue>120000</DefaultValue>
+    <Value>120000</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>server</Category>
+    <Key>custom_train</Key>
+    <Description>Train is custom pre-1.105 one ? (false set it to livelike 1.105+)</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>keep_guard_los_check_time</Key>
+    <Description>Number of seconds between allowed LOS checks for keep guards</Description>
+    <DefaultValue>5</DefaultValue>
+    <Value>5</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>losmgr_players_contamination_radius</Key>
+    <Description>Line of Sight (LoS) Manager will update LoS of Players in this range of the checker, should be disabled to prevent PvP abuses.</Description>
+    <DefaultValue>0</DefaultValue>
+    <Value>0</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>losmgr_pet_contamination_radius</Key>
+    <Description>Line of Sight (LoS) Manager will update LoS of Player's Pet in this range of the checker, keep value low to prevent abuses.</Description>
+    <DefaultValue>50</DefaultValue>
+    <Value>50</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>server</Category>
+    <Key>save_quest_mobs_into_database</Key>
+    <Description>set false if you don't want this</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>speedhack_tolerance</Key>
+    <Description>Number of times speed hack detected before banning.  Multiples of 5 (20, 25, 30, etc)</Description>
+    <DefaultValue>20</DefaultValue>
+    <Value>20</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>losmgr_cleanup_entries</Key>
+    <Description>Number of Entries cleaned from Line of Sight (LoS) Manager each Cleanup ticks, if you need to go above 10 000 entries consider using a shorter cleanup frequency.</Description>
+    <DefaultValue>1000</DefaultValue>
+    <Value>1000</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>pvp</Category>
+    <Key>Timer_Game_Entered</Key>
+    <Description>Immunity Timer when player enters the game, in seconds</Description>
+    <DefaultValue>10</DefaultValue>
+    <Value>10</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>pvp</Category>
+    <Key>RvRLinkDeathRelogGracePeriod</Key>
+    <Description>The Grace Period in minutes, to allow to relog near enemy structure after a link death.</Description>
+    <DefaultValue>20</DefaultValue>
+    <Value>20</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>housing</Category>
+    <Key>housing_rent_cottage</Key>
+    <Description>Rent price for a cottage.</Description>
+    <DefaultValue>200000</DefaultValue>
+    <Value>200000</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>rates</Category>
+    <Key>mana_regen_rate</Key>
+    <Description>Mana regen rate</Description>
+    <DefaultValue>1</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>log_pvp_kills</Key>
+    <Description>Turn on logging of pvp kills?</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>craft</Category>
+    <Key>capital_city_crafting_speed_bonus</Key>
+    <Description>Crafting speed bonus in capital cities; 2 = 2x, 3 = 3x, ..., 1 = standard</Description>
+    <DefaultValue>1</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>staff_login</Key>
+    <Description>Staff Login Only - Edit this to set weather you wish staff to be the only ones allowed to Log in values True,False</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>classes</Category>
+    <Key>start_as_base_class</Key>
+    <Description>Should we start all players as their base class? true if yes (e.g. Armsmen become Fighters on Creation)</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>npc</Category>
+    <Key>gamenpc_chances_to_style</Key>
+    <Description>Change the chance to fire a style for a mob or a pet</Description>
+    <DefaultValue>20</DefaultValue>
+    <Value>20</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>housing</Category>
+    <Key>market_enabled</Key>
+    <Description>If true the market explorers are enabled and the cache is initialized on server start.</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>server</Category>
+    <Key>record_news</Key>
+    <Description>Record News in database?</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>ignore_too_long_outcoming_packet</Key>
+    <Description>Shall we ignore too long outcoming packet ?</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>enable_debug</Key>
+    <Description>Enable Debug mode? Used to alter some features during server startup to make debugging easier</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>pvp</Category>
+    <Key>Timer_Region_Changed</Key>
+    <Description>Immunity Timer when player changes regions, in seconds</Description>
+    <DefaultValue>30</DefaultValue>
+    <Value>30</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>npc</Category>
+    <Key>mob_damage_increase_perlevel</Key>
+    <Description>How much damage to increase per level</Description>
+    <DefaultValue>0</DefaultValue>
+    <Value>0</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>automodel_guards_loaded_from_db</Key>
+    <Description>Should guards loaded from db be modeled by Keepsystem? (false=load from db)</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>classes</Category>
+    <Key>freelevel_days_midgard</Key>
+    <Description>days before your elligable for a free level in Midgard, use -1 to deactivate</Description>
+    <DefaultValue>7</DefaultValue>
+    <Value>7</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>pve</Category>
+    <Key>lootgenerator_dragonscales_base_chance</Key>
+    <Description>Base chance for dropping Dragon Scales using Loot Generator.</Description>
+    <DefaultValue>15</DefaultValue>
+    <Value>15</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>weather_chance</Key>
+    <Description>What is the chance of starting a storm.</Description>
+    <DefaultValue>5</DefaultValue>
+    <Value>5</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>account</Category>
+    <Key>total_accounts_allowed_sameip</Key>
+    <Description>Total number of account allowed for the same IP</Description>
+    <DefaultValue>20</DefaultValue>
+    <Value>20</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>disabled_expansions</Key>
+    <Description>Serialized list of disabled expansions IDs, expansion IDs are client type seperated by ;</Description>
+    <DefaultValue />
+    <Value />
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>server</Category>
+    <Key>broadcast_type</Key>
+    <Description>Broadcast Type - Edit this to change what /b does, values 0 = disabled, 1 = area, 2 = visibility distance, 3 = zone, 4 = region, 5 = realm, 6 = server</Description>
+    <DefaultValue>1</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>keep_rp_base</Key>
+    <Description>Base RP value of a keep</Description>
+    <DefaultValue>4500</DefaultValue>
+    <Value>4500</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>pve</Category>
+    <Key>lootgenerator_atlanteanglass_named_count</Key>
+    <Description>Increase count of Atlantean Glass Loot Generator drop for Named mobs. (count * lootgenerator_atlanteanglass_named_count)</Description>
+    <DefaultValue>1.5</DefaultValue>
+    <Value>1,5</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>rates</Category>
+    <Key>XP_Cap_Percent</Key>
+    <Description>Maximum XP a player can earn given in percent of their level. Default is 125%</Description>
+    <DefaultValue>125</DefaultValue>
+    <Value>125</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>guild</Category>
+    <Key>guild_num</Key>
+    <Description>Players Needed For Guild Form - Edit this to change the amount of players required to form a guild</Description>
+    <DefaultValue>8</DefaultValue>
+    <Value>8</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>npc</Category>
+    <Key>mob_autoset_qui_base</Key>
+    <Description>Base Value to use when auto-setting qui stat. </Description>
+    <DefaultValue>30</DefaultValue>
+    <Value>30</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>losmgr_player_check_frequency</Key>
+    <Description>Line of Sight (LoS) Manager will try to reduce player queries to this frequency (in millisecond), raise this if player are experiencing lags.</Description>
+    <DefaultValue>100</DefaultValue>
+    <Value>100</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>xmlautoload</Category>
+    <Key>xml_load_insert_directory</Key>
+    <Description>Enforce directory path where the XML Insert Packages are Loaded To Database (Relative to Scripts or Absolute...)</Description>
+    <DefaultValue>dbupdater/insert</DefaultValue>
+    <Value>dbupdater/insert</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>rates</Category>
+    <Key>evade_cap</Key>
+    <Description>Evade Rate Cap Modifier - Edit this to change the highest possible evade rate against an enemy (Hard Cap) in game e.g .50 = 50%</Description>
+    <DefaultValue>0.5</DefaultValue>
+    <Value>0,5</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>housing</Category>
+    <Key>housing_lot_price_minimum</Key>
+    <Description>Minimum lot price.</Description>
+    <DefaultValue>3000000</DefaultValue>
+    <Value>3000000</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>losmgr_environment__vs_environment_range_threshold</Key>
+    <Description>Line of Sight (LoS) Manager won't check LoS for Mobs vs Mobs within this range. (Shouldn't be under PvE Threshold)</Description>
+    <DefaultValue>350</DefaultValue>
+    <Value>350</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>guild</Category>
+    <Key>guild_merit_on_dragon_kill</Key>
+    <Description>How much merit to reward guild when dragon is killed, if any.</Description>
+    <DefaultValue>0</DefaultValue>
+    <Value>0</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>housing</Category>
+    <Key>housing_lot_price_start</Key>
+    <Description>Starting lot price before per hour reductions</Description>
+    <DefaultValue>950000000</DefaultValue>
+    <Value>950000000</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>load_housing_npc</Key>
+    <Description>Should the server load Housing npc, values True,False</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>server</Category>
+    <Key>update_existing_db_system_sentences_from_files</Key>
+    <Description>Update existing rows within the LanguageSystem table from language files.</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>guild</Category>
+    <Key>guild_buff_artifact_xp</Key>
+    <Description>Extra artifact XP gain percent for the guild artifact XP buff?</Description>
+    <DefaultValue>5</DefaultValue>
+    <Value>5</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>load_housing_items</Key>
+    <Description>Should the server load Housing items, values True,False</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>weather_check_interval</Key>
+    <Description>How often (milliseconds) will weather be checked for a chance to start a storm.</Description>
+    <DefaultValue>300000</DefaultValue>
+    <Value>300000</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>guild</Category>
+    <Key>guild_buff_xp</Key>
+    <Description>Extra XP gain percent for the guild PvE XP buff?</Description>
+    <DefaultValue>5</DefaultValue>
+    <Value>5</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>server</Category>
+    <Key>battlegroup_max_member</Key>
+    <Description>Max number of members allowed in a battlegroup.</Description>
+    <DefaultValue>64</DefaultValue>
+    <Value>64</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>log</Category>
+    <Key>log_inventory_quest</Key>
+    <Description>Enable quest logging in inventory log (log_inventory must be enabled)</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>log_trades</Key>
+    <Description>Should the server Log all trades a player makes, values True,False</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>npc</Category>
+    <Key>mob_autoset_con_multiplier</Key>
+    <Description>Multiplier to use when auto-setting CON stat. </Description>
+    <DefaultValue>1</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>rates</Category>
+    <Key>bp_rate</Key>
+    <Description>The Bounty Points Rate Modifier - Edit this to change the rate at which you gain bounty points e.g 1.5 is 50% more 2.0 is twice the amount (100%) 0.5 is half the amount (50%)</Description>
+    <DefaultValue>1</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>npc</Category>
+    <Key>pet_autoset_qui_base</Key>
+    <Description>Base Value to use when auto-setting Pet QUI stat. </Description>
+    <DefaultValue>30</DefaultValue>
+    <Value>30</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>rates</Category>
+    <Key>cs_opening_effectiveness</Key>
+    <Description>Critical strike opening style effectiveness.  Increase this to make CS styles BS, BSII and Perf Artery more effective</Description>
+    <DefaultValue>1</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>disabled_regions</Key>
+    <Description>Serialized list of disabled region IDs, separated by semi-colon or a range with a dash (ie 1-5;7;9)</Description>
+    <DefaultValue />
+    <Value />
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>classes</Category>
+    <Key>freelevel_days_albion</Key>
+    <Description>days before your elligable for a free level in Albion, use -1 to deactivate</Description>
+    <DefaultValue>7</DefaultValue>
+    <Value>7</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>world_player_update_interval</Key>
+    <Description>How often (milliseconds) will players be checked for updates. Minimum allowed = 100 (100 milliseconds).</Description>
+    <DefaultValue>300</DefaultValue>
+    <Value>300</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>server</Category>
+    <Key>motd</Key>
+    <Description>The Server Message of the Day - Edit this to set what is displayed when a level 2+ character enters the game for the first time, set to "" for nothing</Description>
+    <DefaultValue>Welcome to a Dawn of Light server, please edit this MOTD</DefaultValue>
+    <Value>Welcome to a Dawn of Light server, please edit this MOTD</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>classes</Category>
+    <Key>theurgist_pet_cap</Key>
+    <Description>Sets the maximum number of pets a Theurgist can summon</Description>
+    <DefaultValue>16</DefaultValue>
+    <Value>16</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>classes</Category>
+    <Key>allow_old_archery</Key>
+    <Description>Should we allow archers to be able to use arrows from their quiver?</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>npc</Category>
+    <Key>pet_autoset_con_multiplier</Key>
+    <Description>Multiplier to use when auto-setting Pet CON stat. </Description>
+    <DefaultValue>1</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>keep_guard_level_multiplier</Key>
+    <Description>Multiplier used to determine keep guard levels.  This is applied to the bonus level (usually 4) and added after balance adjustments.</Description>
+    <DefaultValue>1.6</DefaultValue>
+    <Value>1,6</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>rates</Category>
+    <Key>endurance_regen_rate</Key>
+    <Description>Endurance regen rate</Description>
+    <DefaultValue>1</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>guild</Category>
+    <Key>guilds_claim_limit</Key>
+    <Description>How many things do we allow guilds to claim?</Description>
+    <DefaultValue>1</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>balance_towers_separate</Key>
+    <Description>Balance Towers and Keeps separately?</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>tower_guard_level_multiplier</Key>
+    <Description>Multiplier used to determine tower guard levels.  This is applied to the bonus level (usually 4) and added after balance adjustments.</Description>
+    <DefaultValue>1</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>teleport_login_near_enemy_keep</Key>
+    <Description>Should players that log near enemy keeps be teleported to a safe area?</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>classes</Category>
+    <Key>allow_cross_realm_items</Key>
+    <Description>Do we want to allow items to be equipped regardless of realm?</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>statprint_frequency</Key>
+    <Description>How often (milliseconds) should statistics be printed on the server console.</Description>
+    <DefaultValue>30000</DefaultValue>
+    <Value>30000</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>upgrade_multiplier</Key>
+    <Description>Integer multiplier used to increase/decrease RP worth based on upgrade level (0..10)</Description>
+    <DefaultValue>100</DefaultValue>
+    <Value>100</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>use_keep_balancing</Key>
+    <Description>Set to true if you want keeps to be higher level in NF the less you have, and lower level the more you have</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>client_type_max</Key>
+    <Description>What is the maximum client type allowed to connect</Description>
+    <DefaultValue>-1</DefaultValue>
+    <Value>-1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>jump_tolerance</Key>
+    <Description>Z distance tolerance before player is identified as a jump hacker?</Description>
+    <DefaultValue>200</DefaultValue>
+    <Value>200</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>npc</Category>
+    <Key>pet_autoset_str_base</Key>
+    <Description>Base Value to use when auto-setting Pet STR stat. </Description>
+    <DefaultValue>20</DefaultValue>
+    <Value>20</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>client_version_max</Key>
+    <Description>Maximum Client Version - Edit this to change which client version at the most have to be used: -1 = any, 1.80 = 180</Description>
+    <DefaultValue>-1</DefaultValue>
+    <Value>-1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>rates</Category>
+    <Key>pvp_spell_damage</Key>
+    <Description>The PvP Spell Damage Modifier - Edit this to change the amount of spell damage done when fighting players e.g 1.5 is 50% more damage 2.0 is twice the damage (100%) 0.5 is half the damage (50%)</Description>
+    <DefaultValue>1</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>pvp</Category>
+    <Key>allow_bps_in_bgs</Key>
+    <Description>Allow bounty points to be gained in battlegrounds</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>set_tower_door_toughness</Key>
+    <Description>This value is % of total damages inflicted to level 1 door. (100=full damages)</Description>
+    <DefaultValue>100</DefaultValue>
+    <Value>100</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>losmgr_player_vs_player_cache_timeout</Key>
+    <Description>Set Timeout (in milliseconds) for PvP Line of Sight (LoS) Manager cache data, 0 to disable.</Description>
+    <DefaultValue>200</DefaultValue>
+    <Value>200</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>housing</Category>
+    <Key>max_outdoor_house_items</Key>
+    <Description>Max number of items allowed in a players garden.</Description>
+    <DefaultValue>30</DefaultValue>
+    <Value>30</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>npc</Category>
+    <Key>gamenpc_followcheck_time</Key>
+    <Description>How often, in milliseconds, to check follow distance. Lower numbers make NPC follow closer but increase load on server.</Description>
+    <DefaultValue>500</DefaultValue>
+    <Value>500</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>guild</Category>
+    <Key>starting_guild</Key>
+    <Description>Starter Guild - Edit this to change the starter guild options, values True,False</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>server</Category>
+    <Key>disabled_commands</Key>
+    <Description>Serialized list of disabled commands separated by semi-colon, example /realm;/toon;/quit</Description>
+    <DefaultValue />
+    <Value />
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>npc</Category>
+    <Key>gamenpc_randomwalk_chance</Key>
+    <Description>Chance for NPC to random walk. Default is 20</Description>
+    <DefaultValue>20</DefaultValue>
+    <Value>20</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>timer_player_init</Key>
+    <Description>Immunity Timer length when a player logs into game or zones into a new region, in seconds</Description>
+    <DefaultValue>15</DefaultValue>
+    <Value>15</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>pet_damage_multiplier</Key>
+    <Description>Modifier used to adjust damage for pets classes.</Description>
+    <DefaultValue>1</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>pvp</Category>
+    <Key>enable_warmapmgr</Key>
+    <Description>Shall we enable the WarMap manager ?</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>server</Category>
+    <Key>region_max_objects</Key>
+    <Description>Set the maximum number of objects allowed in a region.  Smaller numbers offer better performance.  This can't be changed while the server is running. (256 - 65535)</Description>
+    <DefaultValue>30000</DefaultValue>
+    <Value>30000</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>check_los_during_cast</Key>
+    <Description>Perform a LOS check during a spell cast.</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>npc</Category>
+    <Key>gamenpc_hp_gain_per_con</Key>
+    <Description>How many hitpoints per point of CON above gamenpc_base_con should an NPC gain</Description>
+    <DefaultValue>2</DefaultValue>
+    <Value>2</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>housing</Category>
+    <Key>consignment_use_bp</Key>
+    <Description>If true the housing consignment merchants use BP instead of money.</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>npc</Category>
+    <Key>mob_autoset_dex_base</Key>
+    <Description>Base Value to use when auto-setting DEX stat. </Description>
+    <DefaultValue>30</DefaultValue>
+    <Value>30</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>guild</Category>
+    <Key>guild_buff_masterlevel_xp</Key>
+    <Description>Extra masterlevel XP gain percent for the guild masterlevel XP buff?</Description>
+    <DefaultValue>20</DefaultValue>
+    <Value>20</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>rates</Category>
+    <Key>parry_cap</Key>
+    <Description>Parry Rate Cap Modifier - Edit this to change the highest possible parry rate against an enemy (Hard Cap) in game e.g .50 = 50%</Description>
+    <DefaultValue>0.5</DefaultValue>
+    <Value>0,5</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>enable_movedetect</Key>
+    <Description>Should the move detect code be enabled to kick possible movement hackers?</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>allow_change_language</Key>
+    <Description>Should we allow clients to change their language ?</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>set_difficulty_on_epic_encounters</Key>
+    <Description>Tune encounters taggued &lt;Epic Encounter&gt;. 0 means auto adaptative, others values are % of the initial difficulty (100%=initial difficulty)</Description>
+    <DefaultValue>100</DefaultValue>
+    <Value>100</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>spells</Category>
+    <Key>spell_interrupt_duration</Key>
+    <Description />
+    <DefaultValue>4500</DefaultValue>
+    <Value>4500</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>tower_rp_base</Key>
+    <Description>Base RP value of a tower</Description>
+    <DefaultValue>500</DefaultValue>
+    <Value>500</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>rates</Category>
+    <Key>cl_xp_rate</Key>
+    <Description>The Champion Level Experience Points Rate Modifier - Edit this to change the rate at which you gain CL experience points e.g 1.5 is 50% more 2.0 is twice the amount (100%) 0.5 is half the amount (50%)</Description>
+    <DefaultValue>1</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>debug_load_regions</Key>
+    <Description>Serialized list of region IDs that will load objects, separated by semi-colon (leave this blank to load all regions normally)</Description>
+    <DefaultValue />
+    <Value />
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>spells</Category>
+    <Key>spell_interrupt_maxstagelength</Key>
+    <Description>Max length of stage 1 and 3, 1000 = 1 second</Description>
+    <DefaultValue>1500</DefaultValue>
+    <Value>1500</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>craft</Category>
+    <Key>capital_city_crafting_skill_gain_bonus</Key>
+    <Description>Crafting skill gain bonus % in capital cities; 5 = 5%</Description>
+    <DefaultValue>5</DefaultValue>
+    <Value>5</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>use_supply_chain</Key>
+    <Description>Set to true if you want to use the live supply chain for keep teleporting, set to false to allow teleporting to any keep that your realm controls (and towers)</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>pvp</Category>
+    <Key>Timer_Killed_By_Player</Key>
+    <Description>Immunity Timer When player killed in PvP, in seconds</Description>
+    <DefaultValue>120</DefaultValue>
+    <Value>120</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>npc</Category>
+    <Key>pet_autoset_dex_base</Key>
+    <Description>Base Value to use when auto-setting Pet DEX stat. </Description>
+    <DefaultValue>30</DefaultValue>
+    <Value>30</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>npc</Category>
+    <Key>pet_autoset_str_multiplier</Key>
+    <Description>Multiplier to use when auto-setting Pet STR stat. </Description>
+    <DefaultValue>6</DefaultValue>
+    <Value>6</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>zonepoint_npctemplate</Key>
+    <Description>Display the zonepoint with the following npctemplate. 0 for no display</Description>
+    <DefaultValue>0</DefaultValue>
+    <Value>0</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>server</Category>
+    <Key>death_messages_all_realms</Key>
+    <Description>Set to true if you want all realms to see other realms death and kill messages</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>losmgr_environment_vs_environment_cache_timeout</Key>
+    <Description>Set Timeout (in milliseconds) for EvE Line of Sight (LoS) Manager cache data, 0 to disable. (Should be at least 2 times PvE cache to lower LoS Queries)</Description>
+    <DefaultValue>5000</DefaultValue>
+    <Value>5000</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>pve</Category>
+    <Key>lootgenerator_aurulite_base_chance</Key>
+    <Description>Base chance for dropping Aurulite using Loot Generator.</Description>
+    <DefaultValue>10</DefaultValue>
+    <Value>10</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>rates</Category>
+    <Key>pve_spell_conhitpercent</Key>
+    <Description>The percent per con (1 = OJ, 2 = red ...) subtracted to hitchance for spells in PVE  Must be &gt;= 0.  0 is none, 5 is 5% per level, etc.  Default is 10%</Description>
+    <DefaultValue>10</DefaultValue>
+    <Value>10</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>pvp</Category>
+    <Key>enable_minotaur_relics</Key>
+    <Description>Shall we enable Minotaur Relics ?</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>classes</Category>
+    <Key>turret_player_cap_count</Key>
+    <Description>Sets the cap of turrets for a Player</Description>
+    <DefaultValue>5</DefaultValue>
+    <Value>5</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>guild</Category>
+    <Key>allow_cross_realm_guilds</Key>
+    <Description>Do we allow guild members from other realms?</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>housing</Category>
+    <Key>indoor_items_depend_on_size</Key>
+    <Description>If true the max number of allowed House indoor items are set like live (40, 60, 80, 100)</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>npc</Category>
+    <Key>mob_autoset_str_base</Key>
+    <Description>Base Value to use when auto-setting STR stat. </Description>
+    <DefaultValue>30</DefaultValue>
+    <Value>30</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>guild</Category>
+    <Key>guild_buff_rp</Key>
+    <Description>Extra RP gain percent for the guild RP buff?</Description>
+    <DefaultValue>2</DefaultValue>
+    <Value>2</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>server</Category>
+    <Key>disable_instances</Key>
+    <Description>Enable or disable instances on the server</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>losmgr_player_vs_player_range_threshold</Key>
+    <Description>Line of Sight (LoS) Manager won't check LoS for players within this range. (Should be low to prevent abuses)</Description>
+    <DefaultValue>32</DefaultValue>
+    <Value>32</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>housing</Category>
+    <Key>market_enable</Key>
+    <Description>If true the market explorers are enabled and the cache is initialized on server start.</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>classes</Category>
+    <Key>disabled_races</Key>
+    <Description>Serialized list of disabled races, separated by semi-colon or a range with a dash (ie 1-5;7;9)</Description>
+    <DefaultValue />
+    <Value />
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>hps_per_championlevel</Key>
+    <Description>The amount of extra HPs gained each time you reach a new Champion's Level</Description>
+    <DefaultValue>40</DefaultValue>
+    <Value>40</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>losmgr_contamination_zfactor</Key>
+    <Description>Line of Sight (LoS) Manager Contamination will use this to lower or raise the Z checks when updating LoS checks. 0 = Z must be exact, 1 = Z range is radius.</Description>
+    <DefaultValue>0.5</DefaultValue>
+    <Value>0,5</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>pvp</Category>
+    <Key>Timer_PvP_Teleport</Key>
+    <Description>Immunity Timer when player teleports within the same region, in seconds</Description>
+    <DefaultValue>30</DefaultValue>
+    <Value>30</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>keep_rp_multiplier</Key>
+    <Description>Integer multiplier used to increase/decrease RP worth based on keep level difference from 50.</Description>
+    <DefaultValue>50</DefaultValue>
+    <Value>50</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>server</Category>
+    <Key>anon_modifier</Key>
+    <Description>Various modifying options for anon, 0 = default, 1 = /who shows player but as ANON, -1 = disabled</Description>
+    <DefaultValue>0</DefaultValue>
+    <Value>0</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>tower_rp_claim_multiplier</Key>
+    <Description>Integer multiplier used in determining RP reward for claiming towers.</Description>
+    <DefaultValue>100</DefaultValue>
+    <Value>100</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>npc</Category>
+    <Key>pet_autoset_qui_multiplier</Key>
+    <Description>Multiplier to use when auto-setting Pet QUI stat. </Description>
+    <DefaultValue>1</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>housing</Category>
+    <Key>rent_lockbox_payments</Key>
+    <Description>How many rent payments can be stored in the lockbox?</Description>
+    <DefaultValue>4</DefaultValue>
+    <Value>4</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>enable_keep_upgrade_timer</Key>
+    <Description>Enable the keep upgrade timer to slowly raise keep levels?</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0051766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>losmgr_player_vs_environment_cache_timeout</Key>
+    <Description>Set Timeout (in milliseconds) for PvE Line of Sight (LoS) Manager cache data, 0 to disable. (Should be slightly above Brain Think timer to have any effect)</Description>
+    <DefaultValue>1500</DefaultValue>
+    <Value>1500</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>spells</Category>
+    <Key>spell_interrupt_again</Key>
+    <Description />
+    <DefaultValue>100</DefaultValue>
+    <Value>100</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>pvp_unclaimed_keeps_enemy</Key>
+    <Description>Are unclaimed keeps considered the enemy in PvP mode?</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>allow_dual_logins</Key>
+    <Description>Disable to disallow players to connect with more than 1 account at a time.</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>disable_tutorial</Key>
+    <Description>should the server disable the tutorial zone</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>account</Category>
+    <Key>time_between_account_creation_sameip</Key>
+    <Description>The time in minutes between accounts creation from the same ip after 2 creations.</Description>
+    <DefaultValue>15</DefaultValue>
+    <Value>15</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>statsave_interval</Key>
+    <Description>Interval between each DB Stats store in minutes. -1 for deactivated.</Description>
+    <DefaultValue>-1</DefaultValue>
+    <Value>-1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>server</Category>
+    <Key>use_dblanguage</Key>
+    <Description>Use Database Language datas instead of files (if empty = build the table from files)</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>losmgr_enable</Key>
+    <Description>Enable the Line of Sight Manager where overriden methods are implemented.</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>spells</Category>
+    <Key>spell_charm_named_check</Key>
+    <Description>Prevents charm spell to work on Named Mobs, 0 = disable, 1 = enable</Description>
+    <DefaultValue>1</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>pve</Category>
+    <Key>max_camp_bonus</Key>
+    <Description>Max camp bonus</Description>
+    <DefaultValue>2</DefaultValue>
+    <Value>2</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>housing</Category>
+    <Key>housing_rent_villa</Key>
+    <Description>Rent price for a villa.</Description>
+    <DefaultValue>600000</DefaultValue>
+    <Value>600000</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>server</Category>
+    <Key>use_custom_start_locations</Key>
+    <Description>Set to true if you will use another script to set your start locations</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>hours_uptime_between_shutdown</Key>
+    <Description>Hours between a scheduled server shutdown (-1 = no scheduled restart)</Description>
+    <DefaultValue>-1</DefaultValue>
+    <Value>-1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>ban_hackers</Key>
+    <Description>Should we ban hackers, if set to true, bans will be done, if set to false, kicks will be done</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>use_sync_timer</Key>
+    <Description>Shall we use the sync timers utility?</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>server</Category>
+    <Key>serverlistupdate_password</Key>
+    <Description>Password for serverlistupdate.</Description>
+    <DefaultValue />
+    <Value />
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>xmlautoload</Category>
+    <Key>xml_unload_db_directory</Key>
+    <Description>Enforce directory path where the XML Packages are Unloaded From Database (Relative to Scripts or Absolute...)</Description>
+    <DefaultValue>dbupdater/unload</DefaultValue>
+    <Value>dbupdater/unload</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>display_area_enter_screen_desc</Key>
+    <Description>Display centered screen messages if a player enters an area.</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>guild</Category>
+    <Key>alliance_max</Key>
+    <Description>Max Guilds In Alliance - Edit this to change the maximum number of guilds in an alliance -1 = unlimited, 0=disable alliances</Description>
+    <DefaultValue>-1</DefaultValue>
+    <Value>-1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>bug_report_email_addresses</Key>
+    <Description>set to the email addresses you want bug reports sent to (bug reports will only send if the user has set an email address for his account, multiple addresses seperate with ;</Description>
+    <DefaultValue />
+    <Value />
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>server</Category>
+    <Key>enable_pve_speed</Key>
+    <Description>Set to true if you wish to enable the extra 25% increase to speed when not in combat or an RvR zone</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>keep_balance_multiplier</Key>
+    <Description>Multiplier used to determine keep level changes when balancing.  For each keep above or below normal multiply by this.</Description>
+    <DefaultValue>1</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>server</Category>
+    <Key>use_new_actives_ras_scaling</Key>
+    <Description>Use new actives realmabilities (5-Tiers) scaling (1.108+) ?</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>world_npc_update_interval</Key>
+    <Description>How often (milliseconds) will npc's broadcast updates to the clients. Minimum allowed = 1000 (1 second).</Description>
+    <DefaultValue>30000</DefaultValue>
+    <Value>30000</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>use_live_keep_bonuses</Key>
+    <Description>Set to true if you want to use the live keeps bonuses, for example 3% extra xp</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>log_keep_captures</Key>
+    <Description>Turn on logging of keep captures?</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>world_day_increment</Key>
+    <Description>Day Increment (0 to 512, default is 24).  Larger increments make shorter days.</Description>
+    <DefaultValue>24</DefaultValue>
+    <Value>24</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>npc</Category>
+    <Key>pet_autoset_con_base</Key>
+    <Description>Base Value to use when auto-setting Pet CON stat. </Description>
+    <DefaultValue>30</DefaultValue>
+    <Value>30</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>rates</Category>
+    <Key>pve_spell_damage</Key>
+    <Description>The PvE Spell Damage Modifier - Edit this to change the amount of spell damage done when fighting mobs e.g 1.5 is 50% more damage 2.0 is twice the damage (100%) 0.5 is half the damage (50%)</Description>
+    <DefaultValue>1</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>account</Category>
+    <Key>time_between_account_creation</Key>
+    <Description>The time in minutes between 2 accounts creation. This avoid account bombing with dynamic ip. 0 to disable</Description>
+    <DefaultValue>0</DefaultValue>
+    <Value>0</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>npc</Category>
+    <Key>pet_think_interval</Key>
+    <Description>How often should pets think?  Default 1500 (1.5 seconds)</Description>
+    <DefaultValue>1500</DefaultValue>
+    <Value>1500</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>doors_allowpetattack</Key>
+    <Description>Allow player pets to attack keep and tower doors?</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>rates</Category>
+    <Key>item_sell_ratio</Key>
+    <Description>Merchants are buying items at the % of initial value</Description>
+    <DefaultValue>50</DefaultValue>
+    <Value>50</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>pve</Category>
+    <Key>lootgenerator_aurulite_named_count</Key>
+    <Description>Increase count of Aurulite Loot Generator drop for Named mobs. (count * lootgenerator_aurulite_named_count)</Description>
+    <DefaultValue>1.5</DefaultValue>
+    <Value>1,5</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>los_player_check_frequency</Key>
+    <Description>How often are we allowed to check LOS on the same player (seconds)</Description>
+    <DefaultValue>5</DefaultValue>
+    <Value>5</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>server</Category>
+    <Key>load_examples</Key>
+    <Description>Should the server load the example scripts</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>db_language</Key>
+    <Description>What language is the DB</Description>
+    <DefaultValue>EN</DefaultValue>
+    <Value>EN</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>enable_audit_log</Key>
+    <Description>Whether or not to enable the audit log</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>housing</Category>
+    <Key>rent_check_interval</Key>
+    <Description>How often, in minutes, do we check for rent?</Description>
+    <DefaultValue>120</DefaultValue>
+    <Value>120</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>structures_allowpetattack</Key>
+    <Description>Allow player pets to attack keep and tower walls?</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>guild</Category>
+    <Key>new_guild_dues</Key>
+    <Description>Guild dues can be set from 1-100% if enabled, or standard 2% if not</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>rates</Category>
+    <Key>XP_HardCap_Percent</Key>
+    <Description>Hardcap XP a player can earn after all other adjustments are applied. Given in percent of their level. Default is 500%</Description>
+    <DefaultValue>500</DefaultValue>
+    <Value>500</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>npc</Category>
+    <Key>mob_autoset_str_multiplier</Key>
+    <Description>Multiplier to use when auto-setting STR stat. </Description>
+    <DefaultValue>1</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>housing</Category>
+    <Key>housing_rent_mansion</Key>
+    <Description>Rent price for a mansion.</Description>
+    <DefaultValue>1000000</DefaultValue>
+    <Value>1000000</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>load_arrow_summoning</Key>
+    <Description>Should the server load Arrow Summoning items, values True,False</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>cps_tolerance</Key>
+    <Description>Coords per second tolerance before player is identified as a hacker?</Description>
+    <DefaultValue>1000</DefaultValue>
+    <Value>1000</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>keep_rp_claim_multiplier</Key>
+    <Description>Integer multiplier used in determining RP reward for claiming keeps.</Description>
+    <DefaultValue>1000</DefaultValue>
+    <Value>1000</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>disable_bug_reports</Key>
+    <Description>Set to true to disable bug reporting, and false to enable bug reporting</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>server</Category>
+    <Key>group_max_member</Key>
+    <Description>Max number of members allowed in a group.</Description>
+    <DefaultValue>8</DefaultValue>
+    <Value>8</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>world_playertoplayer_update_interval</Key>
+    <Description>How often (milliseconds) will other players packet be broadcasted again to the clients. Minimum allowed = 1000 (1 seconds). 0 will disable this update.</Description>
+    <DefaultValue>1000</DefaultValue>
+    <Value>1000</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>xmlautoload</Category>
+    <Key>xml_autoload_update_enable</Key>
+    <Description>Enable or disable Auto XML Dataase Update Packages (Should be enabled for first run...)</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>classes</Category>
+    <Key>starting_realm_level</Key>
+    <Description>Starting Realm level - Edit this to set which realm level a new player starts the game with</Description>
+    <DefaultValue>0</DefaultValue>
+    <Value>0</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>salvage</Category>
+    <Key>use_salvage_per_realm</Key>
+    <Description>Enable to get back material to use in chars realm. Disable to get back the same material in all realms.</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>housing</Category>
+    <Key>rent_bounty_point_to_gold</Key>
+    <Description>The worth of 1 (one) bounty point in gold (e.g. 1 bp = 1g -&gt; 10000, 1bp = 10g -&gt; 100000)</Description>
+    <DefaultValue>10000</DefaultValue>
+    <Value>10000</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>world_object_update_interval</Key>
+    <Description>How often (milliseconds) will objects (static, housing, doors, broadcast updates to the clients. Minimum allowed = 10000 (10 seconds). 0 will disable this update.</Description>
+    <DefaultValue>30000</DefaultValue>
+    <Value>30000</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>classes</Category>
+    <Key>freelevel_days_hibernia</Key>
+    <Description>days before your elligable for a free level in Hibernia, use -1 to deactivate</Description>
+    <DefaultValue>7</DefaultValue>
+    <Value>7</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>pve</Category>
+    <Key>scroll_drop_rate</Key>
+    <Description>Adjust the drop rate (percent chance) for scrolls.</Description>
+    <DefaultValue>25</DefaultValue>
+    <Value>25</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>rates</Category>
+    <Key>relic_owning_bonus</Key>
+    <Description>Relic Owning Bonus in percent per relic (default 10%) in effect when owning enemy relic</Description>
+    <DefaultValue>10</DefaultValue>
+    <Value>10</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>server_language</Key>
+    <Description>Language of your server. It can be EN, FR or DE.</Description>
+    <DefaultValue>EN</DefaultValue>
+    <Value>EN</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>player_class</Key>
+    <Description>What class should the server use for players</Description>
+    <DefaultValue>DOL.GS.GamePlayer</DefaultValue>
+    <Value>DOL.GS.GamePlayer</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>classes</Category>
+    <Key>allow_cata_slash_level</Key>
+    <Description>Allow catacombs classes to use /level command</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>log_all_gm_commands</Key>
+    <Description>Log all GM commands on the server</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>losmgr_player_vs_environment_range_threshold</Key>
+    <Description>Line of Sight (LoS) Manager won't check LoS for mobs and NPC within this range. (Shouldn't be under default to prevent LoS flood)</Description>
+    <DefaultValue>125</DefaultValue>
+    <Value>125</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>classes</Category>
+    <Key>give_dol_respec_at_level</Key>
+    <Description>What levels does we give a DOL respec ? separated by a semi-colon or a range with a dash (ie 1-5;7;9)</Description>
+    <DefaultValue>0</DefaultValue>
+    <Value>0</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>guild</Category>
+    <Key>guild_banner_lost_time</Key>
+    <Description>When a banner is lost to the enemy how many minutes is the wait before purchase is allowed?</Description>
+    <DefaultValue>1440</DefaultValue>
+    <Value>1440</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>max_players</Key>
+    <Description>Max Players - Edit this to set the maximum players allowed to connect at the same time set 0 for unlimited</Description>
+    <DefaultValue>0</DefaultValue>
+    <Value>0</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>max_items_per_packet</Key>
+    <Description>Max number of inventory items sent per packet.</Description>
+    <DefaultValue>30</DefaultValue>
+    <Value>30</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>classes</Category>
+    <Key>disabled_classes</Key>
+    <Description>Serialized list of disabled classes, separated by semi-colon or a range with a dash (ie 1-5;7;9)</Description>
+    <DefaultValue />
+    <Value />
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>classes</Category>
+    <Key>starting_bps</Key>
+    <Description>Starting Bounty Points - Edit this to change the amount of Bounty Points the new characters start the game with</Description>
+    <DefaultValue>0</DefaultValue>
+    <Value>0</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>npc</Category>
+    <Key>gamenpc_base_con</Key>
+    <Description>GameNPC's base Constitution</Description>
+    <DefaultValue>30</DefaultValue>
+    <Value>30</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>housing</Category>
+    <Key>housing_lot_price_per_hour</Key>
+    <Description>Lot price reduction per hour.</Description>
+    <DefaultValue>12000000</DefaultValue>
+    <Value>12000000</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>pve</Category>
+    <Key>adventurewing_time_to_destroy</Key>
+    <Description>Set the time before Instanced Adventure Wings (Catacombs) are destroy when empty (in minutes).</Description>
+    <DefaultValue>5</DefaultValue>
+    <Value>5</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>housing</Category>
+    <Key>market_enable_log</Key>
+    <Description>Enable debug logging of all market activity</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>world_item_decay_time</Key>
+    <Description>How long (milliseconds) will an item dropped on the ground stay in the world.</Description>
+    <DefaultValue>180000</DefaultValue>
+    <Value>180000</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>spells</Category>
+    <Key>spell_interrupt_recast</Key>
+    <Description />
+    <DefaultValue>2000</DefaultValue>
+    <Value>2000</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>classes</Category>
+    <Key>slash_level_target</Key>
+    <Description>What level should /level bring you to? 0 is disabled.</Description>
+    <DefaultValue>0</DefaultValue>
+    <Value>0</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>server</Category>
+    <Key>show_logins_channel</Key>
+    <Description>What channel should be used for login messages? See eChatType, default is System.</Description>
+    <DefaultValue>0</DefaultValue>
+    <Value>0</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>starting_keep_claim_level</Key>
+    <Description>The level a claimed keep starts at.</Description>
+    <DefaultValue>5</DefaultValue>
+    <Value>5</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>npc</Category>
+    <Key>allow_roam</Key>
+    <Description>Allow mobs to roam on the server</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>enable_zone_bonuses</Key>
+    <Description>Are Zone Bonuses Enabled?</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>housing</Category>
+    <Key>max_num_houses</Key>
+    <Description>Max number of houses supported on this server.</Description>
+    <DefaultValue>5000</DefaultValue>
+    <Value>5000</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>load_hookpoints</Key>
+    <Description>Load keep hookpoints</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>account</Category>
+    <Key>allow_auto_account_creation</Key>
+    <Description>Allow auto-account creation  This is also set in serverconfig.xml and must be enabled for this property to work.</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>classes</Category>
+    <Key>turret_area_cap_count</Key>
+    <Description>Sets the cap of the Area for turrets</Description>
+    <DefaultValue>10</DefaultValue>
+    <Value>10</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>classes</Category>
+    <Key>turret_area_cap_radius</Key>
+    <Description>Sets the Radius which is checked for the turretareacap</Description>
+    <DefaultValue>1000</DefaultValue>
+    <Value>1000</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>max_rewardquest_description_length</Key>
+    <Description>Maximum length for reward quest description text to prevent client crashes.</Description>
+    <DefaultValue>255</DefaultValue>
+    <Value>255</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>log</Category>
+    <Key>log_inventory</Key>
+    <Description>Enable inventory logging (trade, loot, buy, sell, quests,...)</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>losmgr_max_contamination_radius</Key>
+    <Description>Line of Sight (LoS) Manager will update LoS of Mobs/NPCs in this range of the checker if target is a Mob, and highest value used for contamination LoS updates.</Description>
+    <DefaultValue>350</DefaultValue>
+    <Value>350</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>housing</Category>
+    <Key>max_indoor_house_items</Key>
+    <Description>Max number of items allowed inside a players house.</Description>
+    <DefaultValue>40</DefaultValue>
+    <Value>40</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>account</Category>
+    <Key>backup_deleted_characters</Key>
+    <Description>Should we backup deleted characters and not delete associated content?</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>world_pickup_distance</Key>
+    <Description>How far before you can no longer pick up an object (loot for example).</Description>
+    <DefaultValue>256</DefaultValue>
+    <Value>256</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>housing</Category>
+    <Key>housing_rent_house</Key>
+    <Description>Rent price for a house.</Description>
+    <DefaultValue>350000</DefaultValue>
+    <Value>350000</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>pve</Category>
+    <Key>spell_hitchance_damage_reduction_multiplier</Key>
+    <Description>Spell damage reduction multiplier based on hitchance if &lt; 55%. Lower numbers reduce damage reduction.</Description>
+    <DefaultValue>4.3</DefaultValue>
+    <Value>4,3</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>pve</Category>
+    <Key>lootgenerator_atlanteanglass_base_chance</Key>
+    <Description>Base chance for dropping Atlantean Glass using Loot Generator.</Description>
+    <DefaultValue>20</DefaultValue>
+    <Value>20</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>starting_keep_level</Key>
+    <Description>The level an unclaimed keep starts at.</Description>
+    <DefaultValue>4</DefaultValue>
+    <Value>4</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>npc</Category>
+    <Key>mob_damage_increase_startlevel</Key>
+    <Description>What level to start increasing mob damage.</Description>
+    <DefaultValue>30</DefaultValue>
+    <Value>30</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>housing</Category>
+    <Key>housing_starting_npctemplate_id</Key>
+    <Description>The starting NPCTemplate ID to use for housing NPC's</Description>
+    <DefaultValue>500</DefaultValue>
+    <Value>500</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>client_version_min</Key>
+    <Description>Minimum Client Version - Edit this to change which client version at the least have to be used: -1 = any, 1.80 = 180</Description>
+    <DefaultValue>-1</DefaultValue>
+    <Value>-1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>load_keeps</Key>
+    <Description>Load keeps</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>rates</Category>
+    <Key>XP_PVP_Cap_Percent</Key>
+    <Description>Maximum XP a player can earn killing another player, given in percent of their level. Default is 125%</Description>
+    <DefaultValue>125</DefaultValue>
+    <Value>125</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>classes</Category>
+    <Key>starting_level</Key>
+    <Description>Starting Level - Edit this to set which levels experience a new player start the game with</Description>
+    <DefaultValue>1</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>npc</Category>
+    <Key>pet_autoset_dex_multiplier</Key>
+    <Description>Multiplier to use when auto-setting Pet DEX stat. </Description>
+    <DefaultValue>1</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>rates</Category>
+    <Key>block_cap</Key>
+    <Description>Block Rate Cap Modifier - Edit this to change the highest possible block rate against an enemy (Hard Cap) in game e.g .60 = 60%</Description>
+    <DefaultValue>0.6</DefaultValue>
+    <Value>0,6</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>use_new_keeps</Key>
+    <Description>Keeps to load. 0 for Old Keeps, 1 for new keeps, 2 for both.</Description>
+    <DefaultValue>2</DefaultValue>
+    <Value>2</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>rates</Category>
+    <Key>mount_over_level_35_speed</Key>
+    <Description>What is the speed of player controlled mounts over level 35?</Description>
+    <DefaultValue>145</DefaultValue>
+    <Value>145</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>housing</Category>
+    <Key>market_fee_percent</Key>
+    <Description>What is the additional fee (%) charged to players using the market explorer?</Description>
+    <DefaultValue>20</DefaultValue>
+    <Value>20</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>set_structures_toughness</Key>
+    <Description>This value is % of total damages inflicted to walls. (100=full damages)</Description>
+    <DefaultValue>100</DefaultValue>
+    <Value>100</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>server</Category>
+    <Key>enable_serverlistupdate</Key>
+    <Description>Enable in-built serverlistupdate script?</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>npc</Category>
+    <Key>gamenpc_default_classtype</Key>
+    <Description>Change the classtype of any npc of classtype DOL.GS.GameNPC to this.</Description>
+    <DefaultValue>DOL.GS.GameNPC</DefaultValue>
+    <Value>DOL.GS.GameNPC</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>losmgr_npc_contamination_radius</Key>
+    <Description>Line of Sight (LoS) Manager will update LoS of Mobs/NPCs in this range of the checker, and highest value used for Player contamination LoS updates.</Description>
+    <DefaultValue>250</DefaultValue>
+    <Value>250</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>server</Category>
+    <Key>enable_encumberance_speed_loss</Key>
+    <Description>Set to true if you wish to enable the encumberance speed loss</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>rates</Category>
+    <Key>mount_under_level_35_speed</Key>
+    <Description>What is the speed of player controlled mounts under level 35?</Description>
+    <DefaultValue>135</DefaultValue>
+    <Value>135</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>cps_time_tolerance</Key>
+    <Description>Time tolerance for CPS before player is identified as a move hacker?</Description>
+    <DefaultValue>200</DefaultValue>
+    <Value>200</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>log</Category>
+    <Key>log_inventory_loot</Key>
+    <Description>Enable loot logging in inventory log (log_inventory must be enabled)</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>command_spam_delay</Key>
+    <Description>The spam delay, default 1500ms before the same command can be issued again.</Description>
+    <DefaultValue>1500</DefaultValue>
+    <Value>1500</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>classes</Category>
+    <Key>slash_level_requirement</Key>
+    <Description>What level should you have on your account be able to use /level?</Description>
+    <DefaultValue>50</DefaultValue>
+    <Value>50</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>npc</Category>
+    <Key>mob_autoset_qui_multiplier</Key>
+    <Description>Multiplier to use when auto-setting QUI stat. </Description>
+    <DefaultValue>1</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>npc</Category>
+    <Key>mob_autoset_dex_multiplier</Key>
+    <Description>Multiplier to use when auto-setting DEX stat. </Description>
+    <DefaultValue>1</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>guild</Category>
+    <Key>guild_buff_bp</Key>
+    <Description>Extra BP gain percent for the guild BP buff?</Description>
+    <DefaultValue>0</DefaultValue>
+    <Value>0</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>autoequip_guards_loaded_from_db</Key>
+    <Description>Should guards loaded from db be equipped by Keepsystem? (false=load equipment from db)</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>always_check_los</Key>
+    <Description>Perform a LoS check before aggroing. This can involve a huge lag, handle with care!</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>guild</Category>
+    <Key>guild_buff_crafting</Key>
+    <Description>Percent speed gain for the guild crafting buff?</Description>
+    <DefaultValue>5</DefaultValue>
+    <Value>5</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>load_quests</Key>
+    <Description>Should the server load quests, values True,False</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>rates</Category>
+    <Key>rp_rate</Key>
+    <Description>The Realm Points Rate Modifier - Edit this to change the rate at which you gain realm points e.g 1.5 is 50% more 2.0 is twice the amount (100%) 0.5 is half the amount (50%)</Description>
+    <DefaultValue>1</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>pve</Category>
+    <Key>atlantis_teleport_plvl</Key>
+    <Description>Set the minimum privilege level required to enter Atlantis zones.</Description>
+    <DefaultValue>2</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>pve</Category>
+    <Key>artifact_xp_rate</Key>
+    <Description>Adjust the rate at which all artifacts gain xp.  Higher numbers mean slower XP gain. XP / this = result</Description>
+    <DefaultValue>350</DefaultValue>
+    <Value>350</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>tower_balance_multiplier</Key>
+    <Description>Multiplier used to determine tower level changes when balancing.  For each keep above or below normal multiply by this.</Description>
+    <DefaultValue>0.15</DefaultValue>
+    <Value>0,15</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>rates</Category>
+    <Key>XP_Group_Cap_Percent</Key>
+    <Description>Maximum XP a player can earn while in a group, given in percent of their level. Default is 125%</Description>
+    <DefaultValue>125</DefaultValue>
+    <Value>125</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>pve</Category>
+    <Key>missrate_reduction_per_attackers</Key>
+    <Description>Adjustment to missrate per number of attackers</Description>
+    <DefaultValue>0</DefaultValue>
+    <Value>0</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>world</Category>
+    <Key>weather_log_events</Key>
+    <Description>Should weather events be shown in the Log (and on the console).</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>classes</Category>
+    <Key>buff_range</Key>
+    <Description>The range that concentration buffs can last from the owner before it expires.  0 for unlimited.</Description>
+    <DefaultValue>0</DefaultValue>
+    <Value>0</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>xmlautoload</Category>
+    <Key>xml_load_replace_directory</Key>
+    <Description>Enforce directory path to where the XML Replace Packages are Loaded To Database (Relative to Scripts or Absolute...)</Description>
+    <DefaultValue>dbupdater/replace</DefaultValue>
+    <Value>dbupdater/replace</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>server</Category>
+    <Key>disable_appeal_system</Key>
+    <Description>Disable the /Appeal System</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>rates</Category>
+    <Key>pvp_melee_damage</Key>
+    <Description>The PvP Melee Damage Modifier - Edit this to change the amount of melee damage done when fighting players e.g 1.5 is 50% more damage 2.0 is twice the damage (100%) 0.5 is half the damage (50%)</Description>
+    <DefaultValue>1</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>server</Category>
+    <Key>show_logins</Key>
+    <Description>Show login messages when players log in and out of game?</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>allow_all_realms</Key>
+    <Description>should we allow characters to be created on all realms using a single account</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>tower_rp_multiplier</Key>
+    <Description>Integer multiplier used to increase/decrease RP worth based on tower level difference from 50.</Description>
+    <DefaultValue>50</DefaultValue>
+    <Value>50</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>keeps</Category>
+    <Key>pet_spam_damage_multiplier</Key>
+    <Description>Modifier used to adjust damage for pet spam classes (currently animist and theurgist).</Description>
+    <DefaultValue>1</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>rates</Category>
+    <Key>rp_worth_seconds</Key>
+    <Description>Realm Points Worth Seconds - Edit this to change how many seconds until a player is worth RPs again after being killed </Description>
+    <DefaultValue>300</DefaultValue>
+    <Value>300</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>log</Category>
+    <Key>log_inventory_merchant</Key>
+    <Description>Enable merchant logging in inventory log (log_inventory must be enabled)</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>system</Category>
+    <Key>use_npcguildscripts</Key>
+    <Description>Use the NPC Guild Scripts</Description>
+    <DefaultValue>True</DefaultValue>
+    <Value>True</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>rates</Category>
+    <Key>heal_pvp_damage_value_rp</Key>
+    <Description>How many % of heal final value is obtained in rps?</Description>
+    <DefaultValue>8</DefaultValue>
+    <Value>8</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>rates</Category>
+    <Key>item_condition_loss_chance</Key>
+    <Description>What chance does armor or weapon have to lose condition?</Description>
+    <DefaultValue>5</DefaultValue>
+    <Value>5</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>housing</Category>
+    <Key>market_search_limit</Key>
+    <Description>How many items can the market search return?</Description>
+    <DefaultValue>300</DefaultValue>
+    <Value>300</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>rates</Category>
+    <Key>pve_melee_damage</Key>
+    <Description>The PvE Melee Damage Modifier - Edit this to change the amount of melee damage done when fighting mobs e.g 1.5 is 50% more damage 2.0 is twice the damage (100%) 0.5 is half the damage (50%)</Description>
+    <DefaultValue>1</DefaultValue>
+    <Value>1</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>salvage</Category>
+    <Key>use_new_salvage</Key>
+    <Description>Enable to use a new system calcul of salvage count based on object_type.</Description>
+    <DefaultValue>False</DefaultValue>
+    <Value>False</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>pve</Category>
+    <Key>lootgenerator_dragonscales_named_count</Key>
+    <Description>Increase count of Dragon Scales Loot Generator drop for Named mobs. (count * lootgenerator_dragonscales_named_count)</Description>
+    <DefaultValue>1.5</DefaultValue>
+    <Value>1,5</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>housing</Category>
+    <Key>rent_due_days</Key>
+    <Description>How often, in days, is rent due?  0 for never, negative for testing repossession.</Description>
+    <DefaultValue>7</DefaultValue>
+    <Value>7</Value>
+  </ServerProperty>
+  <ServerProperty>
+    <LastTimeRowUpdated>2014-12-13T15:02:22.0061766Z</LastTimeRowUpdated>
+    <Category>npc</Category>
+    <Key>npc_min_respawn_interval</Key>
+    <Description>Minimum respawn time, in minutes, for npc's without a set respawninterval</Description>
+    <DefaultValue>5</DefaultValue>
+    <Value>5</Value>
+  </ServerProperty>
+</ArrayOfServerProperty>

@@ -1,0 +1,1867 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDBSpellLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2452475Z</LastTimeRowUpdated>
+    <KeyName>Abilities Spells</KeyName>
+    <Name>Abilities Spells</Name>
+    <Spec>Abilities Spells</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Abrasion</KeyName>
+    <Name>Abrasion</Name>
+    <Spec>Earth Magic</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>5</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>AirElementalStun</KeyName>
+    <Name>AirElementalStun</Name>
+    <Spec>AirElementalStun</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>AllyHealOverTime</KeyName>
+    <Name>AllyHealOverTime</Name>
+    <Spec>AllyHealOverTime</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Arboreal Mastery</KeyName>
+    <Name>Arboreal Mastery</Name>
+    <Spec>Arboreal Path</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Arboreal Path</KeyName>
+    <Name>Arboreal Path</Name>
+    <Spec>Arboreal Path</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Arboreal Path Pet</KeyName>
+    <Name>Arboreal Path Pet</Name>
+    <Spec>Arboreal Path Pet</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Arboreal Path Spec Pet</KeyName>
+    <Name>Arboreal Path Spec Pet</Name>
+    <Spec>Arboreal Path Spec Pet</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Archery</KeyName>
+    <Name>Archery</Name>
+    <Spec>Archery</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Augmentation</KeyName>
+    <Name>Augmentation</Name>
+    <Spec>Augmentation</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Aura Manipulation</KeyName>
+    <Name>Aura Manipulation</Name>
+    <Spec>Aura Manipulation</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Banelord</KeyName>
+    <Name>Banelord</Name>
+    <Spec>Banelord</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Bard Music</KeyName>
+    <Name>Music</Name>
+    <Spec>Music</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Bard Music Spec</KeyName>
+    <Name>Music</Name>
+    <Spec>Music</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Bard Nurture Spec</KeyName>
+    <Name>Nurture</Name>
+    <Spec>Nurture</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>48</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Battlemaster</KeyName>
+    <Name>Battlemaster</Name>
+    <Spec>Battlemaster</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Battlesongs</KeyName>
+    <Name>Battlesongs</Name>
+    <Spec>Battlesongs</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Beastcraft</KeyName>
+    <Name>Beastcraft</Name>
+    <Spec>Beastcraft</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Bedazzling</KeyName>
+    <Name>Bedazzling</Name>
+    <Spec>Light</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>41</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Body Destruction</KeyName>
+    <Name>Body Destruction</Name>
+    <Spec>Body Magic</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Bone Army</KeyName>
+    <Name>Bone Army</Name>
+    <Spec>Bone Army</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Bone Guardians</KeyName>
+    <Name>Bone Guardians</Name>
+    <Spec>Suppression</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>30</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Bone Mystics</KeyName>
+    <Name>Bone Mystics</Name>
+    <Spec>Darkness</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>30</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Bone Warriors</KeyName>
+    <Name>Bone Warriors</Name>
+    <Spec>Bone Army</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Calefaction</KeyName>
+    <Name>Calefaction</Name>
+    <Spec>Earth Magic</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>7</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Abilities</KeyName>
+    <Name>Champion Abilities</Name>
+    <Spec>Champion Abilities</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Abilities Albion</KeyName>
+    <Name>Champion Abilities</Name>
+    <Spec>Champion Level Albion</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Abilities Hibernia</KeyName>
+    <Name>Champion Abilities</Name>
+    <Spec>Champion Level Hibernia</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Abilities Midgard</KeyName>
+    <Name>Champion Abilities</Name>
+    <Spec>Champion Level Midgard</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Acolyte 1</KeyName>
+    <Name>Champion Acolyte 1</Name>
+    <Spec>Champion Acolyte 1</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Acolyte 2</KeyName>
+    <Name>Champion Acolyte 2</Name>
+    <Spec>Champion Acolyte 2</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Acolyte 3</KeyName>
+    <Name>Champion Acolyte 3</Name>
+    <Spec>Champion Acolyte 3</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Acolyte 4</KeyName>
+    <Name>Champion Acolyte 4</Name>
+    <Spec>Champion Acolyte 4</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Albion Rogue 1</KeyName>
+    <Name>Champion Albion Rogue 1</Name>
+    <Spec>Champion Albion Rogue 1</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Albion Rogue 2</KeyName>
+    <Name>Champion Albion Rogue 2</Name>
+    <Spec>Champion Albion Rogue 2</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Albion Rogue 3</KeyName>
+    <Name>Champion Albion Rogue 3</Name>
+    <Spec>Champion Albion Rogue 3</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Albion Rogue 4</KeyName>
+    <Name>Champion Albion Rogue 4</Name>
+    <Spec>Champion Albion Rogue 4</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Disciple 1</KeyName>
+    <Name>Champion Disciple 1</Name>
+    <Spec>Champion Disciple 1</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Disciple 2</KeyName>
+    <Name>Champion Disciple 2</Name>
+    <Spec>Champion Disciple 2</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Disciple 3</KeyName>
+    <Name>Champion Disciple 3</Name>
+    <Spec>Champion Disciple 3</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Disciple 4</KeyName>
+    <Name>Champion Disciple 4</Name>
+    <Spec>Champion Disciple 4</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Elementalist 1</KeyName>
+    <Name>Champion Elementalist 1</Name>
+    <Spec>Champion Elementalist 1</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Elementalist 2</KeyName>
+    <Name>Champion Elementalist 2</Name>
+    <Spec>Champion Elementalist 2</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Elementalist 3</KeyName>
+    <Name>Champion Elementalist 3</Name>
+    <Spec>Champion Elementalist 3</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Elementalist 4</KeyName>
+    <Name>Champion Elementalist 4</Name>
+    <Spec>Champion Elementalist 4</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Fighter 1</KeyName>
+    <Name>Champion Fighter 1</Name>
+    <Spec>Champion Fighter 1</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Fighter 2</KeyName>
+    <Name>Champion Fighter 2</Name>
+    <Spec>Champion Fighter 2</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Fighter 3</KeyName>
+    <Name>Champion Fighter 3</Name>
+    <Spec>Champion Fighter 3</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Fighter 4</KeyName>
+    <Name>Champion Fighter 4</Name>
+    <Spec>Champion Fighter 4</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Forester 1</KeyName>
+    <Name>Champion Forester 1</Name>
+    <Spec>Champion Forester 1</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Forester 2</KeyName>
+    <Name>Champion Forester 2</Name>
+    <Spec>Champion Forester 2</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Forester 3</KeyName>
+    <Name>Champion Forester 3</Name>
+    <Spec>Champion Forester 3</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Forester 4</KeyName>
+    <Name>Champion Forester 4</Name>
+    <Spec>Champion Forester 4</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Guardian 1</KeyName>
+    <Name>Champion Guardian 1</Name>
+    <Spec>Champion Guardian 1</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Guardian 2</KeyName>
+    <Name>Champion Guardian 2</Name>
+    <Spec>Champion Guardian 2</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Guardian 3</KeyName>
+    <Name>Champion Guardian 3</Name>
+    <Spec>Champion Guardian 3</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Guardian 4</KeyName>
+    <Name>Champion Guardian 4</Name>
+    <Spec>Champion Guardian 4</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Mage 1</KeyName>
+    <Name>Champion Mage 1</Name>
+    <Spec>Champion Mage 1</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Mage 2</KeyName>
+    <Name>Champion Mage 2</Name>
+    <Spec>Champion Mage 2</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Mage 3</KeyName>
+    <Name>Champion Mage 3</Name>
+    <Spec>Champion Mage 3</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Mage 4</KeyName>
+    <Name>Champion Mage 4</Name>
+    <Spec>Champion Mage 4</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Magician 1</KeyName>
+    <Name>Champion Magician 1</Name>
+    <Spec>Champion Magician 1</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Magician 2</KeyName>
+    <Name>Champion Magician 2</Name>
+    <Spec>Champion Magician 2</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Magician 3</KeyName>
+    <Name>Champion Magician 3</Name>
+    <Spec>Champion Magician 3</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Magician 4</KeyName>
+    <Name>Champion Magician 4</Name>
+    <Spec>Champion Magician 4</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Magician 5</KeyName>
+    <Name>Champion Magician 5</Name>
+    <Spec>Champion Magician 5</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Midgard Rogue 1</KeyName>
+    <Name>Champion Midgard Rogue 1</Name>
+    <Spec>Champion Midgard Rogue 1</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Midgard Rogue 2</KeyName>
+    <Name>Champion Midgard Rogue 2</Name>
+    <Spec>Champion Midgard Rogue 2</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Midgard Rogue 3</KeyName>
+    <Name>Champion Midgard Rogue 3</Name>
+    <Spec>Champion Midgard Rogue 3</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Midgard Rogue 4</KeyName>
+    <Name>Champion Midgard Rogue 4</Name>
+    <Spec>Champion Midgard Rogue 4</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Mystic 1</KeyName>
+    <Name>Champion Mystic 1</Name>
+    <Spec>Champion Mystic 1</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Mystic 2</KeyName>
+    <Name>Champion Mystic 2</Name>
+    <Spec>Champion Mystic 2</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Mystic 3</KeyName>
+    <Name>Champion Mystic 3</Name>
+    <Spec>Champion Mystic 3</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Mystic 4</KeyName>
+    <Name>Champion Mystic 4</Name>
+    <Spec>Champion Mystic 4</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Mystic 5</KeyName>
+    <Name>Champion Mystic 5</Name>
+    <Spec>Champion Mystic 5</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Naturalist 1</KeyName>
+    <Name>Champion Naturalist 1</Name>
+    <Spec>Champion Naturalist 1</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Naturalist 2</KeyName>
+    <Name>Champion Naturalist 2</Name>
+    <Spec>Champion Naturalist 2</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Naturalist 3</KeyName>
+    <Name>Champion Naturalist 3</Name>
+    <Spec>Champion Naturalist 3</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Naturalist 4</KeyName>
+    <Name>Champion Naturalist 4</Name>
+    <Spec>Champion Naturalist 4</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Seer 1</KeyName>
+    <Name>Champion Seer 1</Name>
+    <Spec>Champion Seer 1</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Seer 2</KeyName>
+    <Name>Champion Seer 2</Name>
+    <Spec>Champion Seer 2</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Seer 3</KeyName>
+    <Name>Champion Seer 3</Name>
+    <Spec>Champion Seer 3</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Seer 4</KeyName>
+    <Name>Champion Seer 4</Name>
+    <Spec>Champion Seer 4</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Seer 5</KeyName>
+    <Name>Champion Seer 5</Name>
+    <Spec>Champion Seer 5</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Stalker 1</KeyName>
+    <Name>Champion Stalker 1</Name>
+    <Spec>Champion Stalker 1</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Stalker 2</KeyName>
+    <Name>Champion Stalker 2</Name>
+    <Spec>Champion Stalker 2</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Stalker 3</KeyName>
+    <Name>Champion Stalker 3</Name>
+    <Spec>Champion Stalker 3</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Stalker 4</KeyName>
+    <Name>Champion Stalker 4</Name>
+    <Spec>Champion Stalker 4</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Viking 1</KeyName>
+    <Name>Champion Viking 1</Name>
+    <Spec>Champion Viking 1</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Viking 2</KeyName>
+    <Name>Champion Viking 2</Name>
+    <Spec>Champion Viking 2</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Viking 3</KeyName>
+    <Name>Champion Viking 3</Name>
+    <Spec>Champion Viking 3</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Champion Viking 4</KeyName>
+    <Name>Champion Viking 4</Name>
+    <Spec>Champion Viking 4</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Chants</KeyName>
+    <Name>Chants</Name>
+    <Spec>Chants</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Character Abilities</KeyName>
+    <Name>Character Abilities</Name>
+    <Spec>unknown</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Combat Style Effects</KeyName>
+    <Name>Combat Style Effects</Name>
+    <Spec>unknown</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Convoker</KeyName>
+    <Name>Convoker</Name>
+    <Spec>Convoker</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Creeping Path</KeyName>
+    <Name>Creeping Path</Name>
+    <Spec>Creeping Path</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Creeping Path Pet</KeyName>
+    <Name>Creeping Path Pet</Name>
+    <Spec>Creeping Path Pet</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Creeping Path Spec</KeyName>
+    <Name>Creeping Path Spec</Name>
+    <Spec>Creeping Path</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Creeping Path Spec Pet</KeyName>
+    <Name>Arboreal Path Spec Pet</Name>
+    <Spec>Arboreal Path Spec Pet</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Cursing</KeyName>
+    <Name>Cursing</Name>
+    <Spec>Cursing</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Cursing Spec</KeyName>
+    <Name>Cursing Spec</Name>
+    <Spec>Cursing</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Darkness</KeyName>
+    <Name>Darkness</Name>
+    <Spec>Darkness</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Death Servant</KeyName>
+    <Name>Death Servant</Name>
+    <Spec>Death Servant</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Death Servant Spec</KeyName>
+    <Name>Death Servant Mastery</Name>
+    <Spec>Death Servant</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Deathsight</KeyName>
+    <Name>Deathsight</Name>
+    <Spec>Deathsight</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Deathsight Spec</KeyName>
+    <Name>Deathsight Mastery</Name>
+    <Spec>Deathsight</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>DefensiveProc</KeyName>
+    <Name>DefensiveProc</Name>
+    <Spec>unknown</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Dementia</KeyName>
+    <Name>Dementia</Name>
+    <Spec>Dementia</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Disorientation</KeyName>
+    <Name>Disorientation</Name>
+    <Spec>Body Magic</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>8</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Domination</KeyName>
+    <Name>Domination</Name>
+    <Spec>Mind Magic</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Dragon Magic</KeyName>
+    <Name>Dragon Magic</Name>
+    <Spec>Dragon Magic</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Druid Nature Magic</KeyName>
+    <Name>Nature</Name>
+    <Spec>Nature</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Druid Nature Spec</KeyName>
+    <Name>Nature</Name>
+    <Spec>Nature</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Druid Nurture Spec</KeyName>
+    <Name>Nurture</Name>
+    <Spec>Nurture</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>47</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Empowering</KeyName>
+    <Name>Empowering</Name>
+    <Spec>Mana</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>41</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Enchantment</KeyName>
+    <Name>Enchantment</Name>
+    <Spec>Enchantments</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Enchantment Mastery</KeyName>
+    <Name>Enchantment Mastery</Name>
+    <Spec>Enchantments</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Enhancement</KeyName>
+    <Name>Enhancement</Name>
+    <Spec>Enhancement</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Essence Manipulation</KeyName>
+    <Name>Essence Manipulation</Name>
+    <Spec>Body Magic</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>13</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Ethereal Shriek</KeyName>
+    <Name>Ethereal Shriek</Name>
+    <Spec>Ethereal Shriek</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Friar Enhancement Spec</KeyName>
+    <Name>Enhancement</Name>
+    <Spec>Enhancement</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>10</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Fulltank Abilities</KeyName>
+    <Name>Fulltank Abilities</Name>
+    <Spec>Fulltank Abilities</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Guardian Angel</KeyName>
+    <Name>Enhancement</Name>
+    <Spec>Enhancement</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>6</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Healer Augmentation Spec</KeyName>
+    <Name>Augmentation</Name>
+    <Spec>Augmentation</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>26</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Healer Mending Spec</KeyName>
+    <Name>Mending</Name>
+    <Spec>Mending</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>26</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Heretic Enhancement</KeyName>
+    <Name>Enhancement</Name>
+    <Spec>Enhancement</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>33</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Heretic Enhancement Spec</KeyName>
+    <Name>Enhancement</Name>
+    <Spec>Enhancement</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>33</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Heretic Rejuvenation Spec</KeyName>
+    <Name>Rejuvenation</Name>
+    <Spec>Rejuvenation</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>33</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Hexing</KeyName>
+    <Name>Hexing</Name>
+    <Spec>Hexing</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Holism</KeyName>
+    <Name>Holism</Name>
+    <Spec>Mana</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>42</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>IceElementalDD</KeyName>
+    <Name>IceElementalDD</Name>
+    <Spec>IceElementalDD</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Illusions</KeyName>
+    <Name>Illusions</Name>
+    <Spec>Light</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>42</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>InfiltratorAbilities</KeyName>
+    <Name>Abilities</Name>
+    <Spec>unknown</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Instruments</KeyName>
+    <Name>Instruments</Name>
+    <Spec>Instruments</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Item Effects</KeyName>
+    <Name>Item Effects</Name>
+    <Spec>unknown</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Item Spells</KeyName>
+    <Name>Item Spells</Name>
+    <Spec>unknown</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Liquifaction</KeyName>
+    <Name>Liquifaction</Name>
+    <Spec>Cold Magic</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>7</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Magnetism</KeyName>
+    <Name>Magnetism</Name>
+    <Spec>Magnetism</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Matter</KeyName>
+    <Name>Matter</Name>
+    <Spec>Matter Magic</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Matter Manipulation</KeyName>
+    <Name>Matter Manipulation</Name>
+    <Spec>Matter Magic</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>13</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Mending</KeyName>
+    <Name>Mending</Name>
+    <Spec>Mending</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Mentalism</KeyName>
+    <Name>Mentalism</Name>
+    <Spec>Mentalism</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Mind Mastery</KeyName>
+    <Name>Mind Mastery</Name>
+    <Spec>Mentalism</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Mind Twisting</KeyName>
+    <Name>Mind Twisting</Name>
+    <Spec>Mind Magic</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Mob Spells</KeyName>
+    <Name>Mob Spells</Name>
+    <Spec>Mob Spells</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Mundane Poisons</KeyName>
+    <Name>Mundane Poisons</Name>
+    <Spec>Envenom</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Necro Pet Insta Spells</KeyName>
+    <Name>Necro Pet Insta Spells</Name>
+    <Spec>unknown</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Nightshade</KeyName>
+    <Name>Nightshade Magic</Name>
+    <Spec>Stealth</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>49</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>NightshadeAbilities</KeyName>
+    <Name>Abilities</Name>
+    <Spec>unknown</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Nurture</KeyName>
+    <Name>Nurture</Name>
+    <Spec>Nurture</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Nurture Warden Spec</KeyName>
+    <Name>Nurture Warden Spec</Name>
+    <Spec>Nurture</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>46</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Odin's Will</KeyName>
+    <Name>Odin's Will</Name>
+    <Spec>Odin's Will</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>OffensiveProc</KeyName>
+    <Name>OffensiveProc</Name>
+    <Spec>unknown</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Pacification</KeyName>
+    <Name>Pacification</Name>
+    <Spec>Pacification</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Pacification Spec</KeyName>
+    <Name>Pacification</Name>
+    <Spec>Pacification</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Painworking</KeyName>
+    <Name>Painworking</Name>
+    <Spec>Painworking</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Painworking Spec</KeyName>
+    <Name>Painworking Mastery</Name>
+    <Spec>Painworking</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Path of Air</KeyName>
+    <Name>Path of Air</Name>
+    <Spec>Wind Magic</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Path of Earth</KeyName>
+    <Name>Path of Earth</Name>
+    <Spec>Earth Magic</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Path of Fire</KeyName>
+    <Name>Path of Fire</Name>
+    <Spec>Fire Magic</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Path of Ice</KeyName>
+    <Name>Path of Ice</Name>
+    <Spec>Cold Magic</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Pathfinding</KeyName>
+    <Name>Pathfinding</Name>
+    <Spec>Pathfinding</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Perfecter</KeyName>
+    <Name>Perfecter</Name>
+    <Spec>Perfecter</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>PetBuff</KeyName>
+    <Name>PetBuff</Name>
+    <Spec>PetBuff</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Phantasmal Wail</KeyName>
+    <Name>Phantasmal Wail</Name>
+    <Spec>Phantasmal Wail</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Player poisons</KeyName>
+    <Name>Player poisons</Name>
+    <Spec>unknown</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Potions</KeyName>
+    <Name>Potions</Name>
+    <Spec>unknown</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Power Strikes</KeyName>
+    <Name>Power Strikes</Name>
+    <Spec>Power Strikes</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Pyromancy</KeyName>
+    <Name>Pyromancy</Name>
+    <Spec>Fire Magic</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Realm Abilities</KeyName>
+    <Name>Realm Abilities</Name>
+    <Spec>Realm Abilities</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Rebirth</KeyName>
+    <Name>Rejuvenation</Name>
+    <Spec>Rejuvenation</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>10</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Rebirth (Cleric)</KeyName>
+    <Name>Rejuvenation</Name>
+    <Spec>Rejuvenation</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>6</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Refrigeration</KeyName>
+    <Name>Refrigeration</Name>
+    <Spec>Cold Magic</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>5</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Regrowth</KeyName>
+    <Name>Regrowth</Name>
+    <Spec>Regrowth</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Regrowth Bard Spec</KeyName>
+    <Name>Regrowth</Name>
+    <Spec>Regrowth</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>48</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Regrowth Druid Spec</KeyName>
+    <Name>Druid</Name>
+    <Spec>Regrowth</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>47</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Regrowth Warden Spec</KeyName>
+    <Name>Regrowth Warden Spec</Name>
+    <Spec>Regrowth</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>46</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Rejuvenation</KeyName>
+    <Name>Rejuvenation</Name>
+    <Spec>Rejuvenation</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Reserved Spells</KeyName>
+    <Name>Reserved Spells</Name>
+    <Spec>unknown</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Runecarving</KeyName>
+    <Name>Runecarving</Name>
+    <Spec>Runecarving</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Runes of Darkness</KeyName>
+    <Name>Runes of Darkness</Name>
+    <Spec>Darkness</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>29</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Runes of Destruction</KeyName>
+    <Name>Runes of Destruction</Name>
+    <Spec>Runecarving</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Runes of Suppression</KeyName>
+    <Name>Runes of Suppression</Name>
+    <Spec>Suppression</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>29</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>SappLifeDrain</KeyName>
+    <Name>SappLifeDrain</Name>
+    <Spec>SappLifeDrain</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Savagery</KeyName>
+    <Name>Savagery</Name>
+    <Spec>Savagery</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Shadow Control</KeyName>
+    <Name>Shadow Control</Name>
+    <Spec>Light</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>40</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Shadow Mastery</KeyName>
+    <Name>Shadow Mastery</Name>
+    <Spec>Shadow Mastery</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>ShadowbladeAbilities</KeyName>
+    <Name>Abilities</Name>
+    <Spec>unknown</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Shaman Augmentation Spec</KeyName>
+    <Name>Augmentation</Name>
+    <Spec>Augmentation</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>28</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Shaman Mend Spec</KeyName>
+    <Name>Mending</Name>
+    <Spec>Mending</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>28</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Smiting</KeyName>
+    <Name>Smite</Name>
+    <Spec>Smite</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Sojourner</KeyName>
+    <Name>Sojourner</Name>
+    <Spec>Sojourner</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Sorts des dieux</KeyName>
+    <Name>Sorts des dieux</Name>
+    <Spec>Sorts des dieux</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Soulrending</KeyName>
+    <Name>Soulrending</Name>
+    <Spec>Soulrending</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Spectral Force</KeyName>
+    <Name>Spectral Force</Name>
+    <Spec>Spectral Guard</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Spectral Guard</KeyName>
+    <Name>Spectral Guard</Name>
+    <Spec>Spectral Guard</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Spirit Animation</KeyName>
+    <Name>Spirit Animation</Name>
+    <Spec>Spirit Magic</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Spirit Dimming</KeyName>
+    <Name>Spirit Dimming</Name>
+    <Spec>Darkness</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>27</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Spirit Enhancement</KeyName>
+    <Name>Spirit Enhancement</Name>
+    <Spec>Summoning</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Spirit Suppression</KeyName>
+    <Name>Spirit Suppression</Name>
+    <Spec>Suppression</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>27</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>SpiritBladeturn</KeyName>
+    <Name>SpiritBladeturn</Name>
+    <Spec>SpiritBladeturn</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Spymaster</KeyName>
+    <Name>Spymaster</Name>
+    <Spec>Spymaster</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Stormcalling</KeyName>
+    <Name>Stormcalling</Name>
+    <Spec>Stormcalling</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Stormlord</KeyName>
+    <Name>Stormlord</Name>
+    <Spec>Stormlord</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Subterranean Incantations</KeyName>
+    <Name>Subterranean</Name>
+    <Spec>Subterranean</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Subterranean Spec</KeyName>
+    <Name>Subterranean</Name>
+    <Spec>Subterranean</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Summoning</KeyName>
+    <Name>Summoning</Name>
+    <Spec>Summoning</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Suppression</KeyName>
+    <Name>Suppression</Name>
+    <Spec>Suppression</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Telekinesis</KeyName>
+    <Name>Telekinesis</Name>
+    <Spec>Matter Magic</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>8</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Terrible Hammer</KeyName>
+    <Name>Smite</Name>
+    <Spec>Smite</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>UnderhillAllyHeal</KeyName>
+    <Name>UnderhillAllyHeal</Name>
+    <Spec>UnderhillAllyHeal</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>UnderhillCompanionDD</KeyName>
+    <Name>UnderhillCompanionDD</Name>
+    <Spec>UnderhillCompanionDD</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>UnderhillZealotDD</KeyName>
+    <Name>UnderhillZealotDD</Name>
+    <Spec>UnderhillZealotDD</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Vacuumancy</KeyName>
+    <Name>Vacuumancy</Name>
+    <Spec>Mana</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>40</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Valewalker Arb Path Spec</KeyName>
+    <Name>Aborial Mastery</Name>
+    <Spec>Arboreal Path</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>56</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Valewalker Arboreal Path Base</KeyName>
+    <Name>Arboreal Path</Name>
+    <Spec>Arboreal Path</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>56</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Valkyrie Mending Spec</KeyName>
+    <Name>Mending</Name>
+    <Spec>Mending</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>34</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Valor</KeyName>
+    <Name>Valor</Name>
+    <Spec>Valor</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Vampiiric Embrace</KeyName>
+    <Name>Vampiiric Embrace</Name>
+    <Spec>Vampiiric Embrace</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Vapormancy</KeyName>
+    <Name>Vapormancy</Name>
+    <Spec>Wind Magic</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Verdant Path</KeyName>
+    <Name>Verdant Path</Name>
+    <Spec>Verdant Path</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Verdant Path Pet</KeyName>
+    <Name>Verdant Path Pet</Name>
+    <Spec>Verdant Path Pet</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Verdant Path Spec</KeyName>
+    <Name>Verdant Mastery</Name>
+    <Spec>Verdant Path</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Verdant Path Spec Pet</KeyName>
+    <Name>Verdant Path Spec Pet</Name>
+    <Spec>Verdant Path Spec Pet</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Vivification</KeyName>
+    <Name>Vivification</Name>
+    <Spec>Spirit Magic</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Void Mastery</KeyName>
+    <Name>Void Mastery</Name>
+    <Spec>Void</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Warlord</KeyName>
+    <Name>Warlord</Name>
+    <Spec>Warlord</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Way of the Eclipse</KeyName>
+    <Name>Way of the Eclipse</Name>
+    <Spec>Void</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Way of the Moon</KeyName>
+    <Name>Way of the Moon</Name>
+    <Spec>Mana</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Way of the Sun</KeyName>
+    <Name>Way of the Sun</Name>
+    <Spec>Light</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Wintry</KeyName>
+    <Name>Wintry</Name>
+    <Spec>Wintry</Spec>
+    <IsBaseLine>true</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+  <DBSpellLine>
+    <LastTimeRowUpdated>2014-12-13T15:02:23.2462476Z</LastTimeRowUpdated>
+    <KeyName>Witchcraft</KeyName>
+    <Name>Witchcraft</Name>
+    <Spec>Witchcraft</Spec>
+    <IsBaseLine>false</IsBaseLine>
+    <ClassIDHint>0</ClassIDHint>
+  </DBSpellLine>
+</ArrayOfDBSpellLine>
