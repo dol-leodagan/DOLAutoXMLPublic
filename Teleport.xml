@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTeleport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type />
+    <TeleportID>Accept</TeleportID>
+    <Realm>1</Realm>
+    <RegionID>100</RegionID>
+    <X>759130</X>
+    <Y>700085</Y>
+    <Z>6366</Z>
+    <Heading>1486</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>DOL.GS.FrontierTeleporter</Type>
+    <TeleportID>Agramon</TeleportID>
+    <Realm>1</Realm>
+    <RegionID>163</RegionID>
+    <X>546877</X>
+    <Y>480723</Y>
+    <Z>9272</Z>
+    <Heading>3471</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>DOL.GS.FrontierTeleporter</Type>
+    <TeleportID>Agramon</TeleportID>
+    <Realm>3</Realm>
+    <RegionID>163</RegionID>
+    <X>505864</X>
+    <Y>478304</Y>
+    <Z>9135</Z>
+    <Heading>3948</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>DOL.GS.FrontierTeleporter</Type>
+    <TeleportID>Agramon</TeleportID>
+    <Realm>2</Realm>
+    <RegionID>163</RegionID>
+    <X>525422</X>
+    <Y>439601</Y>
+    <Z>9253</Z>
+    <Heading>1662</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>DOL.GS.FrontierTeleporter</Type>
+    <TeleportID>Albion Coast</TeleportID>
+    <Realm>1</Realm>
+    <RegionID>163</RegionID>
+    <X>563401</X>
+    <Y>505021</Y>
+    <Z>7879</Z>
+    <Heading>0</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>Albion Town Teleporter</Type>
+    <TeleportID>Albion Town</TeleportID>
+    <Realm>1</Realm>
+    <RegionID>163</RegionID>
+    <X>677193</X>
+    <Y>568367</Y>
+    <Z>8088</Z>
+    <Heading>3822</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>DR</Type>
+    <TeleportID>AlbThroneExit</TeleportID>
+    <Realm>1</Realm>
+    <RegionID>10</RegionID>
+    <X>32689</X>
+    <Y>24326</Y>
+    <Z>8447</Z>
+    <Heading>3080</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type />
+    <TeleportID>AlbThroneExit</TeleportID>
+    <Realm>2</Realm>
+    <RegionID>10</RegionID>
+    <X>32633</X>
+    <Y>24324</Y>
+    <Z>8447</Z>
+    <Heading>3079</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type />
+    <TeleportID>AlbThroneRoom</TeleportID>
+    <Realm>2</Realm>
+    <RegionID>394</RegionID>
+    <X>32328</X>
+    <Y>31795</Y>
+    <Z>15901</Z>
+    <Heading>17</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type />
+    <TeleportID>Avalon Marsh</TeleportID>
+    <Realm>1</Realm>
+    <RegionID>1</RegionID>
+    <X>462144</X>
+    <Y>633058</Y>
+    <Z>1739</Z>
+    <Heading>1769</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>Drizzle</Type>
+    <TeleportID>Camelot</TeleportID>
+    <Realm>1</Realm>
+    <RegionID>10</RegionID>
+    <X>36085</X>
+    <Y>31155</Y>
+    <Z>8002</Z>
+    <Heading>2994</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>Djinn</Type>
+    <TeleportID>Camelot</TeleportID>
+    <Realm>1</Realm>
+    <RegionID>10</RegionID>
+    <X>36213</X>
+    <Y>29881</Y>
+    <Z>7969</Z>
+    <Heading>47</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type />
+    <TeleportID>Camelot</TeleportID>
+    <Realm>1</Realm>
+    <RegionID>10</RegionID>
+    <X>36230</X>
+    <Y>29846</Y>
+    <Z>7970</Z>
+    <Heading>11</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>Alb Training Teleporter</Type>
+    <TeleportID>Camelot</TeleportID>
+    <Realm>1</Realm>
+    <RegionID>10</RegionID>
+    <X>33092</X>
+    <Y>24981</Y>
+    <Z>8447</Z>
+    <Heading>1482</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>Djinn</Type>
+    <TeleportID>Castle Sauvage</TeleportID>
+    <Realm>1</Realm>
+    <RegionID>1</RegionID>
+    <X>583668</X>
+    <Y>486493</Y>
+    <Z>2184</Z>
+    <Heading>3217</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type />
+    <TeleportID>Castle Sauvage</TeleportID>
+    <Realm>1</Realm>
+    <RegionID>1</RegionID>
+    <X>583913</X>
+    <Y>487012</Y>
+    <Z>2184</Z>
+    <Heading>2048</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>Teleporter</Type>
+    <TeleportID>Catterick Hamlet</TeleportID>
+    <Realm>1</Realm>
+    <RegionID>163</RegionID>
+    <X>677276</X>
+    <Y>568343</Y>
+    <Z>8088</Z>
+    <Heading>184</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>Teleporter</Type>
+    <TeleportID>Crair Treflan</TeleportID>
+    <Realm>1</Realm>
+    <RegionID>163</RegionID>
+    <X>373944</X>
+    <Y>572847</Y>
+    <Z>8040</Z>
+    <Heading>719</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>Hibernia NF Teleporter</Type>
+    <TeleportID>Cruachan Gorge</TeleportID>
+    <Realm>3</Realm>
+    <RegionID>163</RegionID>
+    <X>396557</X>
+    <Y>618469</Y>
+    <Z>9825</Z>
+    <Heading>1941</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type />
+    <TeleportID>Cruachan Gorge</TeleportID>
+    <Realm>3</Realm>
+    <RegionID>163</RegionID>
+    <X>395474</X>
+    <Y>618665</Y>
+    <Z>9816</Z>
+    <Heading>2616</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>Djinn</Type>
+    <TeleportID>Druim Cain</TeleportID>
+    <Realm>3</Realm>
+    <RegionID>200</RegionID>
+    <X>421156</X>
+    <Y>486429</Y>
+    <Z>1824</Z>
+    <Heading>2407</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type />
+    <TeleportID>Druim Cain</TeleportID>
+    <Realm>3</Realm>
+    <RegionID>200</RegionID>
+    <X>421264</X>
+    <Y>486315</Y>
+    <Z>1824</Z>
+    <Heading>2013</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>Djinn</Type>
+    <TeleportID>Druim Ligen</TeleportID>
+    <Realm>3</Realm>
+    <RegionID>200</RegionID>
+    <X>334435</X>
+    <Y>419941</Y>
+    <Z>5184</Z>
+    <Heading>184</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type />
+    <TeleportID>Druim Ligen</TeleportID>
+    <Realm>3</Realm>
+    <RegionID>200</RegionID>
+    <X>334342</X>
+    <Y>419994</Y>
+    <Z>5184</Z>
+    <Heading>2309</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type />
+    <TeleportID>Fintain</TeleportID>
+    <Realm>3</Realm>
+    <RegionID>27</RegionID>
+    <X>357012</X>
+    <Y>353642</Y>
+    <Z>5056</Z>
+    <Heading>1894</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type />
+    <TeleportID>Forest Sauvage</TeleportID>
+    <Realm>1</Realm>
+    <RegionID>163</RegionID>
+    <X>652700</X>
+    <Y>617189</Y>
+    <Z>9560</Z>
+    <Heading>2815</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>Teleporter</Type>
+    <TeleportID>Godrborg</TeleportID>
+    <Realm>1</Realm>
+    <RegionID>163</RegionID>
+    <X>597563</X>
+    <Y>304676</Y>
+    <Z>8088</Z>
+    <Heading>1606</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type />
+    <TeleportID>Gotar</TeleportID>
+    <Realm>2</Realm>
+    <RegionID>100</RegionID>
+    <X>771152</X>
+    <Y>836380</Y>
+    <Z>4624</Z>
+    <Heading>364</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type />
+    <TeleportID>Hafheim</TeleportID>
+    <Realm>2</Realm>
+    <RegionID>27</RegionID>
+    <X>226050</X>
+    <Y>223025</Y>
+    <Z>5056</Z>
+    <Heading>2146</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>Hibernia Town Teleporter</Type>
+    <TeleportID>Hibernia Town</TeleportID>
+    <Realm>3</Realm>
+    <RegionID>163</RegionID>
+    <X>373626</X>
+    <Y>572884</Y>
+    <Z>8040</Z>
+    <Heading>2189</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>DOL.GS.FrontierTeleporter</Type>
+    <TeleportID>Hibernian Coast</TeleportID>
+    <Realm>3</Realm>
+    <RegionID>163</RegionID>
+    <X>483487</X>
+    <Y>501098</Y>
+    <Z>7879</Z>
+    <Heading>0</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>DR</Type>
+    <TeleportID>HibThroneExit</TeleportID>
+    <Realm>1</Realm>
+    <RegionID>201</RegionID>
+    <X>33176</X>
+    <Y>32914</Y>
+    <Z>8008</Z>
+    <Heading>2048</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type />
+    <TeleportID>HibThroneExit</TeleportID>
+    <Realm>2</Realm>
+    <RegionID>201</RegionID>
+    <X>33180</X>
+    <Y>32939</Y>
+    <Z>8008</Z>
+    <Heading>2078</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type />
+    <TeleportID>HibThroneRoom</TeleportID>
+    <Realm>2</Realm>
+    <RegionID>395</RegionID>
+    <X>32329</X>
+    <Y>31779</Y>
+    <Z>15715</Z>
+    <Heading>12</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>svasud</Type>
+    <TeleportID>hillshire</TeleportID>
+    <Realm>1</Realm>
+    <RegionID>27</RegionID>
+    <X>95644</X>
+    <Y>101313</Y>
+    <Z>5340</Z>
+    <Heading>1024</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type />
+    <TeleportID>Holtham</TeleportID>
+    <Realm>1</Realm>
+    <RegionID>27</RegionID>
+    <X>94940</X>
+    <Y>91818</Y>
+    <Z>5024</Z>
+    <Heading>1803</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>Mid Training Teleporter</Type>
+    <TeleportID>Jordheim</TeleportID>
+    <Realm>1</Realm>
+    <RegionID>101</RegionID>
+    <X>31665</X>
+    <Y>27495</Y>
+    <Z>8800</Z>
+    <Heading>3077</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>Drizzle</Type>
+    <TeleportID>Jordheim</TeleportID>
+    <Realm>1</Realm>
+    <RegionID>101</RegionID>
+    <X>31871</X>
+    <Y>27878</Y>
+    <Z>8800</Z>
+    <Heading>244</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>Djinn</Type>
+    <TeleportID>Jordheim</TeleportID>
+    <Realm>2</Realm>
+    <RegionID>101</RegionID>
+    <X>31928</X>
+    <Y>27447</Y>
+    <Z>8800</Z>
+    <Heading>2218</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type />
+    <TeleportID>Jordheim</TeleportID>
+    <Realm>2</Realm>
+    <RegionID>101</RegionID>
+    <X>31986</X>
+    <Y>27564</Y>
+    <Z>8800</Z>
+    <Heading>2048</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>DOL.GS.FrontierTeleporter</Type>
+    <TeleportID>Midgard Coast</TeleportID>
+    <Realm>2</Realm>
+    <RegionID>163</RegionID>
+    <X>537800</X>
+    <Y>417585</Y>
+    <Z>7893</Z>
+    <Heading>0</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>Midgard Town Teleporter</Type>
+    <TeleportID>Midgard Town</TeleportID>
+    <Realm>2</Realm>
+    <RegionID>163</RegionID>
+    <X>597650</X>
+    <Y>304878</Y>
+    <Z>8088</Z>
+    <Heading>3151</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type />
+    <TeleportID>MidThroneExit</TeleportID>
+    <Realm>2</Realm>
+    <RegionID>101</RegionID>
+    <X>31752</X>
+    <Y>27053</Y>
+    <Z>8830</Z>
+    <Heading>27</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>DR</Type>
+    <TeleportID>MidThroneExit</TeleportID>
+    <Realm>1</Realm>
+    <RegionID>101</RegionID>
+    <X>31753</X>
+    <Y>27073</Y>
+    <Z>8830</Z>
+    <Heading>6</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type />
+    <TeleportID>MidThroneRoom</TeleportID>
+    <Realm>2</Realm>
+    <RegionID>360</RegionID>
+    <X>32331</X>
+    <Y>30410</Y>
+    <Z>15563</Z>
+    <Heading>3</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type />
+    <TeleportID>Shannon Estuary</TeleportID>
+    <Realm>3</Realm>
+    <RegionID>200</RegionID>
+    <X>309968</X>
+    <Y>645164</Y>
+    <Z>4848</Z>
+    <Heading>1137</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>Djinn</Type>
+    <TeleportID>Snowdonia Fortress</TeleportID>
+    <Realm>1</Realm>
+    <RegionID>1</RegionID>
+    <X>515959</X>
+    <Y>372539</Y>
+    <Z>8208</Z>
+    <Heading>3325</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type />
+    <TeleportID>Snowdonia Fortress</TeleportID>
+    <Realm>1</Realm>
+    <RegionID>1</RegionID>
+    <X>516801</X>
+    <Y>373238</Y>
+    <Z>8208</Z>
+    <Heading>1757</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>Cotswold Teleporter</Type>
+    <TeleportID>Sure</TeleportID>
+    <Realm>1</Realm>
+    <RegionID>1</RegionID>
+    <X>561015</X>
+    <Y>511367</Y>
+    <Z>2313</Z>
+    <Heading>697</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>Djinn</Type>
+    <TeleportID>Svasud Faste</TeleportID>
+    <Realm>2</Realm>
+    <RegionID>100</RegionID>
+    <X>765518</X>
+    <Y>673661</Y>
+    <Z>5736</Z>
+    <Heading>1671</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type />
+    <TeleportID>Svasud Faste</TeleportID>
+    <Realm>2</Realm>
+    <RegionID>100</RegionID>
+    <X>765694</X>
+    <Y>673509</Y>
+    <Z>5736</Z>
+    <Heading>1115</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>Djinn</Type>
+    <TeleportID>Tir na Nog</TeleportID>
+    <Realm>3</Realm>
+    <RegionID>201</RegionID>
+    <X>33198</X>
+    <Y>31407</Y>
+    <Z>8000</Z>
+    <Heading>2068</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>Drizzle</Type>
+    <TeleportID>Tir na Nog</TeleportID>
+    <Realm>1</Realm>
+    <RegionID>201</RegionID>
+    <X>30224</X>
+    <Y>32653</Y>
+    <Z>7919</Z>
+    <Heading>2717</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>Hib Training Teleporter</Type>
+    <TeleportID>Tir na Nog</TeleportID>
+    <Realm>1</Realm>
+    <RegionID>201</RegionID>
+    <X>32242</X>
+    <Y>32604</Y>
+    <Z>7998</Z>
+    <Heading>3049</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type />
+    <TeleportID>Tir na Nog</TeleportID>
+    <Realm>3</Realm>
+    <RegionID>201</RegionID>
+    <X>33415</X>
+    <Y>31336</Y>
+    <Z>7999</Z>
+    <Heading>2048</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>Midgard NF Teleporter</Type>
+    <TeleportID>Uppland</TeleportID>
+    <Realm>2</Realm>
+    <RegionID>163</RegionID>
+    <X>651761</X>
+    <Y>313723</Y>
+    <Z>9432</Z>
+    <Heading>1020</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type />
+    <TeleportID>Uppland</TeleportID>
+    <Realm>2</Realm>
+    <RegionID>163</RegionID>
+    <X>651611</X>
+    <Y>315012</Y>
+    <Z>9432</Z>
+    <Heading>1934</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>Hibernia NF Teleporter</Type>
+    <TeleportID>Valley of Bri Leith</TeleportID>
+    <Realm>3</Realm>
+    <RegionID>163</RegionID>
+    <X>432550</X>
+    <Y>680367</Y>
+    <Z>9752</Z>
+    <Heading>2480</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>Djinn</Type>
+    <TeleportID>Vindsaul Faste</TeleportID>
+    <Realm>2</Realm>
+    <RegionID>100</RegionID>
+    <X>704110</X>
+    <Y>738883</Y>
+    <Z>5704</Z>
+    <Heading>1845</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type />
+    <TeleportID>Vindsaul Faste</TeleportID>
+    <Realm>2</Realm>
+    <RegionID>100</RegionID>
+    <X>704829</X>
+    <Y>738364</Y>
+    <Z>5704</Z>
+    <Heading>773</Heading>
+  </Teleport>
+  <Teleport>
+    <LastTimeRowUpdated>2016-05-28T13:36:45.1290513Z</LastTimeRowUpdated>
+    <Type>Midgard NF Teleporter</Type>
+    <TeleportID>Yggdra Forest</TeleportID>
+    <Realm>2</Realm>
+    <RegionID>163</RegionID>
+    <X>715347</X>
+    <Y>364830</Y>
+    <Z>9432</Z>
+    <Heading>284</Heading>
+  </Teleport>
+</ArrayOfTeleport>

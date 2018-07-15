@@ -1,0 +1,1715 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDBSpecialization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5259596Z</LastTimeRowUpdated>
+    <KeyName>AcolyteCareer</KeyName>
+    <Name>Acolyte Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5259596Z</LastTimeRowUpdated>
+    <KeyName>AlbClothCasterCareer</KeyName>
+    <Name>Albion's Cloth Caster Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5259596Z</LastTimeRowUpdated>
+    <KeyName>Arboreal Path</KeyName>
+    <Name>Arboreal Path</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5259596Z</LastTimeRowUpdated>
+    <KeyName>Archery</KeyName>
+    <Name>Archery</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5259596Z</LastTimeRowUpdated>
+    <KeyName>ArmsmanCareer</KeyName>
+    <Name>Armsman Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5259596Z</LastTimeRowUpdated>
+    <KeyName>AssassinCareer</KeyName>
+    <Name>Assassin Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5259596Z</LastTimeRowUpdated>
+    <KeyName>Augmentation</KeyName>
+    <Name>Augmentation</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+    <Implementation>DOL.GS.LiveSpellHybridSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5259596Z</LastTimeRowUpdated>
+    <KeyName>Aura Manipulation</KeyName>
+    <Name>Aura Manipulation</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+    <Implementation>DOL.GS.LiveSpellHybridSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5259596Z</LastTimeRowUpdated>
+    <KeyName>Axe</KeyName>
+    <Name>Axe</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5259596Z</LastTimeRowUpdated>
+    <KeyName>Banelord</KeyName>
+    <Name>Master Level</Name>
+    <Icon>0</Icon>
+    <Description>Banelord's Master Level Skills</Description>
+    <Implementation>DOL.GS.LiveMasterLevelsSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5259596Z</LastTimeRowUpdated>
+    <KeyName>BardCareer</KeyName>
+    <Name>Bard Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5259596Z</LastTimeRowUpdated>
+    <KeyName>Battlemaster</KeyName>
+    <Name>Master Level</Name>
+    <Icon>0</Icon>
+    <Description>Battlemaster's Master Level Skills</Description>
+    <Implementation>DOL.GS.LiveMasterLevelsSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5259596Z</LastTimeRowUpdated>
+    <KeyName>Battlesongs</KeyName>
+    <Name>Battlesongs</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+    <Implementation>DOL.GS.LiveSpellHybridSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5259596Z</LastTimeRowUpdated>
+    <KeyName>Beastcraft</KeyName>
+    <Name>Beastcraft</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+    <Implementation>DOL.GS.LiveSpellHybridSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5259596Z</LastTimeRowUpdated>
+    <KeyName>BerserkerCareer</KeyName>
+    <Name>Berserker Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5259596Z</LastTimeRowUpdated>
+    <KeyName>BlademasterCareer</KeyName>
+    <Name>BlademasterCareer</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5259596Z</LastTimeRowUpdated>
+    <KeyName>Blades</KeyName>
+    <Name>Blades</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5259596Z</LastTimeRowUpdated>
+    <KeyName>Blunt</KeyName>
+    <Name>Blunt</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5259596Z</LastTimeRowUpdated>
+    <KeyName>Body Magic</KeyName>
+    <Name>Body Magic</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5259596Z</LastTimeRowUpdated>
+    <KeyName>Bone Army</KeyName>
+    <Name>Bone Army</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5259596Z</LastTimeRowUpdated>
+    <KeyName>Bows</KeyName>
+    <Name>Bow</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5259596Z</LastTimeRowUpdated>
+    <KeyName>Celtic Dual</KeyName>
+    <Name>Celtic Dual</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5259596Z</LastTimeRowUpdated>
+    <KeyName>Celtic Spear</KeyName>
+    <Name>Celtic Spear</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5259596Z</LastTimeRowUpdated>
+    <KeyName>Champion Abilities</KeyName>
+    <Name>Champion Abilities</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5259596Z</LastTimeRowUpdated>
+    <KeyName>Champion Acolyte 1</KeyName>
+    <Name>Champion Acolyte Abilities 1</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Acolyte 1</Description>
+    <Implementation>DOL.GS.LiveCLAcolyteSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5259596Z</LastTimeRowUpdated>
+    <KeyName>Champion Acolyte 2</KeyName>
+    <Name>Champion Acolyte Abilities 2</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Acolyte 2</Description>
+    <Implementation>DOL.GS.LiveCLAcolyteSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5259596Z</LastTimeRowUpdated>
+    <KeyName>Champion Acolyte 3</KeyName>
+    <Name>Champion Acolyte Abilities 3</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Acolyte 3</Description>
+    <Implementation>DOL.GS.LiveCLAcolyteSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5259596Z</LastTimeRowUpdated>
+    <KeyName>Champion Acolyte 4</KeyName>
+    <Name>Champion Acolyte Abilities 4</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Acolyte 4</Description>
+    <Implementation>DOL.GS.LiveCLAcolyteSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5259596Z</LastTimeRowUpdated>
+    <KeyName>Champion Albion Rogue 1</KeyName>
+    <Name>Champion Albion Rogue Abilities 1</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Albion Rogue 1</Description>
+    <Implementation>DOL.GS.LiveCLAlbionRogueSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5259596Z</LastTimeRowUpdated>
+    <KeyName>Champion Albion Rogue 2</KeyName>
+    <Name>Champion Albion Rogue Abilities 2</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Albion Rogue 2</Description>
+    <Implementation>DOL.GS.LiveCLAlbionRogueSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Albion Rogue 3</KeyName>
+    <Name>Champion Albion Rogue Abilities 3</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Albion Rogue 3</Description>
+    <Implementation>DOL.GS.LiveCLAlbionRogueSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Albion Rogue 4</KeyName>
+    <Name>Champion Albion Rogue Abilities 4</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Albion Rogue 4</Description>
+    <Implementation>DOL.GS.LiveCLAlbionRogueSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Disciple 1</KeyName>
+    <Name>Champion Disciple Abilities 1</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Disciple 1</Description>
+    <Implementation>DOL.GS.LiveCLDiscipleSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Disciple 2</KeyName>
+    <Name>Champion Disciple Abilities 2</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Disciple 2</Description>
+    <Implementation>DOL.GS.LiveCLDiscipleSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Disciple 3</KeyName>
+    <Name>Champion Disciple Abilities 3</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Disciple 3</Description>
+    <Implementation>DOL.GS.LiveCLDiscipleSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Disciple 4</KeyName>
+    <Name>Champion Disciple Abilities 4</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Disciple 4</Description>
+    <Implementation>DOL.GS.LiveCLDiscipleSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Elementalist 1</KeyName>
+    <Name>Champion Elementalist Abilities 1</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Elementalist 1</Description>
+    <Implementation>DOL.GS.LiveCLElementalistSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Elementalist 2</KeyName>
+    <Name>Champion Elementalist Abilities 2</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Elementalist 2</Description>
+    <Implementation>DOL.GS.LiveCLElementalistSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Elementalist 3</KeyName>
+    <Name>Champion Elementalist Abilities 3</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Elementalist 3</Description>
+    <Implementation>DOL.GS.LiveCLElementalistSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Elementalist 4</KeyName>
+    <Name>Champion Elementalist Abilities 4</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Elementalist 4</Description>
+    <Implementation>DOL.GS.LiveCLElementalistSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Fighter 1</KeyName>
+    <Name>Champion Fighter Abilities 1</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Fighter 1</Description>
+    <Implementation>DOL.GS.LiveCLFighterSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Fighter 2</KeyName>
+    <Name>Champion Fighter Abilities 2</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Fighter 2</Description>
+    <Implementation>DOL.GS.LiveCLFighterSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Fighter 3</KeyName>
+    <Name>Champion Fighter Abilities 3</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Fighter 3</Description>
+    <Implementation>DOL.GS.LiveCLFighterSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Fighter 4</KeyName>
+    <Name>Champion Fighter Abilities 4</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Fighter 4</Description>
+    <Implementation>DOL.GS.LiveCLFighterSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Forester 1</KeyName>
+    <Name>Champion Forester Abilities 1</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Forester 1</Description>
+    <Implementation>DOL.GS.LiveCLForesterSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Forester 2</KeyName>
+    <Name>Champion Forester Abilities 2</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Forester 2</Description>
+    <Implementation>DOL.GS.LiveCLForesterSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Forester 3</KeyName>
+    <Name>Champion Forester Abilities 3</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Forester 3</Description>
+    <Implementation>DOL.GS.LiveCLForesterSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Forester 4</KeyName>
+    <Name>Champion Forester Abilities 4</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Forester 4</Description>
+    <Implementation>DOL.GS.LiveCLForesterSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Guardian 1</KeyName>
+    <Name>Champion Guardian Abilities 1</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Guardian 1</Description>
+    <Implementation>DOL.GS.LiveCLGuardianSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Guardian 2</KeyName>
+    <Name>Champion Guardian Abilities 2</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Guardian 2</Description>
+    <Implementation>DOL.GS.LiveCLGuardianSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Guardian 3</KeyName>
+    <Name>Champion Guardian Abilities 3</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Guardian 3</Description>
+    <Implementation>DOL.GS.LiveCLGuardianSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Guardian 4</KeyName>
+    <Name>Champion Guardian Abilities 4</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Guardian 4</Description>
+    <Implementation>DOL.GS.LiveCLGuardianSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Level Albion</KeyName>
+    <Name>Champion Abilities</Name>
+    <Icon>0</Icon>
+    <Description>Champion Level Abilities and Skills.</Description>
+    <Implementation>DOL.GS.LiveChampionsSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Level Hibernia</KeyName>
+    <Name>Champion Abilities</Name>
+    <Icon>0</Icon>
+    <Description>Champion Level Abilities and Skills.</Description>
+    <Implementation>DOL.GS.LiveChampionsSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Level Midgard</KeyName>
+    <Name>Champion Abilities</Name>
+    <Icon>0</Icon>
+    <Description>Champion Level Abilities and Skills.</Description>
+    <Implementation>DOL.GS.LiveChampionsSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Mage 1</KeyName>
+    <Name>Champion Mage Abilities 1</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Mage 1</Description>
+    <Implementation>DOL.GS.LiveCLMageSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Mage 2</KeyName>
+    <Name>Champion Mage Abilities 2</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Mage 2</Description>
+    <Implementation>DOL.GS.LiveCLMageSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Mage 3</KeyName>
+    <Name>Champion Mage Abilities 3</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Mage 3</Description>
+    <Implementation>DOL.GS.LiveCLMageSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Mage 4</KeyName>
+    <Name>Champion Mage Abilities 4</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Mage 4</Description>
+    <Implementation>DOL.GS.LiveCLMageSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Magician 1</KeyName>
+    <Name>Champion Magician Abilities 1</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Magician 1</Description>
+    <Implementation>DOL.GS.LiveCLMagicianSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Magician 2</KeyName>
+    <Name>Champion Magician Abilities 2</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Magician 2</Description>
+    <Implementation>DOL.GS.LiveCLMagicianSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Magician 3</KeyName>
+    <Name>Champion Magician Abilities 3</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Magician 3</Description>
+    <Implementation>DOL.GS.LiveCLMagicianSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Magician 4</KeyName>
+    <Name>Champion Magician Abilities 4</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Magician 4</Description>
+    <Implementation>DOL.GS.LiveCLMagicianSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Magician 5</KeyName>
+    <Name>Champion Magician Abilities 5</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Magician 5</Description>
+    <Implementation>DOL.GS.LiveCLMagicianSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Midgard Rogue 1</KeyName>
+    <Name>Champion Midgard Rogue Abilities 1</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Midgard Rogue 1</Description>
+    <Implementation>DOL.GS.LiveCLMidgardRogueSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Midgard Rogue 2</KeyName>
+    <Name>Champion Midgard Rogue Abilities 2</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Midgard Rogue 2</Description>
+    <Implementation>DOL.GS.LiveCLMidgardRogueSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Midgard Rogue 3</KeyName>
+    <Name>Champion Midgard Rogue Abilities 3</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Midgard Rogue 3</Description>
+    <Implementation>DOL.GS.LiveCLMidgardRogueSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Midgard Rogue 4</KeyName>
+    <Name>Champion Midgard Rogue Abilities 4</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Midgard Rogue 4</Description>
+    <Implementation>DOL.GS.LiveCLMidgardRogueSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Mystic 1</KeyName>
+    <Name>Champion Mystic Abilities 1</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Mystic 1</Description>
+    <Implementation>DOL.GS.LiveCLMysticSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Mystic 2</KeyName>
+    <Name>Champion Mystic Abilities 2</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Mystic 2</Description>
+    <Implementation>DOL.GS.LiveCLMysticSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Mystic 3</KeyName>
+    <Name>Champion Mystic Abilities 3</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Mystic 3</Description>
+    <Implementation>DOL.GS.LiveCLMysticSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Mystic 4</KeyName>
+    <Name>Champion Mystic Abilities 4</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Mystic 4</Description>
+    <Implementation>DOL.GS.LiveCLMysticSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Mystic 5</KeyName>
+    <Name>Champion Mystic Abilities 5</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Mystic 5</Description>
+    <Implementation>DOL.GS.LiveCLMysticSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Naturalist 1</KeyName>
+    <Name>Champion Naturalist Abilities 1</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Naturalist 1</Description>
+    <Implementation>DOL.GS.LiveCLNaturalistSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Naturalist 2</KeyName>
+    <Name>Champion Naturalist Abilities 2</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Naturalist 2</Description>
+    <Implementation>DOL.GS.LiveCLNaturalistSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Naturalist 3</KeyName>
+    <Name>Champion Naturalist Abilities 3</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Naturalist 3</Description>
+    <Implementation>DOL.GS.LiveCLNaturalistSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Naturalist 4</KeyName>
+    <Name>Champion Naturalist Abilities 4</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Naturalist 4</Description>
+    <Implementation>DOL.GS.LiveCLNaturalistSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Seer 1</KeyName>
+    <Name>Champion Seer Abilities 1</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Seer 1</Description>
+    <Implementation>DOL.GS.LiveCLSeerSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Seer 2</KeyName>
+    <Name>Champion Seer Abilities 2</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Seer 2</Description>
+    <Implementation>DOL.GS.LiveCLSeerSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Seer 3</KeyName>
+    <Name>Champion Seer Abilities 3</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Seer 3</Description>
+    <Implementation>DOL.GS.LiveCLSeerSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Seer 4</KeyName>
+    <Name>Champion Seer Abilities 4</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Seer 4</Description>
+    <Implementation>DOL.GS.LiveCLSeerSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Seer 5</KeyName>
+    <Name>Champion Seer Abilities 5</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Seer 5</Description>
+    <Implementation>DOL.GS.LiveCLSeerSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Stalker 1</KeyName>
+    <Name>Champion Stalker Abilities 1</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Stalker 1</Description>
+    <Implementation>DOL.GS.LiveCLStalkerSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Stalker 2</KeyName>
+    <Name>Champion Stalker Abilities 2</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Stalker 2</Description>
+    <Implementation>DOL.GS.LiveCLStalkerSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Stalker 3</KeyName>
+    <Name>Champion Stalker Abilities 3</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Stalker 3</Description>
+    <Implementation>DOL.GS.LiveCLStalkerSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Stalker 4</KeyName>
+    <Name>Champion Stalker Abilities 4</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Stalker 4</Description>
+    <Implementation>DOL.GS.LiveCLStalkerSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Viking 1</KeyName>
+    <Name>Champion Viking Abilities 1</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Viking 1</Description>
+    <Implementation>DOL.GS.LiveCLVikingSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Viking 2</KeyName>
+    <Name>Champion Viking Abilities 2</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Viking 2</Description>
+    <Implementation>DOL.GS.LiveCLVikingSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Viking 3</KeyName>
+    <Name>Champion Viking Abilities 3</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Viking 3</Description>
+    <Implementation>DOL.GS.LiveCLVikingSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Champion Viking 4</KeyName>
+    <Name>Champion Viking Abilities 4</Name>
+    <Icon>0</Icon>
+    <Description>Subclassing Specialization Viking 4</Description>
+    <Implementation>DOL.GS.LiveCLVikingSpec</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>ChampionCareer</KeyName>
+    <Name>Champion's Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Chants</KeyName>
+    <Name>Chants</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+    <Implementation>DOL.GS.LiveSpellHybridSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>CharacterCareer</KeyName>
+    <Name>Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveWideCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>CharacterQuickcastUserCareer</KeyName>
+    <Name>Quickast User Base Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>CharacterStyleUserCareer</KeyName>
+    <Name>Base Character Style USer Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>ClericCareer</KeyName>
+    <Name>Cleric Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Cold Magic</KeyName>
+    <Name>Cold Magic</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Composite Bow</KeyName>
+    <Name>Composite Bow</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Convoker</KeyName>
+    <Name>Master Level</Name>
+    <Icon>0</Icon>
+    <Description>Convoker's Master Level Skills</Description>
+    <Implementation>DOL.GS.LiveMasterLevelsSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Creeping Path</KeyName>
+    <Name>Creeping Path</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Critical Strike</KeyName>
+    <Name>Critical Strike</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Crossbows</KeyName>
+    <Name>Crossbows</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Crush</KeyName>
+    <Name>Crush</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Cursing</KeyName>
+    <Name>Cursing</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Darkness</KeyName>
+    <Name>Darkness</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Death Servant</KeyName>
+    <Name>Death Servant</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Deathsight</KeyName>
+    <Name>Deathsight</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Dementia</KeyName>
+    <Name>Dementia</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>DruidCareer</KeyName>
+    <Name>Druid Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Dual Wield</KeyName>
+    <Name>Dual Wield</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Earth Magic</KeyName>
+    <Name>Earth Magic</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Enchantments</KeyName>
+    <Name>Enchantments</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Enhancement</KeyName>
+    <Name>Enhancement</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+    <Implementation>DOL.GS.LiveSpellHybridSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Envenom</KeyName>
+    <Name>Envenom</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+    <Implementation>DOL.GS.LiveAbilitySpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Ethereal Shriek</KeyName>
+    <Name>Ethereal Shriek</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>FighterCareer</KeyName>
+    <Name>Fighter Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Fire Magic</KeyName>
+    <Name>Fire Magic</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Fist Wraps</KeyName>
+    <Name>Fist Wraps</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Flexible</KeyName>
+    <Name>Flexible</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>FriarCareer</KeyName>
+    <Name>Friar Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>GuardianCareer</KeyName>
+    <Name>Guardian Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Hammer</KeyName>
+    <Name>Hammer</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Hand to Hand</KeyName>
+    <Name>Hand to Hand</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>HereticCareer</KeyName>
+    <Name>Heretic Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>HeroCareer</KeyName>
+    <Name>Hero Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Hexing</KeyName>
+    <Name>Hexing</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>HibClothCasterCareer</KeyName>
+    <Name>Hibernia's Cloth Caster Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>HunterCareer</KeyName>
+    <Name>Hunter Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>InfiltratorCareer</KeyName>
+    <Name>Infiltrator Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Instruments</KeyName>
+    <Name>Instruments</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+    <Implementation>DOL.GS.LiveSpellHybridSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Large Weapons</KeyName>
+    <Name>Large Weapons</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Left Axe</KeyName>
+    <Name>Left Axe</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Light</KeyName>
+    <Name>Light Magic</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>LightTankCareer</KeyName>
+    <Name>Light Tank Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Liquifaction</KeyName>
+    <Name>Liquifaction</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Longbows</KeyName>
+    <Name>Longbows</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Magnetism</KeyName>
+    <Name>Magnetism</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+    <Implementation>DOL.GS.LiveSpellHybridSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Mana</KeyName>
+    <Name>Mana Magic</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Matter Magic</KeyName>
+    <Name>Matter Magic</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Mauler Staff</KeyName>
+    <Name>Mauler Staff</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>MaulerAlbCareer</KeyName>
+    <Name>Albion's Mauler Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>MaulerCareer</KeyName>
+    <Name>Mauler Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>MaulerHibCareer</KeyName>
+    <Name>Hibernia's Mauler Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>MaulerMidCareer</KeyName>
+    <Name>Midgard's Mauler Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Mending</KeyName>
+    <Name>Mending</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+    <Implementation>DOL.GS.LiveSpellHybridSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Mentalism</KeyName>
+    <Name>Mentalism</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>MercenaryCareer</KeyName>
+    <Name>Mercenary Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>MidClothCasterCareer</KeyName>
+    <Name>Midgard's Cloth Caster Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>MidgardRogueCareer</KeyName>
+    <Name>Midgard's Rogue Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Mind Magic</KeyName>
+    <Name>Mind Magic</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>MinstrelCareer</KeyName>
+    <Name>Minstrel Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Mundane Poisons</KeyName>
+    <Name>Mundane Poisons</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Music</KeyName>
+    <Name>Music</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+    <Implementation>DOL.GS.LiveSpellHybridSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>NaturalistCareer</KeyName>
+    <Name>Naturalist Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Nature</KeyName>
+    <Name>Nature</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+    <Implementation>DOL.GS.LiveSpellHybridSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Nightshade Magic</KeyName>
+    <Name>Nightshade Magic</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>NightshadeCareer</KeyName>
+    <Name>Nightshade Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Nurture</KeyName>
+    <Name>Nurture</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+    <Implementation>DOL.GS.LiveSpellHybridSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Odin's Will</KeyName>
+    <Name>Odin's Will</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Pacification</KeyName>
+    <Name>Pacification</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+    <Implementation>DOL.GS.LiveSpellHybridSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Painworking</KeyName>
+    <Name>Painworking</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>PaladinCareer</KeyName>
+    <Name>Paladin Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Parry</KeyName>
+    <Name>Parry</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Pathfinding</KeyName>
+    <Name>Pathfinding</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+    <Implementation>DOL.GS.LiveSpellHybridSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Perfecter</KeyName>
+    <Name>Master Level</Name>
+    <Icon>0</Icon>
+    <Description>Perfecter's Master Level Skills</Description>
+    <Implementation>DOL.GS.LiveMasterLevelsSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Phantasmal Wail</KeyName>
+    <Name>Phantasmal Wail</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Piercing</KeyName>
+    <Name>Piercing</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Polearm</KeyName>
+    <Name>Polearm</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Power Strikes</KeyName>
+    <Name>Power Strikes</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+    <Implementation>DOL.GS.LiveSpellHybridSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>PureTankCareer</KeyName>
+    <Name>Pure Tank Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>RangerCareer</KeyName>
+    <Name>Ranger Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Realm Abilities</KeyName>
+    <Name>Realm Abilities</Name>
+    <Icon>0</Icon>
+    <Description>Abilities granted through Realm victories.</Description>
+    <Implementation>DOL.GS.LiveRealmAbilitiesSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>ReaverCareer</KeyName>
+    <Name>Reaver Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Recurve Bow</KeyName>
+    <Name>Recurve Bow</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Regrowth</KeyName>
+    <Name>Regrowth</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+    <Implementation>DOL.GS.LiveSpellHybridSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Rejuvenation</KeyName>
+    <Name>Rejuvenation</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+    <Implementation>DOL.GS.LiveSpellHybridSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>RogueCareer</KeyName>
+    <Name>Rogue Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Runecarving</KeyName>
+    <Name>Runecarving</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>SavageCareer</KeyName>
+    <Name>Savage Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Savagery</KeyName>
+    <Name>Savagery</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+    <Implementation>DOL.GS.LiveSpellHybridSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>ScoutCareer</KeyName>
+    <Name>Scout Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Scythe</KeyName>
+    <Name>Scythe</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>SeerCareer</KeyName>
+    <Name>Seer Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Shadow Mastery</KeyName>
+    <Name>Shadow Mastery</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>ShadowbladeCareer</KeyName>
+    <Name>Shadowblade Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Shields</KeyName>
+    <Name>Shield</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>SkaldCareer</KeyName>
+    <Name>Skald Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Slash</KeyName>
+    <Name>Slash</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Smite</KeyName>
+    <Name>Smite</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+    <Implementation>DOL.GS.LiveSpellHybridSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Sojourner</KeyName>
+    <Name>Master Level</Name>
+    <Icon>0</Icon>
+    <Description>Sojourner's Master Level Skills</Description>
+    <Implementation>DOL.GS.LiveMasterLevelsSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Soulrending</KeyName>
+    <Name>Soulrending</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+    <Implementation>DOL.GS.LiveSpellHybridSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Spear</KeyName>
+    <Name>Spear</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Spectral Force</KeyName>
+    <Name>Spectral Force</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Spectral Guard</KeyName>
+    <Name>Spectral Guard</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Spirit Magic</KeyName>
+    <Name>Spirit Magic</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Spymaster</KeyName>
+    <Name>Master Level</Name>
+    <Icon>0</Icon>
+    <Description>Spymaster's Master Level Skills</Description>
+    <Implementation>DOL.GS.LiveMasterLevelsSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Staff</KeyName>
+    <Name>Staff</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>StalkerCareer</KeyName>
+    <Name>Stalker Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Stealth</KeyName>
+    <Name>Stealth</Name>
+    <Icon>403</Icon>
+    <Description>no</Description>
+    <Implementation>DOL.GS.LiveSpellHybridSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Stormcalling</KeyName>
+    <Name>Stormcalling</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+    <Implementation>DOL.GS.LiveSpellHybridSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Stormlord</KeyName>
+    <Name>Master Level</Name>
+    <Icon>0</Icon>
+    <Description>Stormlord's Master Level Skills</Description>
+    <Implementation>DOL.GS.LiveMasterLevelsSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Subterranean</KeyName>
+    <Name>Subterranean</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+    <Implementation>DOL.GS.LiveSpellHybridSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Summoning</KeyName>
+    <Name>Summoning</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Suppression</KeyName>
+    <Name>Suppression</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Sword</KeyName>
+    <Name>Sword</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>ThaneCareer</KeyName>
+    <Name>Thane Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Thrown Weapons</KeyName>
+    <Name>Thrown Weapons</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Thrust</KeyName>
+    <Name>Thrust</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Two Handed</KeyName>
+    <Name>Two Handed</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>ValewalkerCareer</KeyName>
+    <Name>Valewalker Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>ValkyrieCareer</KeyName>
+    <Name>Valkyrie Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Valor</KeyName>
+    <Name>Valor</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+    <Implementation>DOL.GS.LiveSpellHybridSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>VampiirCareer</KeyName>
+    <Name>Vampiir Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Vampiiric Embrace</KeyName>
+    <Name>Vampiiric Embrace</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Verdant Path</KeyName>
+    <Name>Verdant Path</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>VikingCareer</KeyName>
+    <Name>Viking Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Void</KeyName>
+    <Name>Void Magic</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>War Magic</KeyName>
+    <Name>War Magic</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>WardenCareer</KeyName>
+    <Name>Warden Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Warlord</KeyName>
+    <Name>Master Level</Name>
+    <Icon>0</Icon>
+    <Description>Warlord's Master Level Skills</Description>
+    <Implementation>DOL.GS.LiveMasterLevelsSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>WarriorCareer</KeyName>
+    <Name>Warrior Career</Name>
+    <Icon>0</Icon>
+    <Description>no description</Description>
+    <Implementation>DOL.GS.LiveCareerSpecialization</Implementation>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Wind Magic</KeyName>
+    <Name>Wind Magic</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+  <DBSpecialization>
+    <LastTimeRowUpdated>2016-05-28T13:36:43.5269597Z</LastTimeRowUpdated>
+    <KeyName>Witchcraft</KeyName>
+    <Name>Witchcraft</Name>
+    <Icon>0</Icon>
+    <Description>no</Description>
+  </DBSpecialization>
+</ArrayOfDBSpecialization>

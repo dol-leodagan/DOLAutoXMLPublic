@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMobXAmbientBehaviour xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MobXAmbientBehaviour>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.6388517Z</LastTimeRowUpdated>
+    <Source>abomination</Source>
+    <Trigger>spawning</Trigger>
+    <Emote>0</Emote>
+    <Text>Hail, {controller}.As my summoner, you may target me and say Arawn to learn more about the abilities I possess.</Text>
+    <Chance>100</Chance>
+    <Voice />
+  </MobXAmbientBehaviour>
+  <MobXAmbientBehaviour>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.6388517Z</LastTimeRowUpdated>
+    <Source>Battler</Source>
+    <Trigger>killing</Trigger>
+    <Emote>0</Emote>
+    <Text>I eat players like you for breakfast!</Text>
+    <Chance>100</Chance>
+    <Voice />
+  </MobXAmbientBehaviour>
+  <MobXAmbientBehaviour>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.6388517Z</LastTimeRowUpdated>
+    <Source>Battler</Source>
+    <Trigger>killing</Trigger>
+    <Emote>0</Emote>
+    <Text>Why don't you get a rez so I can kill you again?</Text>
+    <Chance>100</Chance>
+    <Voice />
+  </MobXAmbientBehaviour>
+  <MobXAmbientBehaviour>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.6388517Z</LastTimeRowUpdated>
+    <Source>Battler</Source>
+    <Trigger>killing</Trigger>
+    <Emote>0</Emote>
+    <Text>You're making this way too easy for me.</Text>
+    <Chance>100</Chance>
+    <Voice />
+  </MobXAmbientBehaviour>
+  <MobXAmbientBehaviour>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.6388517Z</LastTimeRowUpdated>
+    <Source>Battler</Source>
+    <Trigger>killing</Trigger>
+    <Emote>0</Emote>
+    <Text>Are you even trying?</Text>
+    <Chance>100</Chance>
+    <Voice />
+  </MobXAmbientBehaviour>
+  <MobXAmbientBehaviour>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.6388517Z</LastTimeRowUpdated>
+    <Source>Battler</Source>
+    <Trigger>killing</Trigger>
+    <Emote>0</Emote>
+    <Text>Thanks, I really enjoyed that!</Text>
+    <Chance>100</Chance>
+    <Voice />
+  </MobXAmbientBehaviour>
+  <MobXAmbientBehaviour>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.6388517Z</LastTimeRowUpdated>
+    <Source>Battler</Source>
+    <Trigger>killing</Trigger>
+    <Emote>0</Emote>
+    <Text>You're too weak for me {targetname}!</Text>
+    <Chance>100</Chance>
+    <Voice />
+  </MobXAmbientBehaviour>
+  <MobXAmbientBehaviour>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.6388517Z</LastTimeRowUpdated>
+    <Source>dread commander</Source>
+    <Trigger>spawning</Trigger>
+    <Emote>0</Emote>
+    <Text>Hail, {controller}. As my summoner, you may target me and say Commander to learn more about the abilities I possess.</Text>
+    <Chance>100</Chance>
+    <Voice />
+  </MobXAmbientBehaviour>
+  <MobXAmbientBehaviour>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.6388517Z</LastTimeRowUpdated>
+    <Source>Inconnu Ghost</Source>
+    <Trigger>dieing</Trigger>
+    <Emote>0</Emote>
+    <Text>Arawn, I am home.</Text>
+    <Chance>100</Chance>
+    <Voice />
+  </MobXAmbientBehaviour>
+  <MobXAmbientBehaviour>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.6388517Z</LastTimeRowUpdated>
+    <Source>Loteth</Source>
+    <Trigger>dieing</Trigger>
+    <Emote>0</Emote>
+    <Text>Rest is all i seek. I welcome oblivion.</Text>
+    <Chance>100</Chance>
+    <Voice />
+  </MobXAmbientBehaviour>
+  <MobXAmbientBehaviour>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.6388517Z</LastTimeRowUpdated>
+    <Source>lumpshakoal</Source>
+    <Trigger>dieing</Trigger>
+    <Emote>0</Emote>
+    <Text> Here {targetname} have some coal!!!!</Text>
+    <Chance>100</Chance>
+    <Voice>b</Voice>
+  </MobXAmbientBehaviour>
+  <MobXAmbientBehaviour>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.6388517Z</LastTimeRowUpdated>
+    <Source>pet</Source>
+    <Trigger>dieing</Trigger>
+    <Emote>0</Emote>
+    <Text>HEAL HEAL FFS ! argh, too late !</Text>
+    <Chance>10</Chance>
+    <Voice>y</Voice>
+  </MobXAmbientBehaviour>
+  <MobXAmbientBehaviour>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.6388517Z</LastTimeRowUpdated>
+    <Source>pet</Source>
+    <Trigger>dieing</Trigger>
+    <Emote>0</Emote>
+    <Text>Next time i suggest you to ask Tolakram a patch !</Text>
+    <Chance>4</Chance>
+    <Voice />
+  </MobXAmbientBehaviour>
+  <MobXAmbientBehaviour>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.6388517Z</LastTimeRowUpdated>
+    <Source>pet</Source>
+    <Trigger>dieing</Trigger>
+    <Emote>0</Emote>
+    <Text>Ouch i get severely pwned :(</Text>
+    <Chance>4</Chance>
+    <Voice />
+  </MobXAmbientBehaviour>
+  <MobXAmbientBehaviour>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.6388517Z</LastTimeRowUpdated>
+    <Source>pet</Source>
+    <Trigger>dieing</Trigger>
+    <Emote>0</Emote>
+    <Text>I failed, Master. Forgive me, forgive my weakness...</Text>
+    <Chance>20</Chance>
+    <Voice />
+  </MobXAmbientBehaviour>
+  <MobXAmbientBehaviour>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.6388517Z</LastTimeRowUpdated>
+    <Source>pet</Source>
+    <Trigger>killing</Trigger>
+    <Emote>10</Emote>
+    <Text>Thanks to your powerful magic, we win !</Text>
+    <Chance>20</Chance>
+    <Voice />
+  </MobXAmbientBehaviour>
+  <MobXAmbientBehaviour>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.6388517Z</LastTimeRowUpdated>
+    <Source>pet</Source>
+    <Trigger>spawning</Trigger>
+    <Emote>0</Emote>
+    <Text>I'm glad to serve you, {controller}. For your pride and glory.</Text>
+    <Chance>10</Chance>
+    <Voice />
+  </MobXAmbientBehaviour>
+  <MobXAmbientBehaviour>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.6388517Z</LastTimeRowUpdated>
+    <Source>Realm Enhancement</Source>
+    <Trigger>interact</Trigger>
+    <Emote>0</Emote>
+    <Text>Hand me the proper token to receive your buffs.</Text>
+    <Chance>100</Chance>
+    <Voice />
+  </MobXAmbientBehaviour>
+  <MobXAmbientBehaviour>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.6388517Z</LastTimeRowUpdated>
+    <Source>Trenler</Source>
+    <Trigger>interact</Trigger>
+    <Emote>0</Emote>
+    <Text>These skills are all free. Talk to Deckard Cain to see what classes get custom skills.</Text>
+    <Chance>100</Chance>
+    <Voice />
+  </MobXAmbientBehaviour>
+</ArrayOfMobXAmbientBehaviour>

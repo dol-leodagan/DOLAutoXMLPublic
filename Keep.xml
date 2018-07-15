@@ -1,0 +1,3149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDBKeep xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1948835Z</LastTimeRowUpdated>
+    <KeepID>1</KeepID>
+    <Name>Albion Portal Keep</Name>
+    <Region>165</Region>
+    <X>583575</X>
+    <Y>584548</Y>
+    <Z>4896</Z>
+    <Heading>1988</Heading>
+    <Realm>1</Realm>
+    <Level>0</Level>
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>100</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1948835Z</LastTimeRowUpdated>
+    <KeepID>2</KeepID>
+    <Name>Midgard Portal Keep</Name>
+    <Region>165</Region>
+    <X>574386</X>
+    <Y>538221</Y>
+    <Z>4832</Z>
+    <Heading>571</Heading>
+    <Realm>2</Realm>
+    <Level>0</Level>
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>100</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1948835Z</LastTimeRowUpdated>
+    <KeepID>3</KeepID>
+    <Name>Hibernia Portal Keep</Name>
+    <Region>165</Region>
+    <X>536186</X>
+    <Y>584836</Y>
+    <Z>5800</Z>
+    <Heading>1791</Heading>
+    <Realm>3</Realm>
+    <Level>0</Level>
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>100</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>5</KeepID>
+    <Name>Dun Orseo</Name>
+    <Region>165</Region>
+    <X>585893</X>
+    <Y>557389</Y>
+    <Z>5672</Z>
+    <Heading>977</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>0</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>50</KeepID>
+    <Name>Caer Benowyc</Name>
+    <Region>163</Region>
+    <X>576312</X>
+    <Y>502235</Y>
+    <Z>8776</Z>
+    <Heading>270</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>2</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>2</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>2</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>1</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>51</KeepID>
+    <Name>Caer Berkstead</Name>
+    <Region>163</Region>
+    <X>608863</X>
+    <Y>511423</Y>
+    <Z>8852</Z>
+    <Heading>78</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>4</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>4</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>2</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>52</KeepID>
+    <Name>Caer Erasleigh</Name>
+    <Region>163</Region>
+    <X>571582</X>
+    <Y>548180</Y>
+    <Z>8232</Z>
+    <Heading>205</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>3</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>3</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>3</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>53</KeepID>
+    <Name>Caer Boldiam</Name>
+    <Region>163</Region>
+    <X>606865</X>
+    <Y>576030</Y>
+    <Z>8880</Z>
+    <Heading>0</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>4</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>4</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>4</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>54</KeepID>
+    <Name>Caer Sursbrooke</Name>
+    <Region>163</Region>
+    <X>582186</X>
+    <Y>601117</Y>
+    <Z>8496</Z>
+    <Heading>90</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>3</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>3</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>5</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>55</KeepID>
+    <Name>Caer Hurbury</Name>
+    <Region>163</Region>
+    <X>599604</X>
+    <Y>650643</Y>
+    <Z>8424</Z>
+    <Heading>110</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>5</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>5</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>7</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>56</KeepID>
+    <Name>Caer Renaris</Name>
+    <Region>163</Region>
+    <X>627175</X>
+    <Y>607498</Y>
+    <Z>8576</Z>
+    <Heading>15</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>5</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>5</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>6</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>75</KeepID>
+    <Name>Bledmeer Faste</Name>
+    <Region>163</Region>
+    <X>533519</X>
+    <Y>407488</Y>
+    <Z>8944</Z>
+    <Heading>0</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>2</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>2</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>2</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>1</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>76</KeepID>
+    <Name>Nottmoor Faste</Name>
+    <Region>163</Region>
+    <X>537641</X>
+    <Y>366545</Y>
+    <Z>8720</Z>
+    <Heading>0</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>3</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>3</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>2</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>77</KeepID>
+    <Name>Hlidskialf Faste</Name>
+    <Region>163</Region>
+    <X>640960</X>
+    <Y>410560</Y>
+    <Z>8424</Z>
+    <Heading>310</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>4</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>4</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>3</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>78</KeepID>
+    <Name>Blendrake Faste</Name>
+    <Region>163</Region>
+    <X>601166</X>
+    <Y>408636</Y>
+    <Z>8280</Z>
+    <Heading>0</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>3</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>3</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>5</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>79</KeepID>
+    <Name>Glenlock Faste</Name>
+    <Region>163</Region>
+    <X>609472</X>
+    <Y>376000</Y>
+    <Z>8904</Z>
+    <Heading>180</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>4</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>4</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>4</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>80</KeepID>
+    <Name>Fensalir Faste</Name>
+    <Region>163</Region>
+    <X>639744</X>
+    <Y>345600</Y>
+    <Z>8664</Z>
+    <Heading>270</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>5</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>5</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>6</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>81</KeepID>
+    <Name>Arvakr Faste</Name>
+    <Region>163</Region>
+    <X>685480</X>
+    <Y>389038</Y>
+    <Z>8696</Z>
+    <Heading>270</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>2</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>2</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>7</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>100</KeepID>
+    <Name>Dun Crauchon</Name>
+    <Region>163</Region>
+    <X>472315</X>
+    <Y>501225</Y>
+    <Z>8776</Z>
+    <Heading>11</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>2</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>2</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>2</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>1</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>101</KeepID>
+    <Name>Dun Crimthain</Name>
+    <Region>163</Region>
+    <X>444868</X>
+    <Y>507926</Y>
+    <Z>8752</Z>
+    <Heading>0</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>3</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>3</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>2</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>102</KeepID>
+    <Name>Dun Bolg</Name>
+    <Region>163</Region>
+    <X>475918</X>
+    <Y>543134</Y>
+    <Z>8232</Z>
+    <Heading>0</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>3</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>3</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>3</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>103</KeepID>
+    <Name>Dun nGed</Name>
+    <Region>163</Region>
+    <X>442055</X>
+    <Y>576866</Y>
+    <Z>8880</Z>
+    <Heading>180</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>4</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>4</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>4</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>104</KeepID>
+    <Name>Dun Da Behnn</Name>
+    <Region>163</Region>
+    <X>477933</X>
+    <Y>596314</Y>
+    <Z>8368</Z>
+    <Heading>180</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>4</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>4</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>5</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>105</KeepID>
+    <Name>Dun Scathaig</Name>
+    <Region>163</Region>
+    <X>448113</X>
+    <Y>666495</Y>
+    <Z>6720</Z>
+    <Heading>180</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>5</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>5</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>6</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>106</KeepID>
+    <Name>Dun Ailinne</Name>
+    <Region>163</Region>
+    <X>411649</X>
+    <Y>607307</Y>
+    <Z>8496</Z>
+    <Heading>0</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>5</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>5</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>7</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>125</KeepID>
+    <Name>Fort Brolorn</Name>
+    <Region>234</Region>
+    <X>557056</X>
+    <Y>557056</Y>
+    <Z>7808</Z>
+    <Heading>0</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>0</OriginalRealm>
+    <KeepType>8</KeepType>
+    <BaseLevel>4</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>126</KeepID>
+    <Name>Leonis Keep</Name>
+    <Region>235</Region>
+    <X>556749</X>
+    <Y>556948</Y>
+    <Z>7808</Z>
+    <Heading>0</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>0</OriginalRealm>
+    <KeepType>10</KeepType>
+    <BaseLevel>9</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>127</KeepID>
+    <Name>Caer Claret</Name>
+    <Region>236</Region>
+    <X>556693</X>
+    <Y>556958</Y>
+    <Z>8272</Z>
+    <Heading>0</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>0</OriginalRealm>
+    <KeepType>12</KeepType>
+    <BaseLevel>14</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>129</KeepID>
+    <Name>Thidranki Faste</Name>
+    <Region>238</Region>
+    <X>549619</X>
+    <Y>554387</Y>
+    <Z>4424</Z>
+    <Heading>345</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>0</OriginalRealm>
+    <KeepType>16</KeepType>
+    <BaseLevel>24</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>130</KeepID>
+    <Name>Dun Braemar</Name>
+    <Region>239</Region>
+    <X>552389</X>
+    <Y>558136</Y>
+    <Z>7272</Z>
+    <Heading>255</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>0</OriginalRealm>
+    <KeepType>18</KeepType>
+    <BaseLevel>29</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>131</KeepID>
+    <Name>Caer Wilton</Name>
+    <Region>240</Region>
+    <X>553616</X>
+    <Y>557282</Y>
+    <Z>7128</Z>
+    <Heading>180</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>0</OriginalRealm>
+    <KeepType>20</KeepType>
+    <BaseLevel>34</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>132</KeepID>
+    <Name>Molvik Faste</Name>
+    <Region>241</Region>
+    <X>557677</X>
+    <Y>551751</Y>
+    <Z>5896</Z>
+    <Heading>0</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>0</OriginalRealm>
+    <KeepType>22</KeepType>
+    <BaseLevel>39</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>134</KeepID>
+    <Name>Leirvik Castle</Name>
+    <Region>242</Region>
+    <X>294287</X>
+    <Y>295659</Y>
+    <Z>14281</Z>
+    <Heading>87</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>0</OriginalRealm>
+    <KeepType>28</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>138</KeepID>
+    <Name>Dun Killaloe</Name>
+    <Region>237</Region>
+    <X>557067</X>
+    <Y>556900</Y>
+    <Z>8768</Z>
+    <Heading>0</Heading>
+    <Realm>0</Realm>
+    <Level>0</Level>
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>0</OriginalRealm>
+    <KeepType>14</KeepType>
+    <BaseLevel>19</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>201</KeepID>
+    <Name>Albion Portal Keep</Name>
+    <Region>237</Region>
+    <X>544726</X>
+    <Y>582450</Y>
+    <Z>7700</Z>
+    <Heading>0</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>100</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>202</KeepID>
+    <Name>Midgard Portal keep</Name>
+    <Region>237</Region>
+    <X>584841</X>
+    <Y>559325</Y>
+    <Z>8288</Z>
+    <Heading>0</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>100</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>203</KeepID>
+    <Name>Hibernia Portal Keep</Name>
+    <Region>237</Region>
+    <X>534997</X>
+    <Y>537319</Y>
+    <Z>8000</Z>
+    <Heading>0</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>100</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>306</KeepID>
+    <Name>Caer Benowyc Guardtower</Name>
+    <Region>163</Region>
+    <X>580003</X>
+    <Y>505189</Y>
+    <Z>8780</Z>
+    <Heading>312</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>307</KeepID>
+    <Name>Caer Berkstead Guardtower</Name>
+    <Region>163</Region>
+    <X>603901</X>
+    <Y>510753</Y>
+    <Z>8728</Z>
+    <Heading>100</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>308</KeepID>
+    <Name>Caer Erasleigh Watchtower</Name>
+    <Region>163</Region>
+    <X>570464</X>
+    <Y>553695</Y>
+    <Z>8264</Z>
+    <Heading>20</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>309</KeepID>
+    <Name>Caer Boldiam Watchtower</Name>
+    <Region>163</Region>
+    <X>605614</X>
+    <Y>570845</Y>
+    <Z>8880</Z>
+    <Heading>154</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>310</KeepID>
+    <Name>Caer Sursbrooke Watchtower</Name>
+    <Region>163</Region>
+    <X>582573</X>
+    <Y>606934</Y>
+    <Z>8496</Z>
+    <Heading>2</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>311</KeepID>
+    <Name>Caer Hurbury Guardtower</Name>
+    <Region>163</Region>
+    <X>594620</X>
+    <Y>649146</Y>
+    <Z>8424</Z>
+    <Heading>112</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>312</KeepID>
+    <Name>Caer Renaris Guardtower</Name>
+    <Region>163</Region>
+    <X>624880</X>
+    <Y>612305</Y>
+    <Z>8576</Z>
+    <Heading>25</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>331</KeepID>
+    <Name>Bledmeer Faste Guardtower</Name>
+    <Region>163</Region>
+    <X>530276</X>
+    <Y>411344</Y>
+    <Z>8944</Z>
+    <Heading>45</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>332</KeepID>
+    <Name>Nottmoor Faste Watchtower</Name>
+    <Region>163</Region>
+    <X>542561</X>
+    <Y>365013</Y>
+    <Z>8720</Z>
+    <Heading>250</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>333</KeepID>
+    <Name>Hlidskialf Faste Guardtower</Name>
+    <Region>163</Region>
+    <X>644686</X>
+    <Y>415489</Y>
+    <Z>8424</Z>
+    <Heading>333</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>334</KeepID>
+    <Name>Blendrake Faste Watchtower</Name>
+    <Region>163</Region>
+    <X>595768</X>
+    <Y>407011</Y>
+    <Z>8280</Z>
+    <Heading>120</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>335</KeepID>
+    <Name>Glenlock Faste Guardtower</Name>
+    <Region>163</Region>
+    <X>608208</X>
+    <Y>370356</Y>
+    <Z>8880</Z>
+    <Heading>175</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>336</KeepID>
+    <Name>Fensalir Faste Guardtower</Name>
+    <Region>163</Region>
+    <X>645001</X>
+    <Y>346117</Y>
+    <Z>8664</Z>
+    <Heading>290</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>337</KeepID>
+    <Name>Arvakr Faste Guardtower</Name>
+    <Region>163</Region>
+    <X>691210</X>
+    <Y>389821</Y>
+    <Z>8696</Z>
+    <Heading>270</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>356</KeepID>
+    <Name>Dun Crauchon Guardtower</Name>
+    <Region>163</Region>
+    <X>476996</X>
+    <Y>498913</Y>
+    <Z>8776</Z>
+    <Heading>240</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>357</KeepID>
+    <Name>Dun Crimthain Watchtower</Name>
+    <Region>163</Region>
+    <X>439968</X>
+    <Y>507154</Y>
+    <Z>8752</Z>
+    <Heading>104</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>358</KeepID>
+    <Name>Dun Bolg Watchtower</Name>
+    <Region>163</Region>
+    <X>479448</X>
+    <Y>538894</Y>
+    <Z>8404</Z>
+    <Heading>210</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>359</KeepID>
+    <Name>Dun nGed Guardtower</Name>
+    <Region>163</Region>
+    <X>443029</X>
+    <Y>571813</Y>
+    <Z>8880</Z>
+    <Heading>205</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>360</KeepID>
+    <Name>Dun Da Behnn Watchtower</Name>
+    <Region>163</Region>
+    <X>472143</X>
+    <Y>596705</Y>
+    <Z>8368</Z>
+    <Heading>90</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>361</KeepID>
+    <Name>Dun Scathaig Watchtower</Name>
+    <Region>163</Region>
+    <X>443622</X>
+    <Y>669781</Y>
+    <Z>6720</Z>
+    <Heading>60</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>362</KeepID>
+    <Name>Dun Ailinne Guardtower</Name>
+    <Region>163</Region>
+    <X>412822</X>
+    <Y>612291</Y>
+    <Z>8496</Z>
+    <Heading>350</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>381</KeepID>
+    <Name>Albion Portal Keep</Name>
+    <Region>234</Region>
+    <X>573189</X>
+    <Y>549387</Y>
+    <Z>8640</Z>
+    <Heading>63</Heading>
+    <Realm>1</Realm>
+    <Level>0</Level>
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>100</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>382</KeepID>
+    <Name>Albion Portal Keep</Name>
+    <Region>235</Region>
+    <X>536467</X>
+    <Y>536600</Y>
+    <Z>5056</Z>
+    <Heading>300</Heading>
+    <Realm>1</Realm>
+    <Level>0</Level>
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>100</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>383</KeepID>
+    <Name>Albion Portal Keep</Name>
+    <Region>236</Region>
+    <X>541434</X>
+    <Y>577799</Y>
+    <Z>8008</Z>
+    <Heading>210</Heading>
+    <Realm>1</Realm>
+    <Level>0</Level>
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>100</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>385</KeepID>
+    <Name>Albion Portal Keep</Name>
+    <Region>238</Region>
+    <X>563575</X>
+    <Y>574212</Y>
+    <Z>5408</Z>
+    <Heading>180</Heading>
+    <Realm>1</Realm>
+    <Level>0</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>100</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>386</KeepID>
+    <Name>Albion Portal Keep</Name>
+    <Region>239</Region>
+    <X>554386</X>
+    <Y>585243</Y>
+    <Z>6952</Z>
+    <Heading>180</Heading>
+    <Realm>1</Realm>
+    <Level>0</Level>
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>100</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>387</KeepID>
+    <Name>Albion Portal Keep</Name>
+    <Region>240</Region>
+    <X>554521</X>
+    <Y>583899</Y>
+    <Z>6952</Z>
+    <Heading>180</Heading>
+    <Realm>1</Realm>
+    <Level>0</Level>
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>100</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>388</KeepID>
+    <Name>Albion Portal Keep</Name>
+    <Region>241</Region>
+    <X>531699</X>
+    <Y>542006</Y>
+    <Z>5992</Z>
+    <Heading>290</Heading>
+    <Realm>1</Realm>
+    <Level>0</Level>
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>100</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>390</KeepID>
+    <Name>Albion Portal Keep</Name>
+    <Region>242</Region>
+    <X>321868</X>
+    <Y>283864</Y>
+    <Z>10128</Z>
+    <Heading>65</Heading>
+    <Realm>1</Realm>
+    <Level>0</Level>
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>100</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>562</KeepID>
+    <Name>Caer Benowyc Watchtower</Name>
+    <Region>163</Region>
+    <X>572724</X>
+    <Y>498921</Y>
+    <Z>8776</Z>
+    <Heading>114</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>563</KeepID>
+    <Name>Caer Berkstead Watchtower</Name>
+    <Region>163</Region>
+    <X>613994</X>
+    <Y>512148</Y>
+    <Z>8753</Z>
+    <Heading>281</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>564</KeepID>
+    <Name>Caer Erasleigh Guardtower</Name>
+    <Region>163</Region>
+    <X>574881</X>
+    <Y>543820</Y>
+    <Z>8048</Z>
+    <Heading>225</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>565</KeepID>
+    <Name>Caer Boldiam Guardtower</Name>
+    <Region>163</Region>
+    <X>608348</X>
+    <Y>581017</Y>
+    <Z>8880</Z>
+    <Heading>350</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>566</KeepID>
+    <Name>Caer Sursbrooke Guardtower</Name>
+    <Region>163</Region>
+    <X>577836</X>
+    <Y>599190</Y>
+    <Z>8496</Z>
+    <Heading>140</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>567</KeepID>
+    <Name>Caer Hurbury Watchtower</Name>
+    <Region>163</Region>
+    <X>604949</X>
+    <Y>651534</Y>
+    <Z>8424</Z>
+    <Heading>280</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>568</KeepID>
+    <Name>Caer Renaris Watchtower</Name>
+    <Region>163</Region>
+    <X>627283</X>
+    <Y>601923</Y>
+    <Z>8576</Z>
+    <Heading>190</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>587</KeepID>
+    <Name>Bledmeer Faste Watchtower</Name>
+    <Region>163</Region>
+    <X>537773</X>
+    <Y>404330</Y>
+    <Z>8944</Z>
+    <Heading>240</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>588</KeepID>
+    <Name>Nottmoor Faste Guardtower</Name>
+    <Region>163</Region>
+    <X>535214</X>
+    <Y>371178</Y>
+    <Z>8720</Z>
+    <Heading>35</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>589</KeepID>
+    <Name>Hlidskialf Faste Watchtower</Name>
+    <Region>163</Region>
+    <X>644758</X>
+    <Y>407270</Y>
+    <Z>8424</Z>
+    <Heading>230</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>590</KeepID>
+    <Name>Blendrake Faste Guardtower</Name>
+    <Region>163</Region>
+    <X>603891</X>
+    <Y>413189</Y>
+    <Z>8280</Z>
+    <Heading>310</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>591</KeepID>
+    <Name>Glenlock Faste Watchtower</Name>
+    <Region>163</Region>
+    <X>604770</X>
+    <Y>379121</Y>
+    <Z>8882</Z>
+    <Heading>70</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>592</KeepID>
+    <Name>Fensalir Faste Watchtower</Name>
+    <Region>163</Region>
+    <X>633027</X>
+    <Y>345499</Y>
+    <Z>8664</Z>
+    <Heading>90</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>593</KeepID>
+    <Name>Arvakr Faste Watchtower</Name>
+    <Region>163</Region>
+    <X>682244</X>
+    <Y>392335</Y>
+    <Z>8696</Z>
+    <Heading>45</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>612</KeepID>
+    <Name>Dun Crauchon Watchtower</Name>
+    <Region>163</Region>
+    <X>469552</X>
+    <Y>505233</Y>
+    <Z>8776</Z>
+    <Heading>42</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>613</KeepID>
+    <Name>Dun Crimthain Guardtower</Name>
+    <Region>163</Region>
+    <X>448344</X>
+    <Y>511680</Y>
+    <Z>8760</Z>
+    <Heading>308</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>614</KeepID>
+    <Name>Dun Bolg Guardtower</Name>
+    <Region>163</Region>
+    <X>472939</X>
+    <Y>547426</Y>
+    <Z>8048</Z>
+    <Heading>50</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>615</KeepID>
+    <Name>Dun nGed Watchtower</Name>
+    <Region>163</Region>
+    <X>442924</X>
+    <Y>582028</Y>
+    <Z>8544</Z>
+    <Heading>0</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>616</KeepID>
+    <Name>Dun Da Behnn Guardtower</Name>
+    <Region>163</Region>
+    <X>481362</X>
+    <Y>592480</Y>
+    <Z>8368</Z>
+    <Heading>220</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>617</KeepID>
+    <Name>Dun Scathaig Guardtower</Name>
+    <Region>163</Region>
+    <X>446075</X>
+    <Y>661758</Y>
+    <Z>6720</Z>
+    <Heading>155</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>618</KeepID>
+    <Name>Dun Ailinne Watchtower</Name>
+    <Region>163</Region>
+    <X>406370</X>
+    <Y>607136</Y>
+    <Z>8496</Z>
+    <Heading>90</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>637</KeepID>
+    <Name>Midgard Portal Keep</Name>
+    <Region>234</Region>
+    <X>557159</X>
+    <Y>574661</Y>
+    <Z>8640</Z>
+    <Heading>180</Heading>
+    <Realm>2</Realm>
+    <Level>0</Level>
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>100</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>638</KeepID>
+    <Name>Midgard Portal Keep</Name>
+    <Region>235</Region>
+    <X>544467</X>
+    <Y>575832</Y>
+    <Z>5056</Z>
+    <Heading>208</Heading>
+    <Realm>2</Realm>
+    <Level>0</Level>
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>100</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>639</KeepID>
+    <Name>Midgard Portal Keep</Name>
+    <Region>236</Region>
+    <X>582626</X>
+    <Y>553398</Y>
+    <Z>8008</Z>
+    <Heading>90</Heading>
+    <Realm>2</Realm>
+    <Level>0</Level>
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>100</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>641</KeepID>
+    <Name>Midgard Portal Keep</Name>
+    <Region>238</Region>
+    <X>569953</X>
+    <Y>540622</Y>
+    <Z>5408</Z>
+    <Heading>0</Heading>
+    <Realm>2</Realm>
+    <Level>0</Level>
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>100</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>642</KeepID>
+    <Name>Midgard Portal Keep</Name>
+    <Region>239</Region>
+    <X>582092</X>
+    <Y>538427</Y>
+    <Z>6776</Z>
+    <Heading>90</Heading>
+    <Realm>2</Realm>
+    <Level>0</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>100</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>643</KeepID>
+    <Name>Midgard Portal Keep</Name>
+    <Region>240</Region>
+    <X>533631</X>
+    <Y>535174</Y>
+    <Z>6728</Z>
+    <Heading>315</Heading>
+    <Realm>2</Realm>
+    <Level>0</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>100</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>644</KeepID>
+    <Name>Midgard Portal Keep</Name>
+    <Region>241</Region>
+    <X>550401</X>
+    <Y>577364</Y>
+    <Z>5992</Z>
+    <Heading>180</Heading>
+    <Realm>2</Realm>
+    <Level>0</Level>
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>100</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>646</KeepID>
+    <Name>Midgard Portal Keep</Name>
+    <Region>242</Region>
+    <X>271949</X>
+    <Y>272798</Y>
+    <Z>10128</Z>
+    <Heading>0</Heading>
+    <Realm>2</Realm>
+    <Level>0</Level>
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>100</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>818</KeepID>
+    <Name>Caer Benowyc Outpost</Name>
+    <Region>163</Region>
+    <X>576684</X>
+    <Y>520606</Y>
+    <Z>9248</Z>
+    <Heading>337</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>819</KeepID>
+    <Name>Caer Berkstead Outpost</Name>
+    <Region>163</Region>
+    <X>612018</X>
+    <Y>530157</Y>
+    <Z>8056</Z>
+    <Heading>0</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>820</KeepID>
+    <Name>Caer Erasleigh Spire</Name>
+    <Region>163</Region>
+    <X>589727</X>
+    <Y>544078</Y>
+    <Z>8120</Z>
+    <Heading>250</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>821</KeepID>
+    <Name>Caer Boldiam Outpost</Name>
+    <Region>163</Region>
+    <X>586303</X>
+    <Y>560631</Y>
+    <Z>8032</Z>
+    <Heading>180</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>822</KeepID>
+    <Name>Caer Sursbrooke Outpost</Name>
+    <Region>163</Region>
+    <X>564056</X>
+    <Y>603082</Y>
+    <Z>8048</Z>
+    <Heading>83</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>823</KeepID>
+    <Name>Caer Hurbury Outpost</Name>
+    <Region>163</Region>
+    <X>580831</X>
+    <Y>642510</Y>
+    <Z>8088</Z>
+    <Heading>105</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>824</KeepID>
+    <Name>Caer Renaris Spire</Name>
+    <Region>163</Region>
+    <X>638768</X>
+    <Y>589896</Y>
+    <Z>8080</Z>
+    <Heading>232</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>843</KeepID>
+    <Name>Bledmeer Faste Outpost</Name>
+    <Region>163</Region>
+    <X>554914</X>
+    <Y>413666</Y>
+    <Z>8880</Z>
+    <Heading>280</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>844</KeepID>
+    <Name>Nottmoor Faste Outpost</Name>
+    <Region>163</Region>
+    <X>553688</X>
+    <Y>367392</Y>
+    <Z>8272</Z>
+    <Heading>280</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>845</KeepID>
+    <Name>Hlidskialf Faste Spire</Name>
+    <Region>163</Region>
+    <X>656515</X>
+    <Y>410732</Y>
+    <Z>8152</Z>
+    <Heading>240</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>846</KeepID>
+    <Name>Blendrake Faste Spire</Name>
+    <Region>163</Region>
+    <X>615221</X>
+    <Y>401761</Y>
+    <Z>8728</Z>
+    <Heading>180</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1958835Z</LastTimeRowUpdated>
+    <KeepID>847</KeepID>
+    <Name>Glenlock Faste Spire</Name>
+    <Region>163</Region>
+    <X>601530</X>
+    <Y>391202</Y>
+    <Z>9157</Z>
+    <Heading>0</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>848</KeepID>
+    <Name>Fensalir Faste Outpost</Name>
+    <Region>163</Region>
+    <X>645328</X>
+    <Y>330536</Y>
+    <Z>8248</Z>
+    <Heading>100</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>849</KeepID>
+    <Name>Arvakr Faste Outpost</Name>
+    <Region>163</Region>
+    <X>671137</X>
+    <Y>399406</Y>
+    <Z>8152</Z>
+    <Heading>65</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>868</KeepID>
+    <Name>Dun Crauchon Outpost</Name>
+    <Region>163</Region>
+    <X>469849</X>
+    <Y>520155</Y>
+    <Z>8128</Z>
+    <Heading>0</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>869</KeepID>
+    <Name>Dun Crimthain Outpost</Name>
+    <Region>163</Region>
+    <X>459428</X>
+    <Y>508922</Y>
+    <Z>8128</Z>
+    <Heading>250</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>870</KeepID>
+    <Name>Dun Bolg Outpost</Name>
+    <Region>163</Region>
+    <X>469868</X>
+    <Y>564835</Y>
+    <Z>8880</Z>
+    <Heading>0</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>871</KeepID>
+    <Name>Dun nGed Spire</Name>
+    <Region>163</Region>
+    <X>436163</X>
+    <Y>550660</Y>
+    <Z>8048</Z>
+    <Heading>86</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>872</KeepID>
+    <Name>Dun Da Behnn Spire</Name>
+    <Region>163</Region>
+    <X>480410</X>
+    <Y>576984</Y>
+    <Z>8384</Z>
+    <Heading>190</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>873</KeepID>
+    <Name>Dun Scathaig Spire</Name>
+    <Region>163</Region>
+    <X>463350</X>
+    <Y>659983</Y>
+    <Z>7960</Z>
+    <Heading>0</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>874</KeepID>
+    <Name>Dun Ailinne Outpost</Name>
+    <Region>163</Region>
+    <X>427142</X>
+    <Y>614361</Y>
+    <Z>8048</Z>
+    <Heading>0</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>893</KeepID>
+    <Name>Hibernia Portal Keep</Name>
+    <Region>234</Region>
+    <X>541023</X>
+    <Y>549746</Y>
+    <Z>8640</Z>
+    <Heading>295</Heading>
+    <Realm>3</Realm>
+    <Level>0</Level>
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>100</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>894</KeepID>
+    <Name>Hibernia Portal Keep</Name>
+    <Region>235</Region>
+    <X>579923</X>
+    <Y>554525</Y>
+    <Z>5056</Z>
+    <Heading>65</Heading>
+    <Realm>3</Realm>
+    <Level>0</Level>
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>100</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>895</KeepID>
+    <Name>Hibernia Portal Keep</Name>
+    <Region>236</Region>
+    <X>537984</X>
+    <Y>539654</Y>
+    <Z>8008</Z>
+    <Heading>315</Heading>
+    <Realm>3</Realm>
+    <Level>0</Level>
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>100</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>897</KeepID>
+    <Name>Hibernia Portal Keep</Name>
+    <Region>238</Region>
+    <X>533843</X>
+    <Y>534134</Y>
+    <Z>5408</Z>
+    <Heading>315</Heading>
+    <Realm>3</Realm>
+    <Level>0</Level>
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>100</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>898</KeepID>
+    <Name>Hibernia Portal Keep</Name>
+    <Region>239</Region>
+    <X>533268</X>
+    <Y>533874</Y>
+    <Z>6768</Z>
+    <Heading>300</Heading>
+    <Realm>3</Realm>
+    <Level>0</Level>
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>100</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>899</KeepID>
+    <Name>Hibernia Portal Keep</Name>
+    <Region>240</Region>
+    <X>580637</X>
+    <Y>538535</Y>
+    <Z>6736</Z>
+    <Heading>45</Heading>
+    <Realm>3</Realm>
+    <Level>0</Level>
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>100</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>900</KeepID>
+    <Name>Hibernia Portal Keep</Name>
+    <Region>241</Region>
+    <X>575915</X>
+    <Y>543437</Y>
+    <Z>5992</Z>
+    <Heading>75</Heading>
+    <Realm>3</Realm>
+    <Level>0</Level>
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>100</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>902</KeepID>
+    <Name>Hibernia Portal Keep</Name>
+    <Region>242</Region>
+    <X>280252</X>
+    <Y>319625</Y>
+    <Z>10128</Z>
+    <Heading>180</Heading>
+    <Realm>3</Realm>
+    <Level>0</Level>
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>100</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>1074</KeepID>
+    <Name>Caer Benowyc Spire</Name>
+    <Region>163</Region>
+    <X>593885</X>
+    <Y>499953</Y>
+    <Z>8896</Z>
+    <Heading>275</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>1075</KeepID>
+    <Name>Caer Berkstead Spire</Name>
+    <Region>163</Region>
+    <X>591126</X>
+    <Y>518217</Y>
+    <Z>8064</Z>
+    <Heading>149</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>1076</KeepID>
+    <Name>Caer Erasleigh Outpost</Name>
+    <Region>163</Region>
+    <X>582166</X>
+    <Y>532217</Y>
+    <Z>8048</Z>
+    <Heading>206</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>1077</KeepID>
+    <Name>Caer Boldiam Spire</Name>
+    <Region>163</Region>
+    <X>609786</X>
+    <Y>560185</Y>
+    <Z>8048</Z>
+    <Heading>180</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>1078</KeepID>
+    <Name>Caer Sursbrooke Spire</Name>
+    <Region>163</Region>
+    <X>591262</X>
+    <Y>583230</Y>
+    <Z>8010</Z>
+    <Heading>230</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>1079</KeepID>
+    <Name>Caer Hurbury Spire</Name>
+    <Region>163</Region>
+    <X>598208</X>
+    <Y>628922</Y>
+    <Z>9112</Z>
+    <Heading>173</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>1080</KeepID>
+    <Name>Caer Renaris Outpost</Name>
+    <Region>163</Region>
+    <X>611195</X>
+    <Y>609271</Y>
+    <Z>8720</Z>
+    <Heading>94</Heading>
+    <Realm>1</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>1099</KeepID>
+    <Name>Bledmeer Faste Spire</Name>
+    <Region>163</Region>
+    <X>532897</X>
+    <Y>392232</Y>
+    <Z>8888</Z>
+    <Heading>180</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>1100</KeepID>
+    <Name>Nottmoor Faste Spire</Name>
+    <Region>163</Region>
+    <X>549542</X>
+    <Y>376261</Y>
+    <Z>8648</Z>
+    <Heading>0</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>1101</KeepID>
+    <Name>Hlidskialf Faste Outpost</Name>
+    <Region>163</Region>
+    <X>624913</X>
+    <Y>396132</Y>
+    <Z>8008</Z>
+    <Heading>125</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>1102</KeepID>
+    <Name>Blendrake Faste Outpost</Name>
+    <Region>163</Region>
+    <X>582585</X>
+    <Y>412331</Y>
+    <Z>8680</Z>
+    <Heading>70</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>1103</KeepID>
+    <Name>Glenlock Faste Outpost</Name>
+    <Region>163</Region>
+    <X>592344</X>
+    <Y>366145</Y>
+    <Z>8280</Z>
+    <Heading>99</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>1104</KeepID>
+    <Name>Fensalir Faste Spire</Name>
+    <Region>163</Region>
+    <X>631736</X>
+    <Y>357955</Y>
+    <Z>8088</Z>
+    <Heading>40</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>1105</KeepID>
+    <Name>Arvakr Faste Spire</Name>
+    <Region>163</Region>
+    <X>667949</X>
+    <Y>379778</Y>
+    <Z>8080</Z>
+    <Heading>95</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>1124</KeepID>
+    <Name>Dun Crauchon Spire</Name>
+    <Region>163</Region>
+    <X>456558</X>
+    <Y>500413</Y>
+    <Z>8880</Z>
+    <Heading>90</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>1125</KeepID>
+    <Name>Dun Crimthain Spire</Name>
+    <Region>163</Region>
+    <X>430568</X>
+    <Y>507741</Y>
+    <Z>8752</Z>
+    <Heading>0</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>1126</KeepID>
+    <Name>Dun Bolg Spire</Name>
+    <Region>163</Region>
+    <X>459442</X>
+    <Y>544172</Y>
+    <Z>8102</Z>
+    <Heading>84</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>1127</KeepID>
+    <Name>Dun nGed Outpost</Name>
+    <Region>163</Region>
+    <X>453244</X>
+    <Y>583546</Y>
+    <Z>8048</Z>
+    <Heading>0</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>1128</KeepID>
+    <Name>Dun Da Behnn Outpost</Name>
+    <Region>163</Region>
+    <X>473894</X>
+    <Y>610593</Y>
+    <Z>9072</Z>
+    <Heading>14</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>1129</KeepID>
+    <Name>Dun Scathaig Outpost</Name>
+    <Region>163</Region>
+    <X>449302</X>
+    <Y>648544</Y>
+    <Z>8104</Z>
+    <Heading>177</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>1130</KeepID>
+    <Name>Dun Ailinne Spire</Name>
+    <Region>163</Region>
+    <X>393785</X>
+    <Y>603215</Y>
+    <Z>8096</Z>
+    <Heading>166</Heading>
+    <Realm>3</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>1156</KeepID>
+    <Name>Molvik Albion Tower</Name>
+    <Region>241</Region>
+    <X>546714</X>
+    <Y>549524</Y>
+    <Z>5368</Z>
+    <Heading>90</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>39</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>1158</KeepID>
+    <Name>Midgard Leirvik Tower</Name>
+    <Region>242</Region>
+    <X>282660</X>
+    <Y>294130</Y>
+    <Z>10920</Z>
+    <Heading>2898</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>1412</KeepID>
+    <Name>Molvik Midgard Tower</Name>
+    <Region>241</Region>
+    <X>554628</X>
+    <Y>564742</Y>
+    <Z>5440</Z>
+    <Heading>15</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>2</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>39</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>1414</KeepID>
+    <Name>Albion Leirvik Tower</Name>
+    <Region>242</Region>
+    <X>302305</X>
+    <Y>284920</Y>
+    <Z>11136</Z>
+    <Heading>121</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>1</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>1668</KeepID>
+    <Name>Molvik Hibernian Tower</Name>
+    <Region>241</Region>
+    <X>565590</X>
+    <Y>544849</Y>
+    <Z>5368</Z>
+    <Heading>230</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>39</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+  <DBKeep>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.1968836Z</LastTimeRowUpdated>
+    <KeepID>1670</KeepID>
+    <Name>Hibernia Leirvik Tower</Name>
+    <Region>242</Region>
+    <X>295728</X>
+    <Y>307441</Y>
+    <Z>11080</Z>
+    <Heading>1667</Heading>
+    <Realm>2</Realm>
+    <Level>4</Level>
+    <ClaimedGuildName />
+    <AlbionDifficultyLevel>1</AlbionDifficultyLevel>
+    <MidgardDifficultyLevel>1</MidgardDifficultyLevel>
+    <HiberniaDifficultyLevel>1</HiberniaDifficultyLevel>
+    <OriginalRealm>3</OriginalRealm>
+    <KeepType>0</KeepType>
+    <BaseLevel>50</BaseLevel>
+    <SkinType>0</SkinType>
+    <CreateInfo />
+  </DBKeep>
+</ArrayOfDBKeep>

@@ -1,0 +1,1635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDBFaction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>1</ID>
+    <Name>Applesnatchers</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>2</ID>
+    <Name>Barfog Renegade</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>3</ID>
+    <Name>Black Mountains Goblins</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>4</ID>
+    <Name>Boogys</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>5</ID>
+    <Name>Caer Caddug</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>6</ID>
+    <Name>Caldey Outpost</Name>
+    <BaseAggroLevel>30</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>7</ID>
+    <Name>Chaotic Constructs</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>8</ID>
+    <Name>Children of Orylie</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>9</ID>
+    <Name>Clan Drau'gyn</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>10</ID>
+    <Name>Clan Dry'ak</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>11</ID>
+    <Name>Clan Syhr'phint</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>12</ID>
+    <Name>Clan Vyr'em</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>13</ID>
+    <Name>Clan Wi'voron</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>14</ID>
+    <Name>Cornwall Farmers</Name>
+    <BaseAggroLevel>15</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>15</ID>
+    <Name>Coventina</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>16</ID>
+    <Name>Cyrptos Mythicos</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>17</ID>
+    <Name>Dartmoor Grove Guardians</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>18</ID>
+    <Name>Denizens of Llyn Barfog</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>19</ID>
+    <Name>Devwy Company</Name>
+    <BaseAggroLevel>0</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>20</ID>
+    <Name>Drakoran Legion</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>21</ID>
+    <Name>Duegar</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>22</ID>
+    <Name>Ellyllon</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>23</ID>
+    <Name>Envy Drakes</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>24</ID>
+    <Name>Epona</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>25</ID>
+    <Name>Followers of Arawn</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>26</ID>
+    <Name>Followers of Orylle</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>27</ID>
+    <Name>Forest Dryad</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>28</ID>
+    <Name>Forest Imps</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>29</ID>
+    <Name>Forest Pixies</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>30</ID>
+    <Name>Forest Thieves</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>31</ID>
+    <Name>Granite Giants of Dartmoor</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>32</ID>
+    <Name>Grimwood</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>33</ID>
+    <Name>Gwalchmai</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>34</ID>
+    <Name>Isolationists of Albion</Name>
+    <BaseAggroLevel>5</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>35</ID>
+    <Name>Keltoi</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>36</ID>
+    <Name>Knights Who Say 'Nee'</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>37</ID>
+    <Name>Kulaclan</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>38</ID>
+    <Name>Kutaca</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>39</ID>
+    <Name>Lacula Sept</Name>
+    <BaseAggroLevel>5</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>40</ID>
+    <Name>Lady Leana</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>41</ID>
+    <Name>Lord Osric</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>42</ID>
+    <Name>Marsh Trolls</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>43</ID>
+    <Name>Mist Hunters</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>44</ID>
+    <Name>Mountain Boogies</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>45</ID>
+    <Name>Mountain Fellwood</Name>
+    <BaseAggroLevel>30</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>46</ID>
+    <Name>Muryans</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>47</ID>
+    <Name>Nain Dwarves</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>48</ID>
+    <Name>Orchard Workers</Name>
+    <BaseAggroLevel>25</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>49</ID>
+    <Name>Picts</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>50</ID>
+    <Name>Pixie Urchins</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>51</ID>
+    <Name>Pobl y Traeth</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>52</ID>
+    <Name>Ravenclan</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>53</ID>
+    <Name>Red Dwarves</Name>
+    <BaseAggroLevel>15</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>54</ID>
+    <Name>Residents of Wearyall Hill</Name>
+    <BaseAggroLevel>0</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>55</ID>
+    <Name>Salisbury Undead</Name>
+    <BaseAggroLevel>50</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>56</ID>
+    <Name>Servants of Arawn</Name>
+    <BaseAggroLevel>50</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>57</ID>
+    <Name>Spirits of Ludlow</Name>
+    <BaseAggroLevel>25</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>58</ID>
+    <Name>Spirits of Rome</Name>
+    <BaseAggroLevel>40</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>59</ID>
+    <Name>Spriggarns</Name>
+    <BaseAggroLevel>40</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>60</ID>
+    <Name>Stonecrush Clan</Name>
+    <BaseAggroLevel>50</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>61</ID>
+    <Name>Sylvan Goblins</Name>
+    <BaseAggroLevel>50</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>62</ID>
+    <Name>Tylwyth Teg</Name>
+    <BaseAggroLevel>20</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>63</ID>
+    <Name>Undead</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>64</ID>
+    <Name>Undead Servants of Morgana</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>65</ID>
+    <Name>Ancient Grove</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>66</ID>
+    <Name>Angered</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>67</ID>
+    <Name>Banshees</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>68</ID>
+    <Name>Blackthorns</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>69</ID>
+    <Name>Botonids</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>70</ID>
+    <Name>Children of Cernunnos</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>71</ID>
+    <Name>Cliff Dwellers</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>72</ID>
+    <Name>Cluracan</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>73</ID>
+    <Name>Clurican</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>74</ID>
+    <Name>Cniogcrag</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>75</ID>
+    <Name>Crom Cruiach</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>76</ID>
+    <Name>Curmudgeons</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>77</ID>
+    <Name>Cursed</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>78</ID>
+    <Name>Draoi Dorcha</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>79</ID>
+    <Name>Empyreans</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>80</ID>
+    <Name>Essence Reflection</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>81</ID>
+    <Name>Faerie Court</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>82</ID>
+    <Name>Fomorian</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>83</ID>
+    <Name>Glimmer Spirits</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>84</ID>
+    <Name>Grazer</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>85</ID>
+    <Name>Grey Hunters</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>86</ID>
+    <Name>Guardians of the Blackthorn</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>87</ID>
+    <Name>Ixthiar Swarm</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>88</ID>
+    <Name>Koalinth</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>89</ID>
+    <Name>Krrzck</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>90</ID>
+    <Name>Land Sheeries</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>91</ID>
+    <Name>Land Stalkers</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>92</ID>
+    <Name>Leprechauns</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>93</ID>
+    <Name>Minions of Balor</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>94</ID>
+    <Name>Minions of Myrddraxis</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>95</ID>
+    <Name>Mountain Creig</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>96</ID>
+    <Name>Olcasgean</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>97</ID>
+    <Name>Order of the Azure</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>98</ID>
+    <Name>Outland Residents</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>99</ID>
+    <Name>Parthanan</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>100</ID>
+    <Name>Predators of Hy Brasil</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>101</ID>
+    <Name>Queen Medb</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>102</ID>
+    <Name>Rotting Root</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>103</ID>
+    <Name>Seelie Court</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>104</ID>
+    <Name>Selkies</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>105</ID>
+    <Name>Servitors of Myrddraxis</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>106</ID>
+    <Name>Shriller</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>107</ID>
+    <Name>Siabras</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>108</ID>
+    <Name>Soulkeepers</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>109</ID>
+    <Name>Suire</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>110</ID>
+    <Name>The Tree Dervishes</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>111</ID>
+    <Name>The Watcher</Name>
+    <BaseAggroLevel>10</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>112</ID>
+    <Name>Tree of Ages</Name>
+    <BaseAggroLevel>30</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>113</ID>
+    <Name>Unseelie Court</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>114</ID>
+    <Name>Water Sheeries</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>115</ID>
+    <Name>Z'zozicck Zhxizzckrrk</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>116</ID>
+    <Name>Arachite</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>117</ID>
+    <Name>Berklan Tribe</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>118</ID>
+    <Name>Blodfelag</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>119</ID>
+    <Name>Blood Reavers</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>120</ID>
+    <Name>Cats of Aegir</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>121</ID>
+    <Name>Chosen of Hel</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>122</ID>
+    <Name>Clan Smyg</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>123</ID>
+    <Name>Dark Pack</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>124</ID>
+    <Name>Dragonbane Svartalfar</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>125</ID>
+    <Name>Drowned Ones</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>126</ID>
+    <Name>Dryads</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>127</ID>
+    <Name>Dverge</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>128</ID>
+    <Name>Elements of the Caldera</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>129</ID>
+    <Name>Envydrake</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>130</ID>
+    <Name>Fauna of Aegir</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>131</ID>
+    <Name>Fenrir Pack</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>132</ID>
+    <Name>Fideals</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>133</ID>
+    <Name>Finfoot Goblins</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>134</ID>
+    <Name>Fire Ants</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>135</ID>
+    <Name>Fire Giants</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>136</ID>
+    <Name>Fire Wyrms</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>137</ID>
+    <Name>Folowers of Seithr</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>138</ID>
+    <Name>Frost Giants</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>139</ID>
+    <Name>Frozen Web</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>140</ID>
+    <Name>Glacier Harskaren</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>141</ID>
+    <Name>Gluttonous Gorgers</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>142</ID>
+    <Name>Guardians of Midgard</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>143</ID>
+    <Name>Hidden People</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>144</ID>
+    <Name>Hrimthursa</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>145</ID>
+    <Name>Iarnvidur</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>146</ID>
+    <Name>Klippa Vaktaren</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>147</ID>
+    <Name>Ljossalfar</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>148</ID>
+    <Name>Lost Souls</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>149</ID>
+    <Name>Mammoth Migration</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>150</ID>
+    <Name>Morvalt Samhalle</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>151</ID>
+    <Name>Musslaklan Tribe</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>152</ID>
+    <Name>Nacken</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>153</ID>
+    <Name>Obeboddoklan Tribe</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>154</ID>
+    <Name>Pack Drakulv</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>155</ID>
+    <Name>People of Dellingstad</Name>
+    <BaseAggroLevel>10</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>156</ID>
+    <Name>Plague of Aegir</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>157</ID>
+    <Name>Raukomaz</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>158</ID>
+    <Name>Sapherds</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>159</ID>
+    <Name>Servants of Iarnvidiur</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>160</ID>
+    <Name>Silvered</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>161</ID>
+    <Name>Sjoalf</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>162</ID>
+    <Name>Skalklan Tribe</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>163</ID>
+    <Name>Skogsra Shade Seekers</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>164</ID>
+    <Name>Snowshoe Bandits</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>165</ID>
+    <Name>Spirits of Midgard</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>166</ID>
+    <Name>Sprites</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>167</ID>
+    <Name>Svartalfar Outcasts</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>168</ID>
+    <Name>hill people</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>169</ID>
+    <Name>Swarm of Aegir</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>170</ID>
+    <Name>The Cinder Drakes</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>171</ID>
+    <Name>The Condemned</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>172</ID>
+    <Name>The Remnants</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>173</ID>
+    <Name>The Svartalfar</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>174</ID>
+    <Name>The Unsleeping</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>175</ID>
+    <Name>Tomte</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>176</ID>
+    <Name>Tradklan Tribe</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>177</ID>
+    <Name>Unbegotten</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>178</ID>
+    <Name>Varulv</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>179</ID>
+    <Name>Vendo</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>180</ID>
+    <Name>Vendo Cubs</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>181</ID>
+    <Name>Vind Ryttaren</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>182</ID>
+    <Name>Waiting Terror</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>183</ID>
+    <Name>Wildlings</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>184</ID>
+    <Name>Wolfaur</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>185</ID>
+    <Name>Woodwomen</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>186</ID>
+    <Name>Annoying Harpies</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>187</ID>
+    <Name>Awakened</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>188</ID>
+    <Name>Centaur</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>189</ID>
+    <Name>Chylses Tribe</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>190</ID>
+    <Name>Cyclops Hegeomai</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>191</ID>
+    <Name>Demon Lords</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>192</ID>
+    <Name>Destroyers</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>193</ID>
+    <Name>Devourer of Millions</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>194</ID>
+    <Name>Dragonslayers</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>195</ID>
+    <Name>Dragonsworn</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>196</ID>
+    <Name>Eleutheros Cyclopes</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>197</ID>
+    <Name>Fires of Hephaestus</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>198</ID>
+    <Name>Gaderians Citizens</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>199</ID>
+    <Name>Great Forge</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>200</ID>
+    <Name>Guardians of An-uat</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>201</ID>
+    <Name>Guardians of Paleognosis</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>202</ID>
+    <Name>Hermes</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>203</ID>
+    <Name>Iaculi</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>204</ID>
+    <Name>Infernalists</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>205</ID>
+    <Name>Ketos</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>206</ID>
+    <Name>Lords of the Undead</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>207</ID>
+    <Name>Mau of Bastet</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>208</ID>
+    <Name>Mau of Sekhmet</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>209</ID>
+    <Name>Melos Alliance</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>210</ID>
+    <Name>Nachelai Legion</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>211</ID>
+    <Name>Naxos Society</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>212</ID>
+    <Name>Necyomancers</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>213</ID>
+    <Name>People In The Image of Seth</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>214</ID>
+    <Name>Picculus Imps</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>215</ID>
+    <Name>Pride of Mesedsubastet</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>216</ID>
+    <Name>Protectors of Anubis</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>217</ID>
+    <Name>Redeemed Outlaws</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>218</ID>
+    <Name>Shaitan</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>219</ID>
+    <Name>Skyros Order</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>220</ID>
+    <Name>Sobekite Khu</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>221</ID>
+    <Name>Sobkite Khem</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>222</ID>
+    <Name>Summoner Deamons</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>223</ID>
+    <Name>Traldor</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>224</ID>
+    <Name>Volurgon of Vulcanus</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>225</ID>
+    <Name>bandits</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>226</ID>
+    <Name>barfog hobgoblins</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>227</ID>
+    <Name>bog men</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>228</ID>
+    <Name>Boggarts</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>229</ID>
+    <Name>bwgan</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>230</ID>
+    <Name>bwgan fishermen</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>231</ID>
+    <Name>bwgwl</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>232</ID>
+    <Name>Cait Sidhe</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>233</ID>
+    <Name>Cerridwen</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>234</ID>
+    <Name>dragon ants</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>235</ID>
+    <Name>druids of southern Albion</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>236</ID>
+    <Name>fellwoods</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>237</ID>
+    <Name>Green Witch</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>238</ID>
+    <Name>wood ogres</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>239</ID>
+    <Name>forest knights</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>240</ID>
+    <Name>undead knights</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>241</ID>
+    <Name>forest poachers</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>242</ID>
+    <Name>forest thieves</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>243</ID>
+    <Name>Free Saracens</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>244</ID>
+    <Name>Guagaran Spawn</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>245</ID>
+    <Name>gwr-drwgiaid</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>246</ID>
+    <Name>heretical hermit</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>247</ID>
+    <Name>Isle of Apples</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:41.9998723Z</LastTimeRowUpdated>
+    <ID>248</ID>
+    <Name>lesser demons</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.0008724Z</LastTimeRowUpdated>
+    <ID>249</ID>
+    <Name>Meical</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.0008724Z</LastTimeRowUpdated>
+    <ID>250</ID>
+    <Name>river sprites</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.0008724Z</LastTimeRowUpdated>
+    <ID>251</ID>
+    <Name>shadow hunters</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.0008724Z</LastTimeRowUpdated>
+    <ID>252</ID>
+    <Name>slave owners</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.0008724Z</LastTimeRowUpdated>
+    <ID>253</ID>
+    <Name>Slaver's Union</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.0008724Z</LastTimeRowUpdated>
+    <ID>254</ID>
+    <Name>Eye</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.0008724Z</LastTimeRowUpdated>
+    <ID>255</ID>
+    <Name>Necromancers</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.0008724Z</LastTimeRowUpdated>
+    <ID>256</ID>
+    <Name>sinach</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.0008724Z</LastTimeRowUpdated>
+    <ID>257</ID>
+    <Name>Duegar</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.0008724Z</LastTimeRowUpdated>
+    <ID>258</ID>
+    <Name>forest imps</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.0008724Z</LastTimeRowUpdated>
+    <ID>259</ID>
+    <Name>Unsleeping</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.0008724Z</LastTimeRowUpdated>
+    <ID>260</ID>
+    <Name>Winter Wretches </Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.0008724Z</LastTimeRowUpdated>
+    <ID>261</ID>
+    <Name>People in the Image of Seth</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.0008724Z</LastTimeRowUpdated>
+    <ID>262</ID>
+    <Name>Obeboddoklan tribe</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.0008724Z</LastTimeRowUpdated>
+    <ID>263</ID>
+    <Name>Sobekite Khem</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.0008724Z</LastTimeRowUpdated>
+    <ID>264</ID>
+    <Name>Bounty Hunters</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.0008724Z</LastTimeRowUpdated>
+    <ID>265</ID>
+    <Name>Pride of Mesedsubastet</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.0008724Z</LastTimeRowUpdated>
+    <ID>266</ID>
+    <Name>Protectors of Anubis</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.0008724Z</LastTimeRowUpdated>
+    <ID>267</ID>
+    <Name>Shaitan</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.0008724Z</LastTimeRowUpdated>
+    <ID>268</ID>
+    <Name>Skyros Order</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.0008724Z</LastTimeRowUpdated>
+    <ID>269</ID>
+    <Name>Sobekite Khu</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.0008724Z</LastTimeRowUpdated>
+    <ID>270</ID>
+    <Name>Sobkite Khem</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.0008724Z</LastTimeRowUpdated>
+    <ID>271</ID>
+    <Name>Traldor</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+  <DBFaction>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.0008724Z</LastTimeRowUpdated>
+    <ID>777</ID>
+    <Name>The Fallen</Name>
+    <BaseAggroLevel>100</BaseAggroLevel>
+  </DBFaction>
+</ArrayOfDBFaction>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfLootGenerator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LootGenerator>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.2608873Z</LastTimeRowUpdated>
+    <MobName />
+    <MobGuild />
+    <MobFaction />
+    <RegionID>0</RegionID>
+    <LootGeneratorClass>DOL.GS.LootGeneratorMoney</LootGeneratorClass>
+    <ExclusivePriority>0</ExclusivePriority>
+  </LootGenerator>
+  <LootGenerator>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.2608873Z</LastTimeRowUpdated>
+    <MobName />
+    <MobGuild />
+    <MobFaction />
+    <RegionID>0</RegionID>
+    <LootGeneratorClass>DOL.GS.LootGeneratorOneTimeDrop</LootGeneratorClass>
+    <ExclusivePriority>0</ExclusivePriority>
+  </LootGenerator>
+  <LootGenerator>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.2608873Z</LastTimeRowUpdated>
+    <MobName />
+    <MobGuild />
+    <MobFaction />
+    <RegionID>0</RegionID>
+    <LootGeneratorClass>DOL.GS.LootGeneratorScroll</LootGeneratorClass>
+    <ExclusivePriority>0</ExclusivePriority>
+  </LootGenerator>
+  <LootGenerator>
+    <LastTimeRowUpdated>2016-05-28T13:36:42.2608873Z</LastTimeRowUpdated>
+    <MobName />
+    <MobGuild />
+    <MobFaction />
+    <RegionID>0</RegionID>
+    <LootGeneratorClass>DOL.GS.LootGeneratorTemplate</LootGeneratorClass>
+    <ExclusivePriority>0</ExclusivePriority>
+  </LootGenerator>
+</ArrayOfLootGenerator>
